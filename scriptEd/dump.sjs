@@ -1,35 +1,35 @@
 $E=====0=====
 //「<EXTEND=0>のカギ」
 //を使った!!
-Utilisé la clé <EXTEND=0> !
+Used the <EXTEND=0> Key!
 $E=====1=====
 <PROC=0>
 <END>
 $E=====2=====
 //<EXTEND=0>色の扉(とびら)だ。
 //<MOJISE=MOJISE_SYSTEM>カギがかかっている。
-Une porte <EXTEND=0>.
-<MOJISE=MOJISE_SYSTEM>Vous avez besoin de la clé <EXTEND=0>.
+A <EXTEND=0> Door.
+<MOJISE=MOJISE_SYSTEM>You need the <EXTEND=0> Key.
 $E=====3=====
 <PROC=0>
 <END>
 $E=====4=====
 //緑
-Vert
+Green
 $E=====5=====
 //黄
-Jaune
+Yellow
 $E=====6=====
 //赤
-Rouge
+Red
 $E=====7=====
 //×
-Bleu
+Blue
 $E=====8=====
 //
 //<LABEL> 敵モンスターをすべて倒せ!!</LABEL>
 
-<LABEL>Détruisez tous les monstres ennemis !</LABEL>
+<LABEL>Defeat all enemy monsters!</LABEL>
 $E=====9=====
 <PROC=0>
 <END>
@@ -37,7 +37,7 @@ $E=====10=====
 //
 //<LABEL> 　見つからずに脱出せよ!!
 
-<LABEL> Échappez-vous sans être vu !</LABEL>
+<LABEL> Escape without being seen!</LABEL>
 $E=====11=====
 <PROC=0>
 <END>
@@ -45,24 +45,24 @@ $E=====12=====
 //
 //<LABEL> 3つの女神像を手に入れろ!!</LABEL>
 
-<LABEL>Obtenez les 3 statues de déesses !</LABEL>
+<LABEL>Get the 3 Goddess Statues!</LABEL>
 $E=====13=====
 <PROC=0>
 <END>
 $E=====14=====
 //ミッションを中止しますか?
 // <ALTER>はい</ALTER>　<ALTER>いいえ</ALTER>
-Abandonner la mission ?
- <ALTER>Oui</ALTER>  <ALTER>Non</ALTER>
+Abort Mission?
+ <ALTER>Yes</ALTER>  <ALTER>No</ALTER>
 $E=====15=====
 //宝箱を取れ!
-Ouvre le coffre au trésor !
+Open the treasure chest!
 $E=====16=====
 <PROC=0>
 <END>
 $E=====17=====
 //なんかしろ
-Fais quelque chose.
+Do something.
 $E=====18=====
 <PROC=0>
 <END>
@@ -70,7 +70,7 @@ $E=====19=====
 //
 //<LABEL>　　　鉄格子を開けろ!!</LABEL>
 
-<LABEL>    Ouvre la grille en fer !</LABEL>
+<LABEL>    Open the iron grate!</LABEL>
 $E=====20=====
 <PROC=0>
 <END>
@@ -78,7 +78,7 @@ $E=====21=====
 //
 //<LABEL>　[黄のカギ]を手に入れろ!!</LABEL>
 
-<LABEL>    Trouvez la clé jaune !</LABEL>
+<LABEL>    Find the Yellow Key!</LABEL>
 $E=====22=====
 <PROC=0>
 <END>
@@ -86,7 +86,7 @@ $E=====23=====
 //
 //　　　 カギ扉を開けろ
 
-Ouvre la porte verrouillée.
+    Open the locked door.
 $E=====24=====
 <PROC=0>
 <END>
@@ -94,7 +94,7 @@ $E=====25=====
 //
 //　 すべての宝箱を開けろ!!
 
- Ouvre tous les coffres au trésor !
+ Open all treasure chests!
 $E=====26=====
 <PROC=0>
 <END>
@@ -102,7 +102,7 @@ $E=====27=====
 //
 //スケルトンフェンサーを倒せ!!
 
-Détruisez le Skelette Escrimeur !
+Defeat the Skeleton Fencer!
 $E=====28=====
 <PROC=0>
 <END>
@@ -110,7 +110,7 @@ $E=====29=====
 //
 //　 太陽の根を元気にしろ!!
 
- Fais pousser les Racines Solaire !
+ Make the Solar Roots grow!
 $E=====30=====
 <PROC=0>
 <END>
@@ -118,7 +118,7 @@ $E=====31=====
 //
 //　[赤のカギ]を手に入れろ!!
 
- Trouvez la clé rouge !
+     Find the Red Key!
 $E=====32=====
 <PROC=0>
 <END>
@@ -126,20 +126,20 @@ $E=====33=====
 //
 //　　　　 壁を壊せ!!
 
-Détruit le mur !
+    Break down the wall!
 $E=====34=====
 <PROC=0>
 <END>
 $E=====35=====
 //ナントカカントカ!
-   Fais quelque chose ou autre !
+   Do something or other!
 $E=====36=====
 <PROC=0>
 <END>
 $E=====37=====
 //ナントカカントカパトローナム!
-   Fais quelque chose ou autre
-         Patronum !
+   Do something or other
+         Patronum!
 $E=====38=====
 <PROC=0>
 <END>
@@ -147,28 +147,28 @@ $E=====39=====
 //おじさん
 //「坊主(ぼうず)、こんなところ
 //で何をしている?
-Homme d'âge mûr :
-"Qu'est-ce que tu fais dans un 
-endroit comme celui-ci, gamin ?
+Middle-Aged Man:
+"What are you doing in a
+place like this, kid?
 $E=====40=====
 //この街はもうダメだ・・・
-Cette ville est foutue.
+This city's no good.
 $E=====41=====
 //闇の一族(イモータル)の放った
 //暗黒物質(ダークマター)により
-À cause de toute la matière
-sombre laissée par les 
-Immortels,
+Because of all the Dark
+Matter left behind by the
+Immortals,
 $E=====42=====
 //街全体が吸血変異(アンデッド
 //化)を起こし始めている
-toute la ville va bientôt être
-envahie par les morts-vivants.
+the entire city will soon be
+swarming with undead.
 $E=====43=====
 //命があるうちに、さっさとにげ
 //るんだ!」
-Tout être vivant ferait mieux de 
-se barrer vite fait !"
+Anything living had better
+get out fast!"
 $E=====44=====
 <PROC=0>
 <END>
@@ -176,37 +176,36 @@ $E=====45=====
 //おじさん
 //「まちがってもヤツらと戦おう
 //などと思うなよ?
-Homme d'âge mûr :
-"Si je ne me trompe pas, tu 
-comptes les combattre ?
+Middle-Aged Man:
+"If I'm not mistaken, you
+plan on fighting them?
 $E=====46=====
 //われわれ人間の力が、闇の一族
 //(イモータル)にかなうはずはな
 //い・・・
-Nous, humains, n'avons aucune 
-chance contre les Immortels.
+We humans can't hope to
+challenge the Immortals.
 $E=====47=====
 //しかもこの街をおそっているの
 //は、伯爵(はくしゃく)とかいう
-En plus, celui qui mène l'attaque 
-ici serait un certain Comte.
+Besides, the one leading the
+attack is called the Count.
 $E=====48=====
 //吸血鬼(ヴァンパイア)の君主(
 //ロード)らしいからな
-Il paraît qu'il est le Seigneur 
-des Vampires.
+He's the Lord of Vampires.
 $E=====49=====
 //組織(ギルド)のエージェントに
 //なったワタシの息子も、
-Mon fils, devenu agent de la 
-Guilde,
+My son, a Guild agent,
 $E=====50=====
 //その伯爵(はくしゃく)にたおさ
 //れたと聞く・・・
-aurait été tué par ce Comte...
+was killed by him...
 $E=====51=====
 //さあ、早く行くんだ!!」
-Allez, barre-toi vite !"
+Now hurry up and get out of
+here!"
 $E=====52=====
 <PROC=0>
 <END>
@@ -214,34 +213,35 @@ $E=====53=====
 //おじさん
 //「坊主(ぼうず)・・・
 //まだ、この街にいたのか?
-Vieux :
-"Hé, gamin...
-tu es revenu dans cette ville ?
+Old Man:
+"Hey, kid...
+you came back to this town?
 $E=====54=====
 //なぜかは分からんが、伯爵(は
 //くしゃく)が引き上げたらしい
-Je n'ai aucune idée pourquoi, mais 
-le Comte semble s'être retiré.
+I have no idea why, but the
+Count seems to have
+retreated.
 $E=====55=====
 //街にはまだ、魔物(モンスター)
 //どもが残っているが・・・
-Il reste encore des 
-monstres ici,
+There are still some
+monsters left,
 $E=====56=====
 //闇の一族(イモータル)さえいな
 //ければ、われわれ人間にもまだ
 //勝機はあるかもしれん
-mais si aucun Immortal n'est là, 
-nous, humains, avons peut-être une 
-chance de gagner après tout.
+but if there's no Immortal
+here, we humans may have a
+chance of winning after all.
 $E=====57=====
 //息子の愛したこの街を・・・
-Mon fils aimait cette ville...
+My son loved this town...
 $E=====58=====
 //このまましておくわけには、い
 //かんからな!」
-on ne peut pas laisser les choses 
-se passer comme ça !"
+we can't let things go on
+like this!"
 $E=====59=====
 <PROC=0>
 <END>
@@ -249,138 +249,143 @@ $E=====60=====
 //おじさん
 //「坊主(ぼうず)は聞いたことが
 //あるか?
-Vieux :
-"Tu l'as entendu, gamin ?
+Old Man:
+"Have you heard, kid?
 $E=====61=====
 //この街よりはるか西方の地にあ
 //らわれた闇の一族(イモータル)
 //の都、イストラカン・・・
-Bien à l'ouest de cette ville se 
-trouve la capitale des Immortels, 
-Istrakan...
+Far to the west of this town
+lies the capitol of the
+Immortals, Istrakan...
 $E=====62=====
 //その死の都にたった1人で乗り
 //こみ、闇の女王(クイーン)をた
 //おしたという戦士のことを?
-Ils disent qu'un Guerrier est allé 
-seul dans cette Cité de la Mort et 
-a vaincu la Reine.
+They say the Warrior went to
+that City of Death alone and
+defeated the Queen.
 $E=====63=====
 //息子が良く話していたよ・・・
-Mon fils m'en parlait souvent...
+My son told me all about
+it...
 $E=====64=====
 //[オレもその戦士のように強く
 //なって、この街を守るんだ!!]
 //とな
-"Je vais devenir aussi fort que ce 
-guerrier pour protéger notre ville !"
+'I'm going to become as
+strong as that warrior, so I
+can protect our town!'
 $E=====65=====
 //まさかその戦士がこの街にも?
-Est-ce que ce guerrier serait venu 
-ici aussi ?
+Could that warrior have come
+here too?
 $E=====66=====
 //もしそうだとしたら、
-Si c'est le cas,
+If that's what happened,
 $E=====67=====
 //街を守ろうとした息子の意思が
 //戦士よびよせてくれたのかもし
 //れんな・・・」
-peut-être que le désir de mon fils 
-de protéger cette ville l'a appelé 
-ici..."
+perhaps my son's desire to
+protect this town summoned
+him here..."
 $E=====68=====
 <PROC=0>
 <END>
 $E=====69=====
 //お姉さん
 //「あら、アナタは・・・
-Grande Fille :
-"Hé, toi...
+Older Girl:
+"Hey, you...
 $E=====70=====
 //見かけない顔ね。
 //もしかして、よその街から?
-Je n'ai jamais vu ton visage
-avant. Tu viens d'une autre
-ville ?
+I haven't seen your face
+before. Are you from another
+town?
 $E=====71=====
 //でも、こんなことになってしま
 //うなんて・・・
-Mais que les choses en arrivent
-là...
+But for things to end up
+like this...
 $E=====72=====
 //こわかったでしょう?
-Tu as dû avoir peur.
+you must have been scared.
 $E=====73=====
 //でも、もうだいじょうぶよ。
 //お姉さんがいっしょにいてあげ
 //るから、ね?」
-Mais maintenant, c'est bon. La
-grande sœur sera avec toi, d'accord ?"
+Well, you're safe now. Big
+sis will go with you, 'kay?"
 $E=====74=====
 <PROC=0>
 <END>
 $E=====75=====
 //お姉さん
 //「え?
-Grande Fille :
-"Eh ?
+Older Girl:
+"Ehhh?
 $E=====76=====
 //行くって、どこに!?
-Tu vas où !?
+You're going where!?
 $E=====77=====
 //ダメよ!!
 //外にはおそろしい魔物(モンス
 //ター)がいっぱいなのよ?
-Tu ne peux pas !
-Il y a plein de monstres
-terrifiants dehors !
+You can't!
+There are tons of terrible
+monsters out there!
 $E=====78=====
 //ここで大人しく待っていれば、
 //きっとお兄さまが助けに来てく
 //れるわ!
-Reste ici sagement et ton grand
-frère viendra sûrement à ton aide !
+Be a good boy and wait right
+here, and big bro will
+definitely come to help!
 $E=====79=====
 //お願いだから・・・
-S'il te plaît...
+Please...
 $E=====80=====
 //ねぇ、行かないで!!」
-ne pars pas !"
+don't go!"
 $E=====81=====
 <PROC=0>
 <END>
 $E=====82=====
 //お姉さん
 //「アナタ、無事だったのね!
-Grande Fille :
-"Toi, tu vas bien !
+Older Girl:
+"You! You're okay!
 $E=====83=====
 //良かった・・・本当に!!
-Quel soulagement... vraiment !
+Thank goodness... really!
 $E=====84=====
 //アナタのその、決意を秘(ひ)め
 //た瞳(ひとみ)を見ていると、お
 //兄さまを思い出すの
-Cette détermination dans tes yeux
-me rappelle mon grand frère.
+That determination in your
+eyes reminds me of my older
+brother.
 $E=====85=====
 //この街を守るために、エージェ
 //ントになると言って出て行った
 //お兄さま・・・
-Il est parti, disant qu'il deviendrait
-un Agent pour protéger la ville...
+He went off, saying he would
+become an Agent to protect
+the town...
 $E=====86=====
 //もしかしたら、この街をおそっ
 //ていた闇の一族(イモータル)を
 //追いはらったのは、
-Hmm, celui qui a chassé les
-Immortels d'ici...
+Hmm, the one who drove the
+Immortals away from here...
 $E=====87=====
 //お兄さまなのかも知れないわ!
-peut-être que c'était mon grand frère !
+maybe it was my big brother!
 $E=====88=====
 //ねぇ、アナタはどう思う?」
-Hé, qu'en penses-tu ?"
+Hey, What do you think?"
 $E=====89=====
 <PROC=0>
 <END>
@@ -388,61 +393,61 @@ $E=====90=====
 //お姉さん
 //「え?
 //もう行っちゃうの?
-Grande Fille :
-"Eh ?
-Tu pars déjà ?
+Older Girl:
+"Eh?
+You're leaving?
 $E=====91=====
 //そう、残念ね・・・
-Oh, c'est dommage...
+Oh, that's a shame...
 $E=====92=====
 //でも、またいつでも遊びに来て
 //ね?
-mais tu peux revenir jouer
-quand tu veux, d'accord ?
+but you can come to play
+whenever you want, 'kay?
 $E=====93=====
 //そのときまでにはきっと、お兄
 //さまも帰って来て・・・
-J'en suis sûre, mon frère sera
-de retour d'ici là...
+I'm sure my brother will be
+back by then...
 $E=====94=====
 //この街の魔物(モンスター)もい
 //なくなっているにちがいないわ
-et la ville sera sûrement
-libérée des monstres.
+and the town will surely be
+free of monsters.
 $E=====95=====
 //ああ、早く帰ってこないかしら
 //お兄さま!!」
-Oh, grand frère, ne pourrais-tu pas
-rentrer plus vite ?"
+Oh big brother, won't you
+hurry home?"
 $E=====96=====
 <PROC=0>
 <END>
 $E=====97=====
 //おばさん
 //「ああ、びっくりした!!
-Vieille Femme :
-"Ahh, tu m'as surprise !
+Old Woman:
+"Ahh, you surprised me!
 $E=====98=====
 //魔物(モンスター)が入って来た
 //のかと思ったわ・・・
-J'ai cru que c'était un
-monstre...
+I thought it was a
+monster...
 $E=====99=====
 //坊(ぼう)や、よくここまで来ら
 //れたわね
-Tu as bien fait d'arriver
-jusqu'ici, mon garçon.
+You did well in getting
+here, sonny.
 $E=====100=====
 //外は魔物(モンスター)だらけで
 //しょう?
-Ça doit grouiller de monstres
-dehors.
+It must be swarming with
+monsters out there.
 $E=====101=====
 //ああ、お嬢(じょう)さまだけで
 //も、何とかお助けできないかし
 //ら・・・」
-Oh, si seulement quelqu'un
-pouvait aider ma fille..."
+Oh, if only someone could
+help my daughter..."
 $E=====102=====
 <PROC=0>
 <END>
@@ -450,111 +455,117 @@ $E=====103=====
 //おばさん
 //「幸い、あのマミーとかいうア
 //ンデッドは、
-Vieille Femme :
-"Heureusement, avec ce type de
-mort-vivant comme les Momies,
+Old Woman:
+"Thankfully, when dealing
+with Mummy-type undead,
 $E=====104=====
 //物音を立てなければ、こちらに
 //は気がつかないみたいだから、
-il semble qu'ils ne nous remarquent
-pas tant qu'on ne fait pas de bruit.
+they don't seem to notice
+you as long as you don't
+make any noise.
 $E=====105=====
 //こうやって大人しくかくれてい
 //れば、おそわれることはないの
 //だけれど、
-Si on se cache tranquillement, on
-n'est pas attaqué,
+If you hide quietly, you
+won't get attacked,
 $E=====106=====
 //いつまでもこのままでいられる
 //わけでもないし・・・
-mais on ne peut pas rester comme ça
-éternellement...
+but you can't stay like that
+forever...
 $E=====107=====
 //ああ、お嬢(じょう)さまだけで
 //も、何とかお助けできないかし
 //ら・・・」
-Oh, si seulement quelqu'un
-pouvait aider ma fille..."
+Oh, if only someone could
+help my daughter..."
 $E=====108=====
 <PROC=0>
 <END>
 $E=====109=====
 //おばさん
 //「え?
-Vieille Femme :
-"Eh ?
+Old Woman:
+"Eh?
 $E=====110=====
 //もう、闇の一族(イモータル)は
 //いない?
-L'Immortal n'est plus là maintenant ?
+The Immortal is gone now?
 $E=====111=====
 //まあ、何ということでしょう!!
-Eh bien, je suis sidérée !
+Well, I'll be darned!
 $E=====112=====
 //それじゃあワタシたち、助かる
 //のね?
-Ça veut dire qu'on est tous sauvés ?
+That means we're all saved?
 $E=====113=====
 //ああ、良かった・・・
-Ahhh, quel soulagement...
+Ahhh, thank goodness...
 $E=====114=====
 //お坊(ぼっ)ちゃまに続いて、お
 //嬢(じょう)さまにまで何かあっ
 //たら、
-Après mon fils... si quelque chose
-arrivait à ma fille,
+After my son... if something
+happened to my daughter,
 $E=====115=====
 //亡くなられた奥(おく)さまに、
 //申しわけがたたないわ・・・
-je ne pourrais pas supporter ça...
+I couldn't bear it...
 $E=====116=====
 //知らせてくれてありがとうね。
 //坊(ぼう)やも気をつけて行くの
 //よ?」
-Merci de m'avoir apporté cette bonne
-nouvelle. Prends soin de toi, mon
-garçon."
+Thanks for the good news.
+You take care out there,
+sonny."
 $E=====117=====
 <PROC=0>
 <END>
 $E=====118=====
 //おばさん
 //「実はね・・・
-Vieille Femme :
-"La vérité, c'est que...
+Old Woman:
+"The truth is...
 $E=====119=====
 //お嬢(じょう)さまにはまだ、お
 //坊(ぼっ)ちゃまのことをお教え
 //してはいないの
-je n'ai toujours pas dit à la
-jeune maîtresse ce qui est arrivé
-à son frère.
+I still haven't told the
+young mistress about what
+happened to her brother.
 $E=====120=====
 //あんなに仲の良かった兄妹だも
 //の。どんなに悲しまれることか
 //・・・
-Ils étaient si proches, frère et sœur.
-Ça la briserait le cœur...
+They got along so well for
+siblings. It would just
+break her heart...
 $E=====121=====
 //でも、やっぱりいつかはお教え
 //しなくてはいけないのよね
-Mais je dois lui dire, un jour ou l'autre.
+But she needs to accept it,
+and move on.
 $E=====122=====
 //どんなに悲しくても、その死を
 //受け入れなくては・・・
-Peu importe combien c'est douloureux, 
-elle doit accepter sa mort...
+No matter how sad it is, if
+she doesn't accept the fact
+that he died...
 $E=====123=====
 //その死を乗りこえた上で、生き
 //て行かなければ・・・
-elle doit surmonter sa mort et
-continuer à vivre...
+she'll never get over it,
+and move on with her own
+life...
 $E=====124=====
 //それが大切な人だったとしたら
 //・・・
 //なおのことよね」
-d'autant plus qu'il était quelqu'un de
-cher pour elle, n'est-ce pas ?"
+She needs to do that...
+All the more because he was
+her dear brother, right?"
 $E=====125=====
 <PROC=0>
 <END>
@@ -562,34 +573,34 @@ $E=====126=====
 //お兄さん
 //「うわぁーーーーーーーーーー
 //ーーーーーーーーーーーーっ!!
-Jeune Homme :
-"Aaaaaaaahhhhhhhhhhhhhhh
-hhhhhhhhhhhhhhhhhhhhhhhhhh!
+Young Man:
+"Eeeeeeeeeeeeeeeeeeeeeeeeeee
+eeeeeeeeeeeeeeeeeeeeeeeeeek!
 $E=====127=====
 //・・・
 ...
 $E=====128=====
 //ああっ、すみません!
-Ahh, désolé !
+Ahh, sorry!
 $E=====129=====
 //つい魔物(モンスター)があらわ
 //れたのかと思って・・・
-J'ai cru qu'un monstre était
-apparu...
+I thought a monster had
+appeared...
 $E=====130=====
 //良く見たらただの男の子でした
 //・・・
-Je suis content que ce soit juste un
-garçon...
+I'm glad it was just a
+boy...
 $E=====131=====
 //ああっ、すみません!!
 //[ただの]だなんて!
-Ahh, désolé !
-Je ne voulais pas dire 'juste' !
+Ahh, sorry!
+I didn't mean 'just'!
 $E=====132=====
 //決して悪気があったわけではな
 //いんです!!」
-Je n'avais aucune mauvaise intention !"
+I wasn't trying to be rude!"
 $E=====133=====
 <PROC=0>
 <END>
@@ -597,42 +608,43 @@ $E=====134=====
 //お兄さん
 //「実は、娘(むすめ)をさがして
 //いるんです・・・
-Jeune Homme :
-"En fait, je cherche ma
-fille...
+Young Man:
+"Actually, I'm searching
+for my daughter...
 $E=====135=====
 //先ににがした妻(つま)が言うに
 //は、
-Au moment où les monstres
-sont apparus,
+At the time the monsters
+showed up,
 $E=====136=====
 //魔物(モンスター)があらわれた
 //とき、娘は(むすめ)はこの辺り
 //で遊んでいたはずなんです
-ma femme a dit que notre fille
-jouait par ici.
+my wife said our daughter
+was playing around here.
 $E=====137=====
 //それを聞いて、すぐにむかえに
 //来たのですが、
-Je suis venu la chercher dès
-que j'ai su,
+I came to pick her up as
+soon as I heard,
 $E=====138=====
 //いつの間にか、あんな鉄格子(
 //てつごうし)が・・・
-mais avant que je m'en rende compte, cette
-grille en fer...
+but before I knew it, that
+iron grate...
 $E=====139=====
 //ああっ!!
 //ワタシは・・・
 //ワタシは・・・
-Aah !
-Moi... Moi...
+Aah!
+I... I...
 $E=====140=====
 //どうしたらいいんだぁーーーー
 //ーーーーーーーーーーーーーー
 //ーーーーーーーーーーーーっ!!
-Que puis-je faire ????????
-??????????????????????
+What should I dooooooooooooo
+oooooooooooooooooooooooooooo
+ooooooooooooooooooooooooooo?
 $E=====141=====
 //・・・
 ...
@@ -640,40 +652,41 @@ $E=====142=====
 //ああっ、すみません!!
 //突然(とつぜん)大声でさけんだ
 //りして!
-Ahh, désolé ! Je n'avais pas l'intention de
-crier comme ça.
+Ahh, sorry! I didn't mean to
+start shouting all of a
+sudden.
 $E=====143=====
 //娘(むすめ)のことが心配で心配
 //で・・・
-Je suis tellement inquiet pour ma
-fille...
+I'm so worried about my
+daughter...
 $E=====144=====
 //自分でももう、どうしようもな
 //いんです!!」
-mais il n'y a rien que je puisse
-faire tout seul !"
+but there's nothing I can
+do by myself!"
 $E=====145=====
 <PROC=0>
 <END>
 $E=====146=====
 //お兄さん
 //「ああっ、アナタは・・・
-Jeune Homme :
-"Ahh, c'est vous...
+Young Man:
+"Ahh, you...
 $E=====147=====
 //もしかして、アナタがそこの鉄
 //格子(てつごうし)を開けてくれ
 //たんですか?
-c'est vous qui avez ouvert
-cette grille en fer ?
+were you the one who opened
+that iron grate?
 $E=====148=====
 //ありがとうございますっ!!
-Merci beaucoup !
+Thank you so much!
 $E=====149=====
 //これで娘(むすめ)をむかえに行
 //けます!」
-Maintenant, je peux aller chercher ma
-fille !"
+Now I can go get my
+daughter!"
 $E=====150=====
 <PROC=0>
 <END>
@@ -681,30 +694,30 @@ $E=====151=====
 //お兄さん
 //「ああっ、わが愛しの娘(むす
 //め)よっ!!
-Jeune Homme :
-"Ahh, ma précieuse fille !
+Young Man:
+"Ahh, my beloved daughter!
 $E=====152=====
 //今、お父さんがむかえに行くか
 //らな!」
-Papa vient te chercher maintenant !"
+Daddy's here for you now!"
 $E=====153=====
 <PROC=0>
 <END>
 $E=====154=====
 //お兄さん
 //「ああっ、アナタは・・・
-Jeune Homme :
-"Ahh, vous...
+Young Man:
+"Ahh, you...
 $E=====155=====
 //アナタのおかげで、こうして無
 //事、娘(むすめ)と再会すること
 //ができました!
-grâce à vous, j'ai pu retrouver ma
-fille saine et sauve !
+thanks to you, I was able
+to find my daughter safely!
 $E=====156=====
 //本当に、ありがとうございまし
 //た!!」
-Merci mille fois !"
+Thank you soooo much!"
 $E=====157=====
 <PROC=0>
 <END>
@@ -712,89 +725,90 @@ $E=====158=====
 //お兄さん
 //「娘(むすめ)からのプレゼント
 //は受け取ってもらえましたか?
-Jeune Homme :
-"Accepterez-vous le cadeau de ma
-fille ?
+Young Man:
+"Will you accept my
+daughter's gift?
 $E=====159=====
 //あんなに大切にしていたぬいぐ
 //るみをプレゼントするなんて、
-Elle veut vous offrir sa poupée en
-peluche qu'elle chérit tant.
+She wants to give you her
+precious stuffed doll.
 $E=====160=====
 //よっぽどアナタのことが気に入
 //ったんですね!
-Je pense qu'elle vous aime vraiment !
+I think she really likes
+you!
 $E=====161=====
 //・・・
 ...
 $E=====162=====
 //ああっ、ダメですよ!!
-Ah, non !
+Aah, no!
 $E=====163=====
 //娘(むすめ)はまだ、嫁(よめ)に
 //はやりませんからね!」
-Ma fille n'est pas encore prête à se
-marier !"
+My daughter isn't ready to
+be a bride just yet!"
 $E=====164=====
 <PROC=0>
 <END>
 $E=====165=====
 //おさげの女の子
 //「うぇ〜ん、え〜んっ!!
-Fille aux Tresses :
-"Waaaah, waaaah !"
+Girl with Braids:
+"Waaaah, waaaah!"
 $E=====166=====
 //ひっく・・・ぐすっ・・・」
-(hic)...(snif)..."
+(sniffle)...(sob)..."
 $E=====167=====
 <PROC=0>
 <END>
 $E=====168=====
 //おさげの女の子
 //「おかあさん・・・ひっく
-Fille aux Tresses :
-"Maman...(hic)
+Girl with Braids:
+"Mommy...(sniff)
 $E=====169=====
 //おとうさん・・・ぐすっ
-Papa...(snif)
+Daddy...(sob)
 $E=====170=====
 //うぇ〜ん、え〜んっ!!」
-Waaaah, waaaah !"
+Waaaah, waaaah!"
 $E=====171=====
 <PROC=0>
 <END>
 $E=====172=====
 //おさげの女の子
 //「あっ、おにいちゃん!!
-Fille aux Tresses :
-"Ah, c'est toi !
+Girl with Braids:
+"Ah, it's you!
 $E=====173=====
 //おとうさんがむかえにきてくれ
 //たよ!
-Papa est venu me chercher !
+Daddy came to pick me up!
 $E=====174=====
 //おにいちゃんがとおせんぼをな
 //くしてくれたの?
-C'est toi qui as dégagé le chemin ?
+You cleared the way?
 $E=====175=====
 //ありがとう、おにいちゃん!!
-Merci !
+Thanks!
 $E=====176=====
 //おれいに、わたしのだいじなも
 //のをあげるね?
-En retour, je vais te donner un de
-mes jouets préférés !
+I'll give you one of my
+favorite dolls in return!
 $E=====177=====
 //え〜とねぇ・・・
 //どのこにしようかな?
-Hmmm...
-Lequel ?
+Hmmm....
+which one?
 $E=====178=====
 //このこがいいかなぁ・・・
-Oui, celui-ci...
+Yeah, this one...
 $E=====179=====
 //はい、どうぞ!!」
-Tiens !"
+here you go!"
 $E=====180=====
 <PROC=0>
 <END>
@@ -802,7 +816,7 @@ $E=====181=====
 //「テルテルボーズ」
 //を手に入れた!!
 "Mr. Rainnot"
-obtenu !
+obtained!
 $E=====182=====
 <PROC=0>
 <END>
@@ -810,18 +824,18 @@ $E=====183=====
 //「ズーボルテルテ」
 //を手に入れた!!
 "tonniaR .rM"
-obtenu !
+obtained!
 $E=====184=====
 <PROC=0>
 <END>
 $E=====185=====
 //おさげの女の子
 //「とってもいいこなのよ?
-Fille aux Tresses :
-"Je suis une très bonne fille, hein ?
+Girl with Braids:
+"I'm a good girl, huh?
 $E=====186=====
 //なかよくしてあげてね{note}」
-Soyons amis, d'accord ?{note}"
+Let's be friends, kay?{note}"
 $E=====187=====
 <PROC=0>
 <END>
@@ -829,17 +843,19 @@ $E=====188=====
 //おさげの女の子
 //「これから、おかあさんをむか
 //えにいくんだ{note}
-Fille aux Tresses :
-"Maman va venir me chercher
-maintenant.{note}
+Girl with Braids:
+"Mommy's gonna pick me up
+from now on.{note}
 $E=====189=====
 //おかあさんはとってもきような
 //のよ?
-Elle est vraiment douée, non ?
+She's really skilled, isn't
+she?
 $E=====190=====
 //あのこたちをつくってくれたの
 //も、おかあさんなんだから!」
-C'est elle qui les a fabriqués !"
+She's the one who made
+these!"
 $E=====191=====
 <PROC=0>
 <END>
@@ -847,18 +863,18 @@ $E=====192=====
 //おさげの女の子
 //「あのこは、とってもさみしが
 //りやさんなの!
-Fille aux Tresses :
-"Celle-ci est vraiment solitaire !
+Girl with Braids:
+"This one is really lonely!
 $E=====193=====
 //まいにち、ぎゅ〜〜〜〜〜〜〜
 //〜〜〜〜〜〜〜〜〜〜〜〜〜〜
 //〜〜〜〜〜〜〜〜〜〜〜〜〜〜
-Veille à lui faire un gros
-uuuuuuuuuuuuuuuuuuuuuuuuuuu
-uuuuuuuuuuuuuuuuuuuuuuuug câlin,
+Make sure you give it a biii
+iiiiiiiiiiiiiiiiiiiiiiiiiiii
+iiiiiiiiiiiiiiiiiiiiiig hug,
 $E=====194=====
 //ってしてあげてね?」
-tous les jours, d'accord ?"
+every day, okay?"
 $E=====195=====
 <PROC=0>
 <END>
@@ -875,8 +891,8 @@ $E=====198=====
 //「・・・んがっ!!
 //もう食べられないよぅ・・・」
 <LABEL=TRINITY>Trinity</LABEL>:
-"...gah !
-Je ne peux plus rien avaler..."
+"...gah!
+I can't eat any more..."
 $E=====199=====
 <PROC=0>
 <END>
@@ -884,7 +900,7 @@ $E=====200=====
 //<LABEL=TRINITY>トリニティ</LABEL>
 //「なんかねぇのか?」
 <LABEL=TRINITY>Trinity</LABEL>:
-"Ce n'est pas ici ?"
+"Isn't it here?"
 $E=====201=====
 <PROC=0>
 <END>
@@ -893,17 +909,17 @@ $E=====202=====
 //「まちがいねぇ・・・
 //お宝(たから)はこの先だ
 <LABEL=TRINITY>Trinity</LABEL>:
-"Pas de doute...
-le trésor se trouve plus loin.
+"No doubt about it...
+there's treasure up ahead.
 $E=====203=====
 //うたがってんのか?
-Tu doutes de moi ?
+You doubtin' me?
 $E=====204=====
 //こう見えてもオイラの嗅覚(き
 //ゅうかく)は、ハウンドよりす
 //るどいんだぜ?」
-Regarde bien, mon odorat est
-mieux que celui d'un Chien de chasse !"
+Just watch, my nose is
+sharper than a Hound's!"
 $E=====205=====
 <PROC=0>
 <END>
@@ -912,8 +928,8 @@ $E=====206=====
 //「何が出ようと、うらみっこな
 //しだぜ?」
 <LABEL=TRINITY>Trinity</LABEL>:
-"Pas de rancune si quelque chose 
-apparaît, d'accord ?"
+"No hard feelings when
+something shows up, right?"
 $E=====207=====
 <PROC=0>
 <END>
@@ -921,7 +937,7 @@ $E=====208=====
 //<LABEL=TRINITY>トリニティ</LABEL>
 //「早く選べよ?」
 <LABEL=TRINITY>Trinity</LABEL>:
-"Choisis vite."
+"Hurry up and pick."
 $E=====209=====
 <PROC=0>
 <END>{00}{00}{00}
@@ -947,45 +963,45 @@ $E=====213=====
 <END>
 $E=====214=====
 //鍛冶回数　　　<VAR=0>
-Forgé        <VAR=0> fois
+Forged        <VAR=0> times
 $E=====215=====
 <PROC=0>
 <END>
 $E=====216=====
 //一人用回数　　　<VAR=0>
 //対戦回数　　　　<VAR=1>
-Partie solo   <VAR=0> fois
-Combat en moto   <VAR=1> fois
+Single Play   <VAR=0> times
+Bike Battle   <VAR=1> times
 $E=====217=====
 <PROC=0>
 <END>
 $E=====218=====
 //クロスオーバー　<VAR=0>
-Crossover     <VAR=0> fois
+Crossover     <VAR=0> times
 $E=====219=====
 <PROC=0>
 <END>
 $E=====220=====
 //エネルギー　　　<VAR=0>
-Énergie        <VAR=0>
+Energy        <VAR=0>
 $E=====221=====
 <PROC=0>
 <END>
 $E=====222=====
 //エンディング回数　　<VAR=0>
-Nombre de fins  <VAR=0>
+Ending Count  <VAR=0>
 $E=====223=====
 <PROC=0>
 <END>
 $E=====224=====
 //暗黒ローン借り入れ　<VAR=0>
-Prêts obscurs    <VAR=0> dus
+Dark Loans    <VAR=0> owed
 $E=====225=====
 <PROC=0>
 <END>
 $E=====226=====
 //プレイ回数　　　<VAR=0>
-Nombre de parties    <VAR=0> fois
+Play Count    <VAR=0> times
 $E=====227=====
 <PROC=0>
 <END>
@@ -993,9 +1009,9 @@ $E=====228=====
 // <ALTER><EXTEND=0>アドベンチャラー</ALTER>
 // <ALTER><EXTEND=1>グラディエーター</ALTER>
 // <ALTER><EXTEND=2>エージェント</ALTER>　　　　　<ALTER>NEXT</ALTER>
- <ALTER><EXTEND=0>AVENTURIER</ALTER>
- <ALTER><EXTEND=1>GLADIATEUR</ALTER>
- <ALTER><EXTEND=2>AGENT</ALTER>                 <ALTER>NEXT</ALTER>
+ <ALTER><EXTEND=0>ADVENTURER</ALTER>
+ <ALTER><EXTEND=1>GLADIATOR</ALTER>
+ <ALTER><EXTEND=2>AGENT</ALTER>                <ALTER>NEXT</ALTER>
 $E=====229=====
 //<PROC=0>
 //<END>
@@ -1005,8 +1021,8 @@ $E=====229=====
 <PROC=0>
 <END>
  <ALTER><EXTEND=3>CHAMPION</ALTER>
- <ALTER><EXTEND=4>CHASSEUR DES TÉNÈBRES</ALTER>
- <ALTER><EXTEND=5>ALCHIMISTE</ALTER>            <ALTER>NEXT</ALTER>
+ <ALTER><EXTEND=4>DARK HUNTER</ALTER>
+ <ALTER><EXTEND=5>ALCHEMIST</ALTER>            <ALTER>NEXT</ALTER>
 $E=====230=====
 //<PROC=0>
 //<END>
@@ -1015,9 +1031,9 @@ $E=====230=====
 // <ALTER><EXTEND=8>ストーリーテラー</ALTER>　　　<ALTER>NEXT</ALTER>
 <PROC=0>
 <END>
- <ALTER><EXTEND=6>COLLECTEUR</ALTER>
- <ALTER><EXTEND=7>MAÎTRE DES POUPEES</ALTER>
- <ALTER><EXTEND=8>CONTEUR</ALTER>              <ALTER>NEXT</ALTER>
+ <ALTER><EXTEND=6>COLLECTOR</ALTER>
+ <ALTER><EXTEND=7>DOLL MASTER</ALTER>
+ <ALTER><EXTEND=8>STORYTELLER</ALTER>          <ALTER>NEXT</ALTER>
 $E=====231=====
 //<PROC=0>
 //<END>
@@ -1026,7 +1042,7 @@ $E=====231=====
 //　　　　　　　　　　　　<ALTER>BACK</ALTER>
 <PROC=0>
 <END>
- <ALTER><EXTEND=9>GRAND MAÎTRE</ALTER>         <ALTER>NEXT</ALTER>
+ <ALTER><EXTEND=9>GRAND MASTER</ALTER>         <ALTER>NEXT</ALTER>
 $E=====232=====
 <PROC=0>
 <END>
@@ -1037,7 +1053,7 @@ $E=====234=====
 <END>
 $E=====235=====
 //　
-
+ 
 $E=====236=====
 <PROC=0>
 <END>
@@ -1045,9 +1061,9 @@ $E=====237=====
 // <ALTER>ノーマル</ALTER>　<ALTER>ほそみ</ALTER>
 // <ALTER>きょくとう</ALTER>　<ALTER>おおけん</ALTER>
 // <ALTER>にほんとう</ALTER>　ランク1
- <ALTER>Épées Normales</ALTER>  <ALTER>Épées Longues</ALTER>
- <ALTER>Épées Courbes</ALTER>   <ALTER>Grandes Épées</ALTER>
- <ALTER>Katanas</ALTER>          Rang 1
+ <ALTER>Normal Swords</ALTER>  <ALTER>Longswords</ALTER>
+ <ALTER>Curved Swords</ALTER>  <ALTER>Greatswords</ALTER>
+ <ALTER>Katanas</ALTER>        Rank 1
 $E=====238=====
 <PROC=0>
 <END>
@@ -1055,9 +1071,9 @@ $E=====239=====
 // <ALTER>ノーマル</ALTER>　<ALTER>ほそみ</ALTER>
 // <ALTER>きょくとう</ALTER>　<ALTER>おおけん</ALTER>
 // <ALTER>にほんとう</ALTER>　ランク2
- <ALTER>Épées Normales</ALTER>  <ALTER>Épées Longues</ALTER>
- <ALTER>Épées Courbes</ALTER>   <ALTER>Grandes Épées</ALTER>
- <ALTER>Katanas</ALTER>          Rang 2
+ <ALTER>Normal Swords</ALTER>  <ALTER>Longswords</ALTER>
+ <ALTER>Curved Swords</ALTER>  <ALTER>Greatswords</ALTER>
+ <ALTER>Katanas</ALTER>        Rank 2
 $E=====240=====
 <PROC=0>
 <END>
@@ -1065,13 +1081,12 @@ $E=====241=====
 // <ALTER>ノーマル</ALTER>　<ALTER>ほそみ</ALTER>
 // <ALTER>きょくとう</ALTER>　<ALTER>おおけん</ALTER>
 // <ALTER>にほんとう</ALTER>　ランク3
- <ALTER>Épées Normales</ALTER>  <ALTER>Épées Longues</ALTER>
- <ALTER>Épées Courbes</ALTER>   <ALTER>Grandes Épées</ALTER>
- <ALTER>Katanas</ALTER>          Rang 3
+ <ALTER>Normal Swords</ALTER>  <ALTER>Longswords</ALTER>
+ <ALTER>Curved Swords</ALTER>  <ALTER>Greatswords</ALTER>
+ <ALTER>Katanas</ALTER>        Rank 3
 $E=====242=====
 <PROC=0>
 <END>
-
 $E=====243=====
 no_area
 $E=====244=====
@@ -2372,231 +2387,231 @@ $E=====865=====
 ROCKBUSTER
 $E=====866=====
 //Lv.<VAR=0>　威力:<VAR=1>　古代の長剣。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-Niv. <VAR=0>  Puissance : <VAR=1>  Une longue épée ancienne. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
+Lv.<VAR=0>  Power:<VAR=1>  An ancient longsword. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
 $E=====867=====
 //Lv.<VAR=0>　威力:<VAR=1>　刺突(しとつ)用の直剣。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-Niv. <VAR=0>  Puissance : <VAR=1>  Une épée droite utilisée pour piquer. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
+Lv.<VAR=0>　Power:<VAR=1>  A straight sword used for thrusting. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
 $E=====868=====
 //Lv.<VAR=0>　威力:<VAR=1>　古代の曲刀。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-Niv. <VAR=0>  Puissance : <VAR=1>  Une épée courbe ancienne. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
+Lv.<VAR=0>  Power:<VAR=1>  An ancient curved sword. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
 $E=====869=====
 //Lv.<VAR=0>　威力:<VAR=1>　短めの長剣。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-Niv. <VAR=0>  Puissance : <VAR=1>  Une longue épée courte. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
+Lv.<VAR=0>  Power:<VAR=1>  An ancient longsword. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
 $E=====870=====
 //Lv.<VAR=0>　威力:<VAR=1>　両手用の大剣。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-Niv. <VAR=0>  Puissance : <VAR=1>  Une grande épée à deux mains. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
+Lv.<VAR=0>  Power:<VAR=1>  A two-handed greatsword. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
 $E=====871=====
 //Lv.<VAR=0>　威力:<VAR=1>　洗練(せんれん)された直剣。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-Niv. <VAR=0>  Puissance : <VAR=1>  Une épée droite raffinée. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
+Lv.<VAR=0>  Power:<VAR=1>  A polished straight sword. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
 $E=====872=====
 //Lv.<VAR=0>　威力:<VAR=1>　青銅製(せいどうせい)の曲刀。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-Niv. <VAR=0>  Puissance : <VAR=1>  Une épée courbe en bronze. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
+Lv.<VAR=0>  Power:<VAR=1>  A curved sword made of bronze. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
 $E=====873=====
 //Lv.<VAR=0>　威力:<VAR=1>　太陽の力を秘(ひ)めた刀。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-Niv. <VAR=0>  Puissance : <VAR=1>  Un katana avec le pouvoir du Soleil. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
+Lv.<VAR=0>  Power:<VAR=1>  A katana with the power of the Sun. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
 $E=====874=====
 //Lv.<VAR=0>　威力:<VAR=1>　幅広(はばひろ)の長剣。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-Niv. <VAR=0>  Puissance : <VAR=1>  Une longue épée large. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
+Lv.<VAR=0>  Power:<VAR=1>  A broad longsword. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
 $E=====875=====
 //Lv.<VAR=0>　威力:<VAR=1>　鉄製(てつせい)の大剣。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-Niv. <VAR=0>  Puissance : <VAR=1>  Une grande épée en fer. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
+Lv.<VAR=0>  Power:<VAR=1>  A greatsword made of iron. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
 $E=====876=====
 //Lv.<VAR=0>　威力:<VAR=1>　騎士(きし)用の直剣。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-Niv. <VAR=0>  Puissance : <VAR=1>  Une épée droite utilisée par les chevaliers. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
+Lv.<VAR=0>  Power:<VAR=1>  A straight sword used by knights. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
 $E=====877=====
 //Lv.<VAR=0>　威力:<VAR=1>　けんか用の長剣。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-Niv. <VAR=0>  Puissance : <VAR=1>  Une longue épée utilisée pour le combat rapproché. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
+Lv.<VAR=0>  Power:<VAR=1>  A longsword used for close-quarter fighting. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
 $E=====878=====
 //Lv.<VAR=0>　威力:<VAR=1>　野バラをかたどった直剣。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-Niv. <VAR=0>  Puissance : <VAR=1>  Une épée droite modelée sur une rose sauvage. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
+Lv.<VAR=0>  Power:<VAR=1>  A straight sword modeled after a wild rose. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
 $E=====879=====
 //Lv.<VAR=0>　威力:<VAR=1>　湾曲(わんきょく)の内側に刃(は)のある曲刀。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-Niv. <VAR=0>  Puissance : <VAR=1>  Une épée courbe avec le tranchant à l'intérieur de la courbe. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
+Lv.<VAR=0>  Power:<VAR=1>  A curved sword with the sharp edge on the inner side. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
 $E=====880=====
 //Lv.<VAR=0>　威力:<VAR=1>　炎の力を秘(ひ)めた刀。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-Niv. <VAR=0>  Puissance : <VAR=1>  Un katana avec le pouvoir de la flamme. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
+Lv.<VAR=0>  Power:<VAR=1>  A katana with the power of flame. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
 $E=====881=====
 //Lv.<VAR=0>　威力:<VAR=1>　鉄製(てつせい)の長剣。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-Niv. <VAR=0>  Puissance : <VAR=1>  Une longue épée en fer. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
+Lv.<VAR=0>  Power:<VAR=1>  A longsword made of iron. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
 $E=====882=====
 //Lv.<VAR=0>　威力:<VAR=1>　炎(ほのお)をかたどった大剣。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-Niv. <VAR=0>  Puissance : <VAR=1>  Une grande épée modelée sur une flamme. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
+Lv.<VAR=0>  Power:<VAR=1>  A greatsword modeled after a flame. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
 $E=====883=====
 //Lv.<VAR=0>　威力:<VAR=1>　切断(せつだん)用の曲刀。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-Niv. <VAR=0>  Puissance : <VAR=1>  Une épée courbe utilisée pour trancher. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
+Lv.<VAR=0>  Power:<VAR=1>  A curved sword used for severing limbs. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
 $E=====884=====
 //Lv.<VAR=0>　威力:<VAR=1>　巨大な剣。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-Niv. <VAR=0>  Puissance : <VAR=1>  Une épée immense. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
+Lv.<VAR=0>  Power:<VAR=1>  An enormous sword. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
 $E=====885=====
 //Lv.<VAR=0>　威力:<VAR=1>　突(つ)き斬(き)り両用の直剣。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-Niv. <VAR=0>  Puissance : <VAR=1>  Une épée droite utilisée pour piquer et trancher. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
+Lv.<VAR=0>  Power:<VAR=1>  A straight sword used for both stabbing and cutting. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
 $E=====886=====
 //Lv.<VAR=0>　威力:<VAR=1>　銀製(ぎんせい)の曲剣。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-Niv. <VAR=0>  Puissance : <VAR=1>  Une épée courbe en argent. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
+Lv.<VAR=0>  Power:<VAR=1>  A curved sword made of silver. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
 
 $E=====887=====
 //Lv.<VAR=0>　威力:<VAR=1>　大地の力を秘(ひ)めた刀。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-Niv. <VAR=0>  Puissance : <VAR=1>  Un katana avec le pouvoir de la terre. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
+Lv.<VAR=0>  Power:<VAR=1>  A katana with the power of earth. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
 $E=====888=====
 //Lv.<VAR=0>　威力:<VAR=1>　かご状(じょう)の柄(え)の付いた長剣。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-Niv.<VAR=0>  Puissance:<VAR=1>  Une longue épée avec une garde en panier. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
+Lv.<VAR=0>  Power:<VAR=1>  A longsword with a basket-hilt. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
 $E=====889=====
 //Lv.<VAR=0>　威力:<VAR=1>　鋼鉄製(こうてつせい)の大剣。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-Niv.<VAR=0>  Puissance:<VAR=1>  Une grande épée en acier. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
+Lv.<VAR=0>  Power:<VAR=1>  A greatsword made of steel. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
 $E=====890=====
 //Lv.<VAR=0>　威力:<VAR=1>　騎兵(きへい)用の直剣。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-Niv.<VAR=0>  Puissance:<VAR=1>  Une épée droite utilisée par la cavalerie. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
+Lv.<VAR=0>  Power:<VAR=1>  A straight sword used by cavalry. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
 $E=====891=====
 //Lv.<VAR=0>　威力:<VAR=1>　片手半剣(かたてはんけん)。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-Niv.<VAR=0>  Puissance:<VAR=1>  Une épée longue à main et demie. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
+Lv.<VAR=0>  Power:<VAR=1>  A one-handed longsword-and-a-half. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
 $E=====892=====
 //Lv.<VAR=0>　威力:<VAR=1>　血を吸(す)う直剣。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-Niv.<VAR=0>  Puissance:<VAR=1>  Une épée droite qui aspire le sang. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
+Lv.<VAR=0>  Power:<VAR=1>  A straight sword that sucks blood. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
 $E=====893=====
 //Lv.<VAR=0>　威力:<VAR=1>　切っ先の重さで斬(き)る曲剣。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-Niv.<VAR=0>  Puissance:<VAR=1>  Une épée courbe avec une pointe lourde pour décapiter. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
+Lv.<VAR=0>  Power:<VAR=1>  A curved sword with a heavy tip for beheading. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
 $E=====894=====
 //Lv.<VAR=0>　威力:<VAR=1>　命を輝(かがや)かす刀。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-Niv.<VAR=0>  Puissance:<VAR=1>  Un katana qui illumine votre vie. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
+Lv.<VAR=0>  Power:<VAR=1>  A katana that brightens your life. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
 $E=====895=====
 //Lv.<VAR=0>　威力:<VAR=1>　美しい長剣。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-Niv.<VAR=0>  Puissance:<VAR=1>  Une belle longue épée. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
+Lv.<VAR=0>  Power:<VAR=1>  A beautiful longsword. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
 $E=====896=====
 //Lv.<VAR=0>　威力:<VAR=1>　偉大(いだい)な剣。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-Niv.<VAR=0>  Puissance:<VAR=1>  Une grande épée. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
+Lv.<VAR=0>  Power:<VAR=1>  A great sword. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
 $E=====897=====
 //Lv.<VAR=0>　威力:<VAR=1>　氷の力を秘(ひ)めた曲刀。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-Niv.<VAR=0>  Puissance:<VAR=1>  Une épée courbe avec le pouvoir de la glace. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
+Lv.<VAR=0>  Power:<VAR=1>  A curved sword with the power of ice. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
 $E=====898=====
 //Lv.<VAR=0>　威力:<VAR=1>　風の力を秘(ひ)めた長剣。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-Niv.<VAR=0>  Puissance:<VAR=1>  Une longue épée avec le pouvoir du vent. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
+Lv.<VAR=0>  Power:<VAR=1>  A longsword with the power of wind. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
 $E=====899=====
 //Lv.<VAR=0>　威力:<VAR=1>　剣(つるぎ)の王。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-Niv.<VAR=0>  Puissance:<VAR=1>  Le roi des épées. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
+Lv.<VAR=0>  Power:<VAR=1>  The king of swords. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
 $E=====900=====
 //Lv.<VAR=0>　威力:<VAR=1>　金のバラをかたどった直剣。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-Niv.<VAR=0>  Puissance:<VAR=1>  Une épée droite en forme de rose dorée. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
+Lv.<VAR=0>  Power:<VAR=1>  A straight sword in the shape of a golden rose. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
 $E=====901=====
 //Lv.<VAR=0>　威力:<VAR=1>　ダマスカス鋼(こう)で作られた曲刀。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-Niv.<VAR=0>  Puissance:<VAR=1>  Une épée courbe en acier de Damas. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
+Lv.<VAR=0>  Power:<VAR=1>  A curved sword made of Damascus steel. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
 $E=====902=====
 //Lv.<VAR=0>　威力:<VAR=1>　曇(くも)りのない刀。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-Niv.<VAR=0>  Puissance:<VAR=1>  Le katana des cieux clairs. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
+Lv.<VAR=0>  Power:<VAR=1>  The katana of clear skies. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
 $E=====903=====
 //Lv.<VAR=0>　威力:<VAR=1>　全(まった)き剣。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-Niv.<VAR=0>  Puissance:<VAR=1>  Une épée sans défaut. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
+Lv.<VAR=0>  Power:<VAR=1>  A flawless sword. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
 $E=====904=====
 //Lv.<VAR=0>　威力:<VAR=1>　白金製(はっきんせい)の長剣。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-Niv.<VAR=0>  Puissance:<VAR=1>  Une longue épée en platine. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
+Lv.<VAR=0>  Power:<VAR=1>  A longsword made of platinum. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
 $E=====905=====
 //Lv.<VAR=0>　威力:<VAR=1>　ダイヤモンドで作られた大剣。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-Niv.<VAR=0>  Puissance:<VAR=1>  Une grande épée en diamant. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
+Lv.<VAR=0>  Power:<VAR=1>  A greatsword made of diamond. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
 $E=====906=====
 //Lv.<VAR=0>　威力:<VAR=1>　青いバラをかたどった直剣。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-Niv.<VAR=0>  Puissance:<VAR=1>  Une épée droite modelée sur une rose bleue. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
+Lv.<VAR=0>  Power:<VAR=1>  A straight sword modeled after a blue rose. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
 $E=====907=====
 //Lv.<VAR=0>　威力:<VAR=1>　風の力を秘(ひ)めた曲刀。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-Niv.<VAR=0>  Puissance:<VAR=1>  Une épée courbe avec le pouvoir du vent. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
+Lv.<VAR=0>  Power:<VAR=1>  A curved sword with the power of wind. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
 $E=====908=====
 //Lv.<VAR=0>　威力:<VAR=1>　呪(のろ)われた名刀。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-Niv.<VAR=0>  Puissance:<VAR=1>  Le katana légendaire maudit. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
+Lv.<VAR=0>  Power:<VAR=1>  The legendary cursed katana. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
 $E=====909=====
 //Lv.<VAR=0>　威力:<VAR=1>　炎の力を秘(ひ)めた長剣。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-Niv.<VAR=0>  Puissance:<VAR=1>  Une longue épée avec le pouvoir de la flamme. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
+Lv.<VAR=0>  Power:<VAR=1>  A longsword with the power of flame. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
 $E=====910=====
 //Lv.<VAR=0>　威力:<VAR=1>　大地の力を秘(ひ)めた大剣。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-Niv.<VAR=0>  Puissance:<VAR=1>  Une grande épée avec le pouvoir de la terre. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
+Lv.<VAR=0>  Power:<VAR=1>  A greatsword with the power of earth. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
 $E=====911=====
 //Lv.<VAR=0>　威力:<VAR=1>　太陽の力を秘(ひ)めた長剣。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-Niv.<VAR=0>  Puissance:<VAR=1>  Une longue épée avec le pouvoir du Soleil. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
+Lv.<VAR=0>  Power:<VAR=1>  A longsword with the power of the Sun. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
 $E=====912=====
 //Lv.<VAR=0>　威力:<VAR=1>　最強の大剣。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-Niv.<VAR=0>  Puissance:<VAR=1>  La grande épée ultime. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
+Lv.<VAR=0>  Power:<VAR=1>  The ultimate greatsword. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
 $E=====913=====
 //Lv.??　威力:??　暗子ちゃんとの愛の証(あかし)。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-Niv.??  Puissance:??  Preuve de l'amour de Doomy. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
+Lv.??  Power:??  Proof of Doomy's love. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
 $E=====914=====
 //Lv.??　威力:<VAR=1>　ロックマンとの友情の証(あかし)。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-Niv.??  Puissance:<VAR=1>  Preuve de l'amitié de Rockman. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
+Lv.??  Power:<VAR=1>  Proof of Rockman's friendship. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
 $E=====915=====
 
 $E=====916=====
 //レベルが上がるほど威力(いりょく)が上がる。
-La Puissance d'Attaque est relative à votre niveau.
+Attack Power is relative to your level.
 $E=====917=====
 //ライフがへるほど威力(いりょく)が上がる。
 //Power increases as you lose Life.
-Augmentation de Puissance d'Attaque de 25%.
+25% Attack Power boost.
 $E=====918=====
 ライフがふえるほど威力(いりょく)が上がる。
-La Puissance d'Attaque est relative à votre Vie.
+Attack Power is relative to your Life.
 $E=====919=====
 //エナジーを消費してソル属性(ぞくせい)を付加する。
-Ajoute l'élément Sol aux attaques (5 ENE).
+Adds Sol element to attacks (5 ENE).
 $E=====920=====
 //エナジーを消費してフレイム属性(ぞくせい)を付加する。
-Ajoute l'élément Flamme aux attaques (10 ENE).
+Adds Flame element to attacks (10 ENE).
 $E=====921=====
 //エナジーを消費してフロスト属性(ぞくせい)を付加する。
-Ajoute l'élément Givre aux attaques (10 ENE).
+Adds Frost element to attacks (10 ENE).
 $E=====922=====
 //エナジーを消費してクラウド属性(ぞくせい)を付加する。
-Ajoute l'élément Nuage aux attaques (10 ENE).
+Adds Cloud element to attacks (10 ENE).
 $E=====923=====
 //エナジーを消費してアース属性(ぞくせい)を付加する。
-Ajoute l'élément Terre aux attaques (10 ENE).
+Adds Earth element to attacks (10 ENE).
 $E=====924=====
 //敵(てき)をふき飛ばす(低)。
-Faible chance de repousser l'ennemi.
+Low chance of knockback effect.
 $E=====925=====
 //敵(てき)をふき飛ばす(高)。
-Forte chance de repousser l'ennemi.
+High chance of knockback effect.
 $E=====926=====
 //敵(てき)をマヒさせる(低)。
-Faible chance de paralyser les ennemis.
+Low chance of paralyzing enemies.
 $E=====927=====
 //敵(てき)をマヒさせる(高)。
-Forte chance de paralyser les ennemis.
+High chance of paralyzing enemies.
 $E=====928=====
 //敵(てき)をたおすとライフが回復(かいふく)する。
-Restaure la Vie en battant des ennemis.
+Restores Life as you defeat enemies.
 $E=====929=====
 //敵(てき)をたおすとライフが減少(げんしょう)する。
-Draine la Vie en battant des ennemis.
+Drains Life as you defeat enemies.
 $E=====930=====
 //敵(てき)をたおすとエナジーが回復(かいふく)する。
-Restaure l'Énergie en battant des ennemis.
+Restores Energy as you defeat enemies.
 $E=====931=====
 //敵(てき)をたおすとエナジーが減少(げんしょう)する。
-Draine l'Énergie en battant des ennemis.
+Drains Energy as you defeat enemies.
 $E=====932=====
 //レベルが上がるほど威力(いりょく)が下がる。
 //Power drops as your level increases.
-Augmentation de 100% de la Puissance d'Attaque.
+100% boost to Attack Power.
 $E=====933=====
 //ダーク属性(ぞくせい)に弱くなる。
-Vous rend vulnérable à l'élément Obscurité.
+Makes you weak to Dark.
 $E=====934=====
 //フレイム属性(ぞくせい)に弱くなる。
-Vous rend vulnérable à l'élément Flamme.
+Makes you weak to Flame.
 $E=====935=====
 //フロスト属性(ぞくせい)に弱くなる。
-Vous rend vulnérable à l'élément Givre.
+Makes you weak to Frost.
 $E=====936=====
 //クラウド属性(ぞくせい)に弱くなる。
-Vous rend vulnérable à l'élément Nuage.
+Makes you weak to Cloud.
 $E=====937=====
 //アース属性(ぞくせい)に弱くなる。
-Vous rend vulnérable à l'élément Terre.
+Makes you weak to Earth.
 $E=====938=====
 //これを捨てますか?
-Jeter ceci ?
+Trash this?
 $E=====939=====
 //刃(は)が折(お)れている。
-La lame est cassée.
+The blade is broken.
 $E=====940=====
 //ライフがふえるほど威力(いりょく)が上がる。
-Gagne en puissance lorsque votre Vie augmente.
+Gains power as your Life increases.
 $E=====941=====
 
 $E=====942=====
@@ -2646,43 +2661,43 @@ $E=====956=====
 PHANTOM
 $E=====957=====
 //威力:C　コスト:S　<WEIGHT>Ｂボタン</WEIGHT>で太陽ショットを放つ。
-Puissance:C  Coût:S  Appuyez sur le <WEIGHT>Bouton B</WEIGHT> pour tirer un coup solaire.
+Power:C  Cost:S  Press the <WEIGHT>B Button</WEIGHT> to fire a Solar shot.
 $E=====958=====
 //威力:C　コスト:A　<WEIGHT>Ｂボタン</WEIGHT>で太陽ショットを連射(れんしゃ)する。
-Puissance:C  Coût:A  Appuyez sur le <WEIGHT>Bouton B</WEIGHT> pour tirer en rafale des coups solaires.
+Power:C  Cost:A  Press the <WEIGHT>B Button</WEIGHT> to rapid-fire Solar shots.
 $E=====959=====
 //威力:B　コスト:B　<WEIGHT>Ｂボタン</WEIGHT>で扇状(おうぎじょう)に太陽ショットを放つ。
-Puissance:B  Coût:B  Appuyez sur le <WEIGHT>Bouton B</WEIGHT> pour tirer un éventail de coups solaires.
+Power:B  Cost:B  Press the <WEIGHT>B Button</WEIGHT> to fire a fan of Solar shots.
 $E=====960=====
 //威力:B　コスト:A　<WEIGHT>Ｂボタン</WEIGHT>で、分裂(ぶんれつ)するバブルショットを放つ。
-Puissance:B  Coût:A  Appuyez sur le <WEIGHT>Bouton B</WEIGHT> pour tirer un coup de bulle qui se divise.
+Power:B  Cost:A  Press the <WEIGHT>B Button</WEIGHT> to fire a split bubble shot.
 $E=====961=====
 //威力:B　コスト:A　<WEIGHT>Ｂボタン</WEIGHT>で、拡大(かくだい)するフープショットを放つ。
-Puissance:B  Coût:A  Appuyez sur le <WEIGHT>Bouton B</WEIGHT> pour tirer un coup de cerceau qui s'agrandit.
+Power:B  Cost:A  Press the <WEIGHT>B Button</WEIGHT> to fire an enlarged hoop shot.
 $E=====962=====
 //威力:B　コスト:A　<WEIGHT>Ｂボタン</WEIGHT>で反射(はんしゃ)ショットを放つ。
-Puissance:B  Coût:A  Appuyez sur le <WEIGHT>Bouton B</WEIGHT> pour tirer un coup qui se réfléchit.
+Power:B  Cost:A  Press the <WEIGHT>B Button</WEIGHT> to fire a reflecting shot.
 $E=====963=====
 //威力:A　コスト:B　<WEIGHT>Ｂボタン</WEIGHT>で誘導(ゆうどう)ショットを放つ。
-Puissance:A  Coût:B  Appuyez sur le <WEIGHT>Bouton B</WEIGHT> pour tirer un coup guidé.
+Power:A  Cost:B  Press the <WEIGHT>B Button</WEIGHT> to fire a homing shot.
 $E=====964=====
 //威力:S　コスト:A　<WEIGHT>Ｂボタン</WEIGHT>のタメ押(お)しで、チャージショットを放つ。
-Puissance:S  Coût:A  Maintenez le <WEIGHT>Bouton B</WEIGHT> enfoncé pour charger un coup plus puissant.
+Power:S  Cost:A  Hold the <WEIGHT>B Button</WEIGHT> to charge up a more powerful shot.
 $E=====965=====
 //威力:B　コスト:B　<WEIGHT>Ｂボタン</WEIGHT>で貫通(かんつう)ショットを放つ。
-Puissance:B  Coût:B  Appuyez sur le <WEIGHT>Bouton B</WEIGHT> pour tirer un coup perforant.
+Power:B  Cost:B  Press the <WEIGHT>B Button</WEIGHT> to fire a piercing shot.
 $E=====966=====
 //威力:S　コスト:C　<WEIGHT>Ｂボタン</WEIGHT>で、壁(かべ)をこえて爆発(ばくはつ)する太陽グレネードを放つ。
-Puissance:S  Coût:C  Appuyez sur le <WEIGHT>Bouton B</WEIGHT> pour lancer une grenade solaire qui traverse les murs.
+Power:S  Cost:C  Press the <WEIGHT>B Button</WEIGHT> to fire a solar grenade that passes over walls.
 $E=====967=====
 //威力:C　コスト:B　<WEIGHT>Ｂボタン</WEIGHT>を押(お)している間、回転スプレッドを放つ。
-Puissance:C  Coût:B  Maintenez le <WEIGHT>Bouton B</WEIGHT> pour tirer un tir en rotation.
+Power:C  Cost:B  Hold the <WEIGHT>B Button</WEIGHT> to fire a rotating spread shot.
 $E=====968=====
 //威力:D　コスト:S　<WEIGHT>Ｂボタン</WEIGHT>で、着弾(ちゃくだん)時に物音を立てるビートショットを放つ。
-Puissance:D  Coût:S  Appuyez sur le <WEIGHT>Bouton B</WEIGHT> pour tirer un coup qui fait du bruit à l'impact.
+Power:D  Cost:S  Press the <WEIGHT>B Button</WEIGHT> to fire a shot that emits a sound upon impact.
 $E=====969=====
 //ファントムの説明
-Description du PHANTOM
+PHANTOM description
 $E=====970=====
 //ソル
 SOL
@@ -2709,31 +2724,30 @@ $E=====977=====
 ASTRO
 $E=====978=====
 //ダーク
-DARK
 $E=====979=====
 //太陽のレンズ。ダーク属性(ぞくせい)の敵(てき)に効果的(こうかてき)。
-Lentille solaire. Efficace contre les ennemis de l'attribut Obscurité.
+Solar lens. Effective against Dark-attribute enemies.
 $E=====980=====
 //月のレンズ。エナジーを消費しない代わりに、攻撃力(こうげきりょく)もなくなる。
-Lentille lunaire. Ne consomme pas d'Énergie mais n'a aucune capacité offensive.
+Lunar lens. Consumes no Energy but has no offensive capabilities.
 $E=====981=====
 //炎(ほのお)のレンズ。フロスト属性(ぞくせい)の敵(てき)に効果的(こうかてき)。炎を点け、氷を溶(と)かす。
-Lentille de feu. Efficace contre les ennemis de l'attribut Givre. Allume le feu et fait fondre la glace.
+Flame lens. Effective against Frost-attribute enemies. Melts ice.
 $E=====982=====
 //氷のレンズ。フレイム属性(ぞくせい)の敵(てき)に効果的(こうかてき)。炎を消す。
-Lentille de glace. Efficace contre les ennemis de l'attribut Flamme. Éteint le feu.
+Frost lens. Effective against Flame-attribute enemies. Puts out fire.
 $E=====983=====
 //風のレンズ。アース属性(ぞくせい)の敵(てき)に効果的(こうかてき)。岩をくだく。
-Lentille de vent. Efficace contre les ennemis de l'attribut Terre. Écrase les rochers.
+Wind lens. Effective against Earth-attribute enemies. Smashes rocks.
 $E=====984=====
 //大地のレンズ。クラウド属性(ぞくせい)の敵(てき)に効果的(こうかてき)。植物を元気にする。
-Lentille de terre. Efficace contre les ennemis de l'attribut Nuage. Fait pousser les plantes.
+Earth lens. Effective against Cloud-attribute enemies. Makes plants grow.
 $E=====985=====
 //星のレンズ。太陽スタンドにエナジーを貯める。レベルが上がるほど早く貯まる。
-Lentille d'étoile. Stocke l'Énergie dans les stations solaires. Plus le niveau augmente, plus le stockage est rapide.
+Star lens. Stores Energy in Solar Stations. Works faster as its level increases.
 $E=====986=====
 //天空のレンズ。太陽スタンドのエナジーを直接使う。ソル属性(ぞくせい)の攻撃(こうげき)を行う。
-Lentille astrale. Utilise directement l'Énergie de la station solaire. Exécute une attaque de l'élément Sol.
+Astro lens. Uses energy directly from the Solar Station. Has a Sol-element attack.
 $E=====987=====
 //ダークレンズ
 Dark lens.
@@ -2903,200 +2917,200 @@ $E=====1042=====
 MISSION ITEM 5
 $E=====1043=====
 //緑の飲み薬。ライフを小回復(かいふく)する。
-Médicament vert. Restaure un peu de Vie.
+Green medicine. Restores a little Life.
 $E=====1044=====
 //太陽の果実。ライフを中回復(かいふく)する。
-Fruit solaire. Restaure une partie de la Vie.
+Solar Fruit. Restores some Life.
 $E=====1045=====
 //いたんだ果実。ライフは回復(かいふく)するが・・・
-Fruit pourri. Restaure la Vie, mais...
+Spoiled fruit. Restores Life, but...
 $E=====1046=====
 //じっくり干(ほ)したモンスターの肉。ライフを中回復(かいふく)する。
-Viande de monstre bien séchée. Restaure une partie de la Vie.
+Well-dried monster meat. Restores some Life.
 $E=====1047=====
 //こんがり焼いたモンスターの肉。ライフを大回復(かいふく)する。
-Viande de monstre grillée à la perfection. Restaure beaucoup de Vie.
+Monster meat grilled to perfection. Restores lots of Life.
 $E=====1048=====
 //いたんだ肉。ライフは回復(かいふく)するが・・・
-Viande pourrie. Restaure la Vie, mais...
+Spoiled meat. Restores Life, but...
 $E=====1049=====
 //あまいおかし。ライフを小回復(かいふく)する。
-Bonbon sucré. Restaure un peu de Vie.
+Sweet candy. Restores a little Life.
 $E=====1050=====
 //デラックスなチョコレート。ライフを中回復(かいふく)する。
-Chocolat de luxe. Restaure une partie de la Vie.
+Deluxe chocolate. Restores some Life.
 $E=====1051=====
 //ドロドロに溶(と)けたチョコレート。ライフを小回復(かいふく)する。
-Chocolat fondu gluant. Restaure un peu de Vie.
+Gooey melted chocolate. Restores a little Life.
 $E=====1052=====
 //チョコレートまみれのアイテム。チョコの中には・・・
-Objet couvert de chocolat. Et à l'intérieur du chocolat...
+Chocolate-covered item. And inside the chocolate...
 $E=====1053=====
 //ソーダ味のアイスキャンディー。ライフを小回復(かいふく)する。
-Sucette glacée au soda. Restaure un peu de Vie.
+Soda-flavored popsicle. Restores a little Life.
 $E=====1054=====
 //コーラ味のアイスキャンディー。ライフを全回復(かいふく)する。
-Sucette glacée au cola. Restaure complètement la Vie.
+Cola-flavored popsicle. Completely restores Life.
 $E=====1055=====
 //赤い飲み薬。エナジーを小回復(かいふく)する。
-Médicament rouge. Restaure un peu d'Énergie.
+Red medicine. Restores a little Energy.
 $E=====1056=====
 //太陽の果実。エナジーを中回復(かいふく)する。
-Fruit solaire. Restaure une partie de l'Énergie.
+Solar Fruit. Restores some Energy.
 $E=====1057=====
 //毒キノコ。エナジーは回復(かいふく)するが・・・
-Champignon toxique. Restaure l'Énergie, mais...
+Poisonous mushroom. Restores Energy, but...
 $E=====1058=====
 //青い飲み薬。毒化を治す。
-Médicament bleu. Guérit l'empoisonnement.
+Blue medicine. Cures poisoning.
 $E=====1059=====
 //黄色い飲み薬。毒化・混乱(こんらん)を治す。
-Médicament jaune. Guérit l'empoisonnement, la confusion et les maux d'estomac.
+Yellow medicine. Cures poisoning, confusion, and stomach aches.
 $E=====1060=====
 //太陽の光で浄化(じょうか)された水。カーモスの呪(のろ)いを解(と)く。
-Eau purifiée par les rayons du soleil. Lève les malédictions.
+Water purified by the sun's rays. Lifts curses.
 $E=====1061=====
 //太陽の果実。ダメージをがまんする。
-Fruit solaire. Permet d'endurer les dégâts.
+Solar Fruit. Enables you to endure damage.
 $E=====1062=====
 //太陽の果実。足が速くなる。
-Fruit solaire. Augmente la Vitesse.
+Solar Fruit. Increases Speed.
 $E=====1063=====
 //太陽の果実。モノを運ぶのが速くなる。
-Fruit solaire. Renforce la Force.
+Solar Fruit. Enhances Strength.
 $E=====1064=====
 //チョコでコーティングされたバナナ。モノを運ぶのが速くなる。
-Banane enrobée de chocolat. Renforce la Force.
+Chocolate-covered banana. Enhances Strength.
 $E=====1065=====
 //太陽の果実。足音が立たなくなる。
-Fruit solaire. Élimine le bruit des pas.
+Solar Fruit. Eliminates the sound of footsteps.
 $E=====1066=====
 //太陽の果実。身体が小さくなる。
-Fruit solaire. Rend le corps plus petit.
+Solar Fruit. Makes your body smaller.
 $E=====1067=====
 //太陽の果実。身体が透明(とうめい)になる。
-Fruit solaire. Rend le corps invisible.
+Solar Fruit. Makes your body invisible.
 $E=====1068=====
 //太陽の果実。目に見えないモノが見えるようになる。
-Fruit solaire. Permet de voir les choses cachées.
+Solar Fruit. Makes hidden things visible.
 $E=====1069=====
 //太陽樹(たいようじゅ)の葉。ダンジョンの外に転移(ワープ)する。
-Feuille de l'Arbre Solaire. Permet de se téléporter hors du donjon.
+Leaf from the Solar Tree. Enables warping to outside the dungeon.
 $E=====1070=====
 //古(いにしえ)のまじない人形。雲を追いはらう。
-Poupée talismanique ancienne. Éloigne les nuages.
+Ancient charm doll. Drives away clouds.
 $E=====1071=====
 //古(いにしえ)のまじない人形。雲をよぶ。
-Poupée talismanique ancienne. Invoque les nuages.
+Ancient charm doll. Summons clouds.
 $E=====1072=====
 //古(いにしえ)のはき物。天気を占う。
-Vieille chaussure. Prédit le temps.
+Ancient footwear. Predicts the weather.
 $E=====1073=====
 //その役目を終えたスティック。
-Un bâton qui a dépassé son utilité.
+A stick that's outlived its usefulness.
 $E=====1074=====
 //「1本当り」と焼印が押(お)されたスティック。ガリガリ君にわたそう!!
-Un bâton marqué de "GAGNANT". Montrez-le à GariGari-kun !
+A stick with "WIN" written on it. Show it to GariGari-kun!
 $E=====1075=====
 //知性(ちせい)を暗示(あんじ)するカード。ココロを上げる。
-Carte de l'intelligence. Augmente l'Esprit.
+Card of intelligence. Raises Spirit.
 $E=====1076=====
 //母性(ぼせい)を暗示(あんじ)するカード。カラダを上げる。
-Carte de la maternité. Augmente la Vitalité.
+Maternal card. Raises Vitality.
 $E=====1077=====
 //勇気を暗示(あんじ)するカード。チカラを上げる。
-Carte du courage. Augmente la Force.
+Card of courage. Raises Strength.
 $E=====1078=====
 //運命を暗示(あんじ)するカード。いずれかのステータスを上げる。
-Carte du destin. Augmente un Statut.
+Card of destiny. Raises Status.
 $E=====1079=====
 //不安を暗示(あんじ)するカード。ライフを全回復(かいふく)する。
-Carte de l'anxiété. Restore complètement la Vie.
+Card of anxiety. Fully restores Life.
 $E=====1080=====
 //幸福を暗示(あんじ)するカード。エナジーを全回復(かいふく)する。
-Carte du bonheur. Restore complètement l'Énergie.
+Card of happiness. Fully restores Energy.
 $E=====1081=====
 //復活(ふっかつ)を暗示(あんじ)するカード。ライフがゼロになると自動的に全回復(かいふく)する。
-Carte de la résurrection. Restaure complètement la Vie quand elle est à zéro.
+Card of revival. Restores full Life when down to zero.
 $E=====1082=====
 //暗黒ローンのゴールドカード。暗子ちゃんを呼び出す。
-Carte Or des Prêts Obscurs. Appelle Doomy.
+Dark Loans Gold Card. Summons Doomy.
 $E=====1083=====
 //おてんこさまの説明
-Description de Maître Otenko
+Master Otenko description
 $E=====1084=====
 //レベルに関係なくすべてのソードを装備(そうび)するための許可証(きょかしょう)。
-Permet d'équiper n'importe quelle épée sans le niveau requis.
+Permits you to equip any sword without the requisite level.
 $E=====1085=====
 //パーソナルターミナル。どこかにアクセスできる?
-Terminal Personnel. Où l'accès est-il possible?
+PErsonal Terminal. Where is access possible?
 $E=====1086=====
 //究極の棺桶(かんおけ)。棺桶(かんおけ)バイクの収納(しゅうのう)と闇の一族(イモータル)の封印(ふういん)が可能(かのう)。
-Le cercueil ultime. Permet de sceller les Immortels dans le Cercueil Moto.
+The ultimate coffin. Allows Immortals to be sealed within the Coffin Bike.
 $E=====1087=====
 //赤銅製(しゃくどうせい)のカギ。赤の扉(とびら)を開ける。
-Une clé en cuivre rouge. Ouvre les portes rouges.
+A key made of copper. Opens red doors.
 $E=====1088=====
 //黄銅製(おうどうせい)のカギ。黄の扉(とびら)を開ける。
-Une clé en laiton. Ouvre les portes jaunes.
+A key made of brass. Opens yellow doors.
 $E=====1089=====
 //青銅製(せいどうせい)のカギ。緑の扉(とびら)を開ける。
-Une clé en bronze. Ouvre les portes bleues.
+A key made of bronze. Opens blue doors.
 $E=====1090=====
 //ばつのカギの説明
-Description de la Clé en Croix
+Cross Key description
 $E=====1091=====
 //エナジーを太陽パイルとして放出するための魔法機械。
-Un dispositif magique qui libère de l'énergie solaire.
+A magical device that releases solar energy.
 $E=====1092=====
 //ダンジョンアイテム2の説明
-Description de l'Objet de Donjon 2
+Dungeon Item 2 description
 $E=====1093=====
 //運命の女神、ウルドの像。
-Une statue d'Urd, la Déesse du Destin.
+A statue of Urd, the Goddess of Fate.
 $E=====1094=====
 //存在(そんざい)の女神、スクルドの像。
-Une statue de Skuld, la Déesse de l'Existence.
+A statue of Skuld, the Goddess of Existence.
 $E=====1095=====
 //必然の女神、ヴェルダンディの像。
-Une statue de Verdandi, la Déesse de la Nécessité.
+A statue of Verdandi, the Goddess of Neccessity.
 $E=====1096=====
 //ミッションアイテム4の説明
-Description de l'Objet de Mission 4
+Mission Item 4 description
 $E=====1097=====
 //ミッションアイテム5の説明
-Description de l'Objet de Mission 5
+Mission Item 5 description
 $E=====1098=====
 //テルテルボーズを天にかかげた
-Mr. Rainnot fait face au ciel.
+Mr. Rainnot faces the sky.
 $E=====1099=====
 //ズーボルテルテを天にかかげた
-tonniaR .rM fait face au ciel.
+tonniaR .rM faces the sky.
 $E=====1100=====
 //ゲタはハナオを上にして転がっ
 //ている。
-Le socque repose avec ses
-lanières pointant vers le haut.
+The clog lies with its
+straps pointing upward.
 $E=====1101=====
 //ゲタはハを上にして転がってい
 //る。
-Le socque repose avec sa
-semelle pointant vers le haut.
+The clog lies with its
+bottom-sole pointing upward.
 $E=====1102=====
 //空がみるみる晴れ渡っていく!!
-Le ciel s'éclaircit instantanément !
+The sky brightens instantly!
 $E=====1103=====
 //空がみるみる曇っていく!!
-Des nuages se rassemblent instantanément !
+Clouds gather instantly!
 $E=====1104=====
 //カラダが<VAR=0>上がった!!
-La Vitalité a augmenté de <VAR=0> !
+Vitality increased by <VAR=0>!
 $E=====1105=====
 //ココロが<VAR=0>上がった!!
-L'Esprit a augmenté de <VAR=0> !
+Spirit increased by <VAR=0>!
 $E=====1106=====
 //チカラが<VAR=0>上がった!!
-La Force a augmenté de <VAR=0> !
+Strength increased by <VAR=0>!
 $E=====1107=====
 //サークレット
 CIRCLET
@@ -3243,151 +3257,151 @@ $E=====1154=====
 BLUES LEG
 $E=====1155=====
 //魔法石の付いた頭環(とうかん)。ココロが上がる(中)。敵(てき)がアイテムを落としにくくなる。
-Un bandeau avec une pierre magique. Augmente l'Esprit. Diminue les chances de laisser tomber des objets.
+A headband with a magic stone attached. Raises Spirit. Decreases odds of item drops.
 $E=====1156=====
 //クールなバンダナ。ココロが上がる(大)。トランスがたまりにくくなる。
-Un bandana cool. Augmente grandement l'Esprit. Ralentit l'accumulation de TRC.
+A cool bandana. Raises Spirit (high). TRC builds slowly.
 $E=====1157=====
 //ホットなハチマキ。トランスがたまりやすくなる。
-Un bandeau chaud. Accélère l'accumulation de TRC.
+A hot headband. TRC builds quickly.
 $E=====1158=====
 //身体健全のお守り。敵(てき)の攻撃(こうげき)による毒化をふせぐ。
-Un charme de bonne santé. Protège contre l'empoisonnement par les attaques ennemies.
+A good-health charm. Defends against Poison from enemy attacks.
 $E=====1159=====
 //額当(ひたいあ)ての付いたハチマキ。足音が立たなくなる。トランスがたまりにくくなる。
-Un bandeau posé sur le front. Rend les pas silencieux. Ralentit l'accumulation de TRC.
+A headband applied to the forehead. Silences footsteps. Slows TRC gain.
 $E=====1160=====
 //妖精(ようせい)の冦(かんむり)。身体が透明(とうめい)になる。得られる経験値(けいけんち)が半分になる。
-Une couronne de fée. Rend l'utilisateur invisible. Réduit de moitié l'EXP gagnée.
+A fairy crown. Makes the user invisible. Halves earned EXP.
 $E=====1161=====
 //分厚(ぶあつ)い眼鏡(めがね)。目に見えないモノが見えるようになる。
-Des lunettes épaisses. Rend les choses invisibles visibles.
+Thick glasses. Makes invisible things visible.
 $E=====1162=====
 //ゴールドのマスク。敵(てき)がアイテムを落としやすくなる。
-Un masque en or. Augmente les chances de laisser tomber des objets.
+A gold mask. Increases odds of item drops.
 $E=====1163=====
 //小汚(こぎたな)い帽子(ぼうし)。太陽ゲージの値が2倍になる。
-Un chapeau légèrement sale. Double la valeur du Jauge Solaire.
+A slightly dirty hat. Doubles value of Solar Gauge.
 $E=====1164=====
 //折(お)れた牙(きば)。得られる経験値(けいけんち)が半分になる?
-Un croc brisé. Réduit de moitié l'EXP gagnée?
+A broken fang. Halves earned EXP?
 $E=====1165=====
 //カーネルの力を宿したヘルメット。敵(てき)の攻撃(こうげき)による毒化・混乱(こんらん)・マヒをふせぐ。
-Un casque avec le pouvoir du Colonel. Protège contre l'empoisonnement, la confusion et la paralysie par les attaques ennemies.
+A helmet with the power of Colonel. Defends against Poison, Confuse, and Paralysis from enemy attacks.
 $E=====1166=====
 //革(かわ)の鎧(よろい)。カラダが上がる(小)。
-Une armure en cuir. Augmente légèrement la VIT.
+Leather armor. Slightly raises VIT.
 $E=====1167=====
 //金属(きんぞく)の輪をつなぎ合わせた鎧(よろい)。カラダが上がる(中)。
-Une armure faite de maillons de métal. Augmente la VIT.
+Armor made of linked metal rings. Raises VIT.
 $E=====1168=====
 //板金(いたがね)の鎧(よろい)。カラダが上がる(大)。
-Une armure faite de plaques de métal. Augmente grandement la VIT.
+Armor made of metal plates. Greatly raises VIT.
 $E=====1169=====
 //火竜の牙(きば)から作られた鎧(よろい)。フレイムに強くなり、フロストに弱くなる。
-Une armure faite d'une dent de Dragon de Feu. Renforce Flamme, affaiblit Givre.
+Armor made from a Fire Dragon Fang. Strengthens Flame, weakens Frost.
 $E=====1170=====
 //水竜の尾(お)ビレから作られた鎧(よろい)。フロストに強くなり、フレイムに弱くなる。
-Une armure faite d'une aile caudale de Dragon d'Eau. Renforce Givre, affaiblit Flamme.
+Armor made from a Water Dragon Tail. Strengthens Frost, weakens Flame.
 $E=====1171=====
 //風竜の翼(つばさ)から作られた鎧(よろい)。クラウドに強くなり、アースに弱くなる。
-Une armure faite d'une aile de Dragon du Vent. Renforce Nuage, affaiblit Terre.
+Armor made from a Wind Dragon Wing. Strengthens Cloud, weakens Earth.
 $E=====1172=====
 //地竜の爪(つめ)から作られた鎧(よろい)。アースに強くなり、クラウドに弱くなる。
-Une armure faite d'une griffe de Dragon de Terre. Renforce Terre, affaiblit Nuage.
+Armor made from an Earth Dragon Claw. Strengthens Earth, weakens Cloud.
 $E=====1173=====
 //雨がっぱ。雨から身を守る。
-Un imperméable. Protège contre la pluie.
+Rain cloak. Protects from the rain.
 $E=====1174=====
 //魔法の鎧(よろい)。ココロが高いほど受けるダメージがへり、チカラが下がる。
-Une armure magique. Réduit les dégâts subis en fonction de l'Esprit. Diminue la Force.
+Magical armor. Damage taken decreases as SPR increases. Decreases STR.
 $E=====1175=====
 //装備(そうび)した者を守る鎧(よろい)。攻撃(こうげき)を受けると自動的に反撃(はんげき)する。
-Une armure qui protège l'utilisateur avec des contre-attaques automatiques.
+Armor that protects the user through automatic counter attacks.
 $E=====1176=====
 //初心者向けの鎧(よろい)。受けるダメージがへる(中)。
-Une armure pour débutants. Réduit les dégâts subis.
+Armor for beginners. Decreases damage taken.
 $E=====1177=====
 //白騎士(しろきし)の鎧(よろい)。昼間受けるダメージがへり(大)、夜間受けるダメージがふえる(大)。
-L'armure d'un chevalier blanc. Réduit grandement les dégâts subis pendant la journée, mais augmente grandement les dégâts subis la nuit.
+A white knight's armor. Greatly decreases damage taken during the day, but greatly increases damage taken at night.
 $E=====1178=====
 //黒騎士(くろきし)の鎧(よろい)。夜間受けるダメージがへり(大)、昼間受けるダメージがふえる(大)。
-L'armure d'un chevalier noir. Réduit grandement les dégâts subis la nuit, mais augmente grandement les dégâts subis pendant la journée.
+A black knight's armor. Greatly decreases damage taken at night, but greatly increases damage taken during the day.
 $E=====1179=====
 //小汚(こぎたな)い外とう。太陽ゲージが高いほど受けるダメージがへる。
-Un manteau légèrement sale. Réduit les dégâts subis en fonction de la Jauge Solaire.
+A slightly dirty overcoat. Decreases damage taken as the Solar Gauge increases.
 $E=====1180=====
 //干(ひ)からびた翼(つばさ)。フレイム・フロスト・クラウド・アースに弱くなる?
-Une aile desséchée. Rend vulnérable à Flamme, Givre, Nuage et Terre?
+A dried-up wing. Weakens Flame, Frost, Cloud, and Earth?
 $E=====1181=====
 //フォルテの力を宿したマント。受けるダメージが半分になる。
-Un manteau avec le pouvoir de Forte. Réduit de moitié les dégâts subis.
+A mantle with the power of Forte. Halves damage taken.
 $E=====1182=====
 //重りの入った腕輪(うでわ)。チカラが上がる(中)。ソードの受けるダメージが2倍になる。
-Un bracelet lesté. Augmente la Force. Double les dégâts subis en utilisant une épée.
+A heavy bracelet. Raises STR. Doubles damage taken when using a sword.
 $E=====1183=====
 //呪文(じゅもん)のきざまれた腕輪(うでわ)。チカラが上がる(大)。エナジーの消費量が2倍になる。
-Un bracelet gravé d'un charme. Augmente grandement la Force. Double la consommation d'énergie.
+A bracelet engraved with a charm. Greatly raises STR. Doubles energy consumption.
 $E=====1184=====
 //クラブの紋章(もんしょう)。縦斬(たてぎ)りであたえるダメージがふえる。
-Le blason des trèfles. Augmente les dégâts infligés par des coups verticaux.
+The crest of clubs. Increases damage dealt by vertical cuts.
 $E=====1185=====
 //ダイヤの紋章(もんしょう)。突(つ)きであたえるダメージがふえる。
-Le blason des diamants. Augmente les dégâts infligés par des attaques de poussée.
+The crest of diamonds. Increases damage dealt by thrust attacks.
 $E=====1186=====
 //小型の盾(たて)。ソードの受けるダメージが半分になる。
-Un petit bouclier. Réduit de moitié les dégâts subis en utilisant une épée.
+A tiny shield. Halves damage taken when using a sword.
 $E=====1187=====
 //魔法の手甲(てっこう)。ココロが高いほどソードであたえるダメージがふえ、チカラが下がる。
-Un gantelet magique. Les dégâts infligés augmentent avec l'Esprit. Diminue la Force.
+Magical gauntlet. Damage dealt increases as SPR increases. Decreases STR.
 $E=====1188=====
 //白騎士(しろきし)の手甲(てっこう)。昼間あたえるダメージがふえ、夜間あたえるダメージがへる。
-Le gantelet d'un chevalier blanc. Augmente les dégâts infligés pendant la journée, diminue les dégâts infligés la nuit.
+A white knight's gauntlet. Increases damage dealt during the day, decreases damage dealt at night.
 $E=====1189=====
 //黒騎士(くろきし)の手甲(てっこう)。夜間あたえるダメージがふえ、昼間あたえるダメージがへる。
-Le gantelet d'un chevalier noir. Augmente les dégâts infligés la nuit, diminue les dégâts infligés pendant la journée.
+A black knight's gauntlet. Increases damage dealt at night, decreases damage dealt during the day.
 $E=====1190=====
 //小汚(こぎたな)い手袋(てぶくろ)。太陽ゲージが高いほどあたえるダメージがふえる。
-Des gants légèrement sales. Augmente les dégâts infligés en fonction de la Jauge Solaire.
+Slightly dirty gloves. Increases damage dealt as the Solar Gauge increases.
 $E=====1191=====
 //ひび割れた爪(つめ)。エナジーの消費量が2倍になる?
-Un ongle fendu. Double la consommation d'énergie?
+A broken-off fingernail. Doubles energy consumption?
 $E=====1192=====
 //トマホークマンの力を宿したグローブ。ソードであたえるダメージがふえる。
-Un gant avec le pouvoir de Tomahawkman. Augmente les dégâts avec une épée.
+A glove with the power of Tomahawkman. Increases damage when using a sword.
 $E=====1193=====
 //鉄製(てつせい)の下駄(げた)。風の影響(えいきょう)を受けなくなる。足がおそくなる。
-Des socques en fer. Pas d'effet du vent. Ralentit le mouvement.
+Iron clogs. Wind has no effect. Decreases movement speed.
 $E=====1194=====
 //オモチャの靴(くつ)。カラダとチカラが上がる(小)。移動(いどう)時におかしな音がする。
-Des chaussures de jouet. Augmente légèrement la VIT et la Force. Le mouvement fait un bruit étrange.
+Toy shoes. Slightly raises VIT and STR. Movement makes a strange sound.
 $E=====1195=====
 //重りの入った脚輪(あしわ)。カラダとチカラが上がる(中)。アイテムがくさりやすくなる。
-Une bande de cheville lestée. Augmente la VIT et la Force. Les objets pourrissent plus vite.
+A heavy ankle band. Raises VIT and STR. Items spoil faster.
 $E=====1196=====
 //じょうぶな靴(くつ)。精霊虫(せいれいちゅう)の効果(こうか)が2倍になる。
-Des chaussures robustes. Double l'efficacité des Insectes Spirituels.
+Durable shoes. Doubles effectiveness of Spirit Bugs.
 $E=====1197=====
 //鉄製(てつせい)の靴(くつ)。溶岩(ようがん)によるダメージをふせぐ。
-Des chaussures en fer. Protège contre les dégâts de la lave.
+Iron shoes. Defends against lava damage.
 $E=====1198=====
 //羽かざりの付いた長靴(ながぐつ)。エナジーを消費して高速で移動(いどう)する。
-Des bottes en cuir avec des ailes décoratives. Consomme de l'énergie pour augmenter la vitesse de mouvement.
+Leather boots with decorative wings attached. Consumes energy to boost movement speed.
 $E=====1199=====
 //とてもじょうぶな靴(くつ)。太陽の果実の効果(こうか)が2倍になる。
-Des chaussures extrêmement robustes. Double l'effet des fruits solaires.
+Extremely durable shoes. Doubles effect of solar fruit.
 $E=====1200=====
 //小汚(こぎたな)い長靴(ながぐつ)。移動(いどう)時にライフが回復(かいふく)する。
-Des bottes en cuir légèrement sales. Récupère de la Vie pendant le mouvement.
+Slightly dirty leather boots. Recovers Life during movement.
 $E=====1201=====
 //ねじれた尻尾(しっぽ)。移動(いどう)時にエナジーを消費する?
-Une queue tordue. Consomme de l'énergie pendant le mouvement?
+A crooked tail. ENE decreases during movement?
 $E=====1202=====
 //ブルースの力を宿したブーツ。太陽ゲージがゼロでもダッシュ可能(かのう)になる。
-Des bottes avec le pouvoir de Blues. Permet de sprinter même quand la Jauge Solaire est à zéro.
+Boots with the power of Blues. Can dash even when the Solar Gauge is at zero.
 $E=====1203=====
 //これを捨てますか?
-Jeter ceci?
+Trash this?
 $E=====1204=====
 //閉ざされた牢獄 [1F]
 SEALED PRISON [1F]
@@ -3629,78 +3643,78 @@ $E=====1283=====
 SABATA
 $E=====1284=====
 //これを捨てますか?
-Jeter ceci?
+Trash this?
 $E=====1285=====
 //これを使いますか?
-Utiliser ceci?
+Use this?
 $E=====1286=====
 //バッグを整とんしますか?
-Réorganiser le sac?
+Rearrange bag?
 $E=====1287=====
 //<WEIGHT>Ａボタン</WEIGHT>で設定を変更します。
-Le <WEIGHT>Bouton A</WEIGHT> change les paramètres.
+<WEIGHT>A Button</WEIGHT> changes settings.
 $E=====1288=====
 //<WEIGHT>Ａボタン</WEIGHT>で決定します。
-Utilisez le <WEIGHT>Bouton A</WEIGHT> pour confirmer.
+Use the <WEIGHT>A Button</WEIGHT> to confirm.
 $E=====1289=====
 //設定を変更しました。
-Les paramètres ont été modifiés.
+Settings have been changed.
 $E=====1290=====
 //<WEIGHT>Ａボタン</WEIGHT>でセーブします。
-Appuyez sur le <WEIGHT>Bouton A</WEIGHT> pour sauvegarder.
+Press the <WEIGHT>A Button</WEIGHT> to save.
 $E=====1291=====
 //セーブしますか?
-Sauvegarder?
+Save?
 $E=====1292=====
 //以前のデータに上書きしますか?
-Écraser les données précédentes?
+Overwrite previous data?
 $E=====1293=====
 //セーブしています。
 //カートリッジを抜いたり
 //電源を切らないでください。
-Sauvegarde en cours.
-Ne retirez pas la cartouche
-ou n'éteignez pas l'appareil.
+Saving.
+Do not remove Game Pak
+or turn OFF the power.
 $E=====1294=====
 //セーブしています。
-Sauvegarde en cours.
+Saving.
 $E=====1295=====
 //カートリッジを抜いたり
 //電源を切らないでください。
-Ne retirez pas la cartouche
-ou n'éteignez pas l'appareil.
+Do not remove Game Pak
+or turn OFF the power.
 $E=====1296=====
 //セーブしました。
-Sauvegardé.
+Saved.
 $E=====1297=====
 //セーブに失敗しました。
-Échec de la sauvegarde.
+Save failed.
 $E=====1298=====
 //<WEIGHT>SELECTボタン</WEIGHT>+<WEIGHT>Ｌボタン</WEIGHT>+
 //<WEIGHT>Ｒボタン</WEIGHT>で復帰します。
-Appuyez sur <WEIGHT>SELECT</WEIGHT> + <WEIGHT>Bouton L</WEIGHT>
-<WEIGHT>Bouton R</WEIGHT> pour vous réveiller.
+Press <WEIGHT>SELECT</WEIGHT> + <WEIGHT>L Button</WEIGHT>
++ <WEIGHT>R Button</WEIGHT> to wake up.
 $E=====1299=====
 //<WEIGHT>Ａボタン</WEIGHT>でスリープします。
-Appuyez sur le <WEIGHT>Bouton A</WEIGHT> pour dormir.
+Press the <WEIGHT>A Button</WEIGHT> to sleep.
 $E=====1300=====
 //スリープしますか?
-Entrer en mode Sommeil?
+Enter Sleep Mode?
 $E=====1301=====
 //スリープします。
-Passage au sommeil.
+Going to sleep.
 $E=====1302=====
 //ライフ最大値に影響する。
-Affecte la vie maximale.
+Affects maximum life.
 $E=====1303=====
 //エナジー最大値に影響する。
-Affecte l'énergie maximale.
+Affects maximum energy.
 $E=====1304=====
 //攻撃力に影響する。
-Affecte la puissance d'attaque.
+Affects attack power.
 $E=====1305=====
 //移動速度・防御力に影響する。
-Affecte la vitesse de déplacement et la défense.
+Affects movement & defense.
 $E=====1306=====
 //よろしいですか?
 Okay?
@@ -3739,86 +3753,86 @@ $E=====1317=====
     OFF   
 $E=====1318=====
 //これを買いますか?
-Acheter ceci?
+Buy this?
 $E=====1319=====
 //これを売りますか?
-Vendre ceci?
+Sell this?
 $E=====1320=====
 //これを捨てますか?
-Jeter ceci?
+Trash this?
 $E=====1321=====
 //バッグを整とんしますか?
-Réorganiser le sac?
+Rearrange bag?
 $E=====1322=====
 //倉庫を整とんしますか?
-Réorganiser l'entrepôt?
+Rearrange Warehouse?
 $E=====1323=====
 //暗黒ローンに<WEIGHT><VAR=0>ソル</WEIGHT>払ってコンティニューしますか?
-Payer <WEIGHT><VAR=0> Soll</WEIGHT> à Dark Loans pour
-continuer?
+Pay Dark Loans <WEIGHT><VAR=0> Soll</WEIGHT> to
+continue?
 $E=====1324=====
 //暗黒ローンに<WEIGHT><VAR=0>ソル</WEIGHT>借りてコンティニューしますか?
-Emprunter <WEIGHT><VAR=0> Soll</WEIGHT> à Dark Loans pour continuer?
+Borrow <WEIGHT><VAR=0> Soll</WEIGHT> from Dark Loans to continue?
 $E=====1325=====
 //いらっしゃいませ!
-Bienvenue !
+Welcome!
 $E=====1326=====
 //ご利用になられますか?
-Pouvons-nous vous aider aujourd'hui?
+Can we help you today?
 $E=====1327=====
 //<WEIGHT>{＋}ボタン</WEIGHT>の左右で、太陽エネル
 //ギーの移し替えができます。
-Déplacez le <WEIGHT>{＋}Control Pad</WEIGHT> pour
-transférer l'énergie solaire.
+Move the <WEIGHT>{＋}Control Pad</WEIGHT> to
+transfer solar energy.
 $E=====1328=====
 //ありがとうございました!
-Merci beaucoup !
+Thank you very much!
 $E=====1329=====
 //    ソル×(1+利息: )
 //=    ソル借ります。
-     Soll×(taux :  +1)
-=     Soll dû.
+     Soll×(rate:  +1)
+=     Soll owed.
 $E=====1330=====
 //返済は<VAR=0>日後、太陽バンクから
 //の<WEIGHT>自動引き落し</WEIGHT>となります。
-Nous <WEIGHT>déduirons automatiquement</WEIGHT>
-le montant dû dans <VAR=0> jours.
+We'll <WEIGHT>automatically</WEIGHT> deduct
+the amount due in <VAR=0> days.
 $E=====1331=====
 //限度ソルを超えるので、
 //これ以上お貸しできません。
-Après avoir atteint la limite, nous
-ne vous prêterons plus rien.
+After you hit the limit, we
+won't lend you any more.
 $E=====1332=====
 //ご利用内容を選択してください
-Veuillez choisir l'un des
-services suivants.
+Please select one of the
+following services.
 $E=====1333=====
 //暗黒ローンに<WEIGHT><VAR=0>ソル</WEIGHT>借りて
 //やり直しますか?
-Emprunter <WEIGHT><VAR=0> Soll</WEIGHT> à Dark
-Loans pour continuer?
+Borrow <WEIGHT><VAR=0> Soll</WEIGHT> from Dark
+Loans to continue?
 $E=====1334=====
 //今度はきちんと返済してくださ
 //いね、<NAME>さん。
-Veuillez avoir le paiement exact
-prêt la prochaine fois.
+Please have the exact
+payment ready next time.
 $E=====1335=====
 //本当に大丈夫なんですか?
 //<NAME>さん・・・
-Est-ce vraiment d'accord?
+Is it really ok?
 <NAME>...
 $E=====1336=====
 //本当に好きなんですね?
 //走るの・・・
-Aimez-vous vraiment courir?
+Do you really enjoy running?
 $E=====1337=====
 //<NAME>さん・・・
 <NAME>...
 $E=====1338=====
 //現在、<NAME>さまは
 //ご利用になれません。
-<NAME>, vous ne devez pas
-vous habituer à cela.
+<NAME>, you mustn't get
+too accustomed to this.
 $E=====1339=====
 <END>
 $E=====1340=====
@@ -3871,42 +3885,42 @@ SAN MIGUEL
 $E=====1356=====
 //<LABEL>「地図A」
 //を手に入れた!!</LABEL><PROC=1>
-<LABEL>Vous avez obtenu la carte A !</LABEL><PROC=1>
+<LABEL>You got Map A!</LABEL><PROC=1>
 $E=====1357=====
 <PROC=0>
 <END>
 $E=====1358=====
 //<LABEL>「地図B」
 //を手に入れた!!</LABEL><PROC=1>
-<LABEL>Vous avez obtenu la carte B !</LABEL><PROC=1>
+<LABEL>You got Map B!</LABEL><PROC=1>
 $E=====1359=====
 <PROC=0>
 <END>
 $E=====1360=====
 //<LABEL>「地図C」
 //を手に入れた!!</LABEL><PROC=1>
-<LABEL>Vous avez obtenu la carte C !</LABEL><PROC=1>
+<LABEL>You got Map C!</LABEL><PROC=1>
 $E=====1361=====
 <PROC=0>
 <END>
 $E=====1362=====
 //<LABEL>「地図D」
 //を手に入れた!!</LABEL><PROC=1>
-<LABEL>Vous avez obtenu la carte D !</LABEL><PROC=1>
+<LABEL>You got Map D!</LABEL><PROC=1>
 $E=====1363=====
 <PROC=0>
 <END>
 $E=====1364=====
 //<LABEL>「地図E」
 //を手に入れた!!</LABEL><PROC=1>
-<LABEL>Vous avez obtenu la carte E !</LABEL><PROC=1>
+<LABEL>You got Map E!</LABEL><PROC=1>
 $E=====1365=====
 <PROC=0>
 <END>
 $E=====1366=====
 //<LABEL>「地図」
 //を手に入れた!!</LABEL><PROC=1>
-<LABEL>Vous avez obtenu la carte !</LABEL><PROC=1>
+<LABEL>You got the map!</LABEL><PROC=1>
 $E=====1367=====
 <PROC=0>
 <END>
@@ -3914,9 +3928,9 @@ $E=====1368=====
 //<LABEL>バイクフロント
 //「ブラスター{I}」
 //を手に入れた!!</LABEL><PROC=1>
-<LABEL>Partie avant de la moto
+<LABEL>Bike Front
 "Blaster {I}"
-obtenu !</LABEL><PROC=1>
+obtained!</LABEL><PROC=1>
 $E=====1369=====
 <PROC=0>
 <END>
@@ -3924,9 +3938,9 @@ $E=====1370=====
 //<LABEL>バイクフロント
 //「サイドワインダー」
 //を手に入れた!!</LABEL><PROC=1>
-<LABEL>Partie avant de la moto
+<LABEL>Bike Front
 "Sidewinder"
-obtenu !</LABEL><PROC=1>
+obtained!</LABEL><PROC=1>
 $E=====1371=====
 <PROC=0>
 <END>
@@ -3934,9 +3948,9 @@ $E=====1372=====
 //<LABEL>バイクフロント
 //「ブラスター{II}」
 //を手に入れた!!</LABEL><PROC=1>
-<LABEL>Partie avant de la moto
+<LABEL>Bike Front
 "Blaster {II}"
-obtenu !</LABEL><PROC=1>
+obtained!</LABEL><PROC=1>
 $E=====1373=====
 <PROC=0>
 <END>
@@ -3944,9 +3958,9 @@ $E=====1374=====
 //<LABEL>バイクフロント
 //「ハンマーヘッド」
 //を手に入れた!!</LABEL><PROC=1>
-<LABEL>Partie avant de la moto
+<LABEL>Bike Front
 "Hammerhead"
-obtenu !</LABEL><PROC=1>
+obtained!</LABEL><PROC=1>
 $E=====1375=====
 <PROC=0>
 <END>
@@ -3954,9 +3968,9 @@ $E=====1376=====
 //<LABEL>バイクフロント
 //「フェアリーテイル」
 //を手に入れた!!</LABEL><PROC=1>
-<LABEL>Partie avant de la moto
-"Conte de Fées"
-obtenu !</LABEL><PROC=1>
+<LABEL>Bike Front
+"Fairy Tale"
+obtained!</LABEL><PROC=1>
 $E=====1377=====
 <PROC=0>
 <END>
@@ -3964,9 +3978,9 @@ $E=====1378=====
 //<LABEL>バイクフロント
 //「クラッシャー」
 //を手に入れた!!</LABEL><PROC=1>
-<LABEL>Partie avant de la moto
-"Broyeur"
-obtenu !</LABEL><PROC=1>
+<LABEL>Bike Front
+"Crusher"
+obtained!</LABEL><PROC=1>
 $E=====1379=====
 <PROC=0>
 <END>
@@ -3974,9 +3988,9 @@ $E=====1380=====
 //<LABEL>バイクボディ
 //「ヴァイキング」
 //を手に入れた!!</LABEL><PROC=1>
-<LABEL>Corps de la moto
+<LABEL>Bike Body
 "Viking"
-obtenu !</LABEL><PROC=1>
+obtained!</LABEL><PROC=1>
 $E=====1381=====
 <PROC=0>
 <END>
@@ -3984,9 +3998,9 @@ $E=====1382=====
 //<LABEL>バイクボディ
 //「エインヘルヤル」
 //を手に入れた!!</LABEL><PROC=1>
-<LABEL>Corps de la moto
+<LABEL>Bike Body
 "Einherjar"
-obtenu !</LABEL><PROC=1>
+obtained!</LABEL><PROC=1>
 $E=====1383=====
 <PROC=0>
 <END>
@@ -3994,9 +4008,9 @@ $E=====1384=====
 //<LABEL>バイクボディ
 //「ウルフヘジン」
 //を手に入れた!!</LABEL><PROC=1>
-<LABEL>Corps de la moto
+<LABEL>Bike Body
 "Ulfhedinn"
-obtenu !</LABEL><PROC=1>
+obtained!</LABEL><PROC=1>
 $E=====1385=====
 <PROC=0>
 <END>
@@ -4004,9 +4018,9 @@ $E=====1386=====
 //<LABEL>バイクボディ
 //「ベルセルク」
 //を手に入れた!!</LABEL><PROC=1>
-<LABEL>Corps de la moto
+<LABEL>Bike Body
 "Berserk"
-obtenu !</LABEL><PROC=1>
+obtained!</LABEL><PROC=1>
 $E=====1387=====
 <PROC=0>
 <END>
@@ -4014,9 +4028,9 @@ $E=====1388=====
 //<LABEL>バイクボディ
 //「ヴァルキリー」
 //を手に入れた!!</LABEL><PROC=1>
-<LABEL>Corps de la moto
+<LABEL>Bike Body
 "Valkyrie"
-obtenu !</LABEL><PROC=1>
+obtained!</LABEL><PROC=1>
 $E=====1389=====
 <PROC=0>
 <END>
@@ -4024,9 +4038,9 @@ $E=====1390=====
 //<LABEL>バイクボディ
 //「スレイプニル」
 //を手に入れた!!</LABEL><PROC=1>
-<LABEL>Corps de la moto
+<LABEL>Bike Body
 "Sleipnir"
-obtenu !</LABEL><PROC=1>
+obtained!</LABEL><PROC=1>
 $E=====1391=====
 <PROC=0>
 <END>
@@ -4034,9 +4048,9 @@ $E=====1392=====
 //<LABEL>バイクタイヤ
 //「スタンダード{I}」
 //を手に入れた!!</LABEL><PROC=1>
-<LABEL>Pneu de moto
+<LABEL>Bike Tire
 "Standard {I}"
-obtenu !</LABEL><PROC=1>
+obtained!</LABEL><PROC=1>
 $E=====1393=====
 <PROC=0>
 <END>
@@ -4044,9 +4058,9 @@ $E=====1394=====
 //<LABEL>バイクタイヤ
 //「スタンダード{II}」
 //を手に入れた!!</LABEL><PROC=1>
-<LABEL>Pneu de moto
+<LABEL>Bike Tire
 "Standard {II}"
-obtenu !</LABEL><PROC=1>
+obtained!</LABEL><PROC=1>
 $E=====1395=====
 <PROC=0>
 <END>
@@ -4054,9 +4068,9 @@ $E=====1396=====
 //<LABEL>バイクタイヤ
 //「トライアル」
 //を手に入れた!!</LABEL><PROC=1>
-<LABEL>Pneu de moto
-"Tout-Terrain"
-obtenu !</LABEL><PROC=1>
+<LABEL>Bike Tire
+"Trail"
+obtained!</LABEL><PROC=1>
 $E=====1397=====
 <PROC=0>
 <END>
@@ -4064,9 +4078,9 @@ $E=====1398=====
 //<LABEL>バイクタイヤ
 //「チェーン」
 //を手に入れた!!</LABEL><PROC=1>
-<LABEL>Pneu de moto
-"Chaîne"
-obtenu !</LABEL><PROC=1>
+<LABEL>Bike Tire
+"Chain"
+obtained!</LABEL><PROC=1>
 $E=====1399=====
 <PROC=0>
 <END>
@@ -4074,9 +4088,9 @@ $E=====1400=====
 //<LABEL>バイクタイヤ
 //「マルチパーパス」
 //を手に入れた!!</LABEL><PROC=1>
-<LABEL>Pneu de moto
-"Multi-usage"
-obtenu !</LABEL><PROC=1>
+<LABEL>Bike Tire
+"Multi-purpose"
+obtained!</LABEL><PROC=1>
 $E=====1401=====
 <PROC=0>
 <END>
@@ -4084,9 +4098,9 @@ $E=====1402=====
 //<LABEL>バイクタイヤ
 //「ブースター」
 //を手に入れた!!</LABEL><PROC=1>
-<LABEL>Pneu de moto
-"Turbo"
-obtenu !</LABEL><PROC=1>
+<LABEL>Bike Tire
+"Booster"
+obtained!</LABEL><PROC=1>
 $E=====1403=====
 <PROC=0>
 <END>
@@ -4094,9 +4108,9 @@ $E=====1404=====
 //<LABEL>バイクスペシャル
 //「リペア」
 //を手に入れた!!</LABEL><PROC=1>
-<LABEL>Spécial moto
-"Réparation"
-obtenu !</LABEL><PROC=1>
+<LABEL>Bike Special
+"Repair"
+obtained!</LABEL><PROC=1>
 $E=====1405=====
 <PROC=0>
 <END>
@@ -4104,9 +4118,9 @@ $E=====1406=====
 //<LABEL>バイクスペシャル
 //「マイン」
 //を手に入れた!!</LABEL><PROC=1>
-<LABEL>Spécial moto
+<LABEL>Bike Special
 "Mine"
-obtenu !</LABEL><PROC=1>
+obtained!</LABEL><PROC=1>
 $E=====1407=====
 <PROC=0>
 <END>
@@ -4114,9 +4128,9 @@ $E=====1408=====
 //<LABEL>バイクスペシャル
 //「バリア」
 //を手に入れた!!</LABEL><PROC=1>
-<LABEL>Spécial moto
-"Barrière"
-obtenu !</LABEL><PROC=1>
+<LABEL>Bike Special
+"Barrier"
+obtained!</LABEL><PROC=1>
 $E=====1409=====
 <PROC=0>
 <END>
@@ -4124,9 +4138,9 @@ $E=====1410=====
 //<LABEL>バイクスペシャル
 //「スプレッド」
 //を手に入れた!!</LABEL><PROC=1>
-<LABEL>Spécial moto
-"Dispersion"
-obtenu !</LABEL><PROC=1>
+<LABEL>Bike Special
+"Spread"
+obtained!</LABEL><PROC=1>
 $E=====1411=====
 <PROC=0>
 <END>
@@ -4134,9 +4148,9 @@ $E=====1412=====
 //<LABEL>バイクスペシャル
 //「ステルス」
 //を手に入れた!!</LABEL><PROC=1>
-<LABEL>Spécial moto
-"Invisibilité"
-obtenu !</LABEL><PROC=1>
+<LABEL>Bike Special
+"Stealth"
+obtained!</LABEL><PROC=1>
 $E=====1413=====
 <PROC=0>
 <END>
@@ -4144,9 +4158,9 @@ $E=====1414=====
 //<LABEL>バイクスペシャル
 //「弾道ミサイル」
 //を手に入れた!!</LABEL><PROC=1>
-<LABEL>Spécial moto
+<LABEL>Bike Special
 "Missiles"
-obtenu !</LABEL><PROC=1>
+obtained!</LABEL><PROC=1>
 $E=====1415=====
 <PROC=0>
 <END>
@@ -4154,9 +4168,9 @@ $E=====1416=====
 //<LABEL>バイクオプション
 //「マジックハンドル」
 //を手に入れた!!</LABEL><PROC=1>
-<LABEL>Option moto
-"Poignée Magique"
-obtenu !</LABEL><PROC=1>
+<LABEL>Bike Option
+"Magic Handle"
+obtained!</LABEL><PROC=1>
 $E=====1417=====
 <PROC=0>
 <END>
@@ -4164,9 +4178,9 @@ $E=====1418=====
 //<LABEL>バイクオプション
 //「マジックステップ」
 //を手に入れた!!</LABEL><PROC=1>
-<LABEL>Option moto
-"Marche Magique"
-obtenu !</LABEL><PROC=1>
+<LABEL>Bike Option
+"Magic Step"
+obtained!</LABEL><PROC=1>
 $E=====1419=====
 <PROC=0>
 <END>
@@ -4174,9 +4188,9 @@ $E=====1420=====
 //<LABEL>バイクオプション
 //「ロックエンブレム」
 //を手に入れた!!</LABEL><PROC=1>
-<LABEL>Option moto
-"Emblème Rock"
-obtenu !</LABEL><PROC=1>
+<LABEL>Bike Option
+"Rock Emblem"
+obtained!</LABEL><PROC=1>
 $E=====1421=====
 <PROC=0>
 <END>
@@ -4184,9 +4198,9 @@ $E=====1422=====
 //<LABEL>バイクオプション
 //「プラチナプラグ」
 //を手に入れた!!</LABEL><PROC=1>
-<LABEL>Option moto
-"Bougie en Platine"
-obtenu !</LABEL><PROC=1>
+<LABEL>Bike Option
+"Platinum Plug"
+obtained!</LABEL><PROC=1>
 $E=====1423=====
 <PROC=0>
 <END>
@@ -4194,9 +4208,9 @@ $E=====1424=====
 //<LABEL>バイクオプション
 //「高級オイル」
 //を手に入れた!!</LABEL><PROC=1>
-<LABEL>Option moto
-"Huile de Haute Qualité"
-obtenu !</LABEL><PROC=1>
+<LABEL>Bike Option
+"High Grade Oil"
+obtained!</LABEL><PROC=1>
 $E=====1425=====
 <PROC=0>
 <END>
@@ -4204,9 +4218,9 @@ $E=====1426=====
 //<LABEL>バイクオプション
 //「HYPチャージャー」
 //を手に入れた!!</LABEL><PROC=1>
-<LABEL>Option de vélo
-"Chargeur Hyper"
-obtenu !</LABEL><PROC=1>
+<LABEL>Bike Option
+"Hyper Charger"
+obtained!</LABEL><PROC=1>
 $E=====1427=====
 <PROC=0>
 <END>
@@ -4214,9 +4228,9 @@ $E=====1428=====
 //<LABEL>バイクオプション
 //「ブルースチェーン」
 //を手に入れた!!</LABEL><PROC=1>
-<LABEL>Option de vélo
-"Chaîne Blues"
-obtenu !</LABEL><PROC=1>
+<LABEL>Bike Option
+"Blues Chain"
+obtained!</LABEL><PROC=1>
 $E=====1429=====
 <PROC=0>
 <END>
@@ -4224,9 +4238,9 @@ $E=====1430=====
 //<LABEL>バイクオプション
 //「カーネルギア」
 //を手に入れた!!</LABEL><PROC=1>
-<LABEL>Option de vélo
-"Engrenage Colonel"
-obtenu !</LABEL><PROC=1>
+<LABEL>Bike Option
+"Colonel Gear"
+obtained!</LABEL><PROC=1>
 $E=====1431=====
 <PROC=0>
 <END>
@@ -4234,9 +4248,9 @@ $E=====1432=====
 //<LABEL>バイクオプション
 //「強化アーム」
 //を手に入れた!!</LABEL><PROC=1>
-<LABEL>Option de vélo
-"Armature Renforcée"
-obtenu !</LABEL><PROC=1>
+<LABEL>Bike Option
+"Reinforced Arm"
+obtained!</LABEL><PROC=1>
 $E=====1433=====
 <PROC=0>
 <END>
@@ -4244,9 +4258,9 @@ $E=====1434=====
 //<LABEL>バイクオプション
 //「強化フレーム」
 //を手に入れた!!</LABEL><PROC=1>
-<LABEL>Option de vélo
-"Châssis Renforcé"
-obtenu !</LABEL><PROC=1>
+<LABEL>Bike Option
+"Reinforced Frame"
+obtained!</LABEL><PROC=1>
 $E=====1435=====
 <PROC=0>
 <END>
@@ -4254,9 +4268,9 @@ $E=====1436=====
 //<LABEL>バイクオプション
 //「ナックルガード」
 //を手に入れた!!</LABEL><PROC=1>
-<LABEL>Option de vélo
-"Garde-Mains"
-obtenu !</LABEL><PROC=1>
+<LABEL>Bike Option
+"Knuckle Guard"
+obtained!</LABEL><PROC=1>
 $E=====1437=====
 <PROC=0>
 <END>
@@ -4264,9 +4278,9 @@ $E=====1438=====
 //<LABEL>バイクオプション
 //「プロテクター」
 //を手に入れた!!</LABEL><PROC=1>
-<LABEL>Option de vélo
-"Protecteur"
-obtenu !</LABEL><PROC=1>
+<LABEL>Bike Option
+"Protector"
+obtained!</LABEL><PROC=1>
 $E=====1439=====
 <PROC=0>
 <END>
@@ -4274,9 +4288,9 @@ $E=====1440=====
 //<LABEL>バイクオプション
 //「BSTバッテリー」
 //を手に入れた!!</LABEL><PROC=1>
-<LABEL>Option de vélo
-"Batterie BST"
-obtenu !</LABEL><PROC=1>
+<LABEL>Bike Option
+"BST Battery"
+obtained!</LABEL><PROC=1>
 $E=====1441=====
 <PROC=0>
 <END>
@@ -4284,9 +4298,9 @@ $E=====1442=====
 //<LABEL>バイクオプション
 //「WPNバッテリー」
 //を手に入れた!!</LABEL><PROC=1>
-<LABEL>Option de vélo
-"Batterie WPN"
-obtenu !</LABEL><PROC=1>
+<LABEL>Bike Option
+"WPN Battery"
+obtained!</LABEL><PROC=1>
 $E=====1443=====
 <PROC=0>
 <END>
@@ -4294,9 +4308,9 @@ $E=====1444=====
 //<LABEL>バイクオプション
 //「SPバッテリー」
 //を手に入れた!!</LABEL><PROC=1>
-<LABEL>Option de vélo
-"Batterie SP"
-obtenu !</LABEL><PROC=1>
+<LABEL>Bike Option
+"SP Battery"
+obtained!</LABEL><PROC=1>
 $E=====1445=====
 <PROC=0>
 <END>
@@ -4304,9 +4318,9 @@ $E=====1446=====
 //<LABEL>バイクオプション
 //「クラッチマスター」
 //を手に入れた!!</LABEL><PROC=1>
-<LABEL>Option de vélo
-"Maître Clutch"
-obtenu !</LABEL><PROC=1>
+<LABEL>Bike Option
+"Clutch Master"
+obtained!</LABEL><PROC=1>
 $E=====1447=====
 <PROC=0>
 <END>
@@ -4314,9 +4328,9 @@ $E=====1448=====
 //<LABEL>バイクオプション
 //「ブレーキマスター」
 //を手に入れた!!</LABEL><PROC=1>
-<LABEL>Option de vélo
-"Maître Frein"
-obtenu !</LABEL><PROC=1>
+<LABEL>Bike Option
+"Brake Master"
+obtained!</LABEL><PROC=1>
 $E=====1449=====
 <PROC=0>
 <END>
@@ -4324,9 +4338,9 @@ $E=====1450=====
 //<LABEL>バイクオプション
 //「キッドのアフロ」
 //を手に入れた!!</LABEL><PROC=1>
-<LABEL>Option de vélo
-"Afro de Kid"
-obtenu !</LABEL><PROC=1>
+<LABEL>Bike Option
+"Kid's Afro"
+obtained!</LABEL><PROC=1>
 $E=====1451=====
 <PROC=0>
 <END>
@@ -4334,9 +4348,9 @@ $E=====1452=====
 //<LABEL>バイクオプション
 //「スミスのハンマー」
 //を手に入れた!!</LABEL><PROC=1>
-<LABEL>Option de vélo
-"Marteau de Smith"
-obtenu !</LABEL><PROC=1>
+<LABEL>Bike Option
+"Smith's Hammer"
+obtained!</LABEL><PROC=1>
 $E=====1453=====
 <PROC=0>
 <END>
@@ -4344,9 +4358,9 @@ $E=====1454=====
 //<LABEL>バイクオプション
 //「スミレのエプロン」
 //を手に入れた!!</LABEL><PROC=1>
-<LABEL>Option de vélo
-"Tablier de Violet"
-obtenu !</LABEL><PROC=1>
+<LABEL>Bike Option
+"Violet's Apron"
+obtained!</LABEL><PROC=1>
 $E=====1455=====
 <PROC=0>
 <END>
@@ -4354,9 +4368,9 @@ $E=====1456=====
 //<LABEL>バイクオプション
 //「レディのカード」
 //を手に入れた!!</LABEL><PROC=1>
-<LABEL>Option de vélo
-"Carte de Lady"
-obtenu !</LABEL><PROC=1>
+<LABEL>Bike Option
+"Lady's Card"
+obtained!</LABEL><PROC=1>
 $E=====1457=====
 <PROC=0>
 <END>
@@ -4364,9 +4378,9 @@ $E=====1458=====
 //<LABEL>バイクオプション
 //「シャイアンのオノ」
 //を手に入れた!!</LABEL><PROC=1>
-<LABEL>Option de vélo
-"Hache de Cheyenne"
-obtenu !</LABEL><PROC=1>
+<LABEL>Bike Option
+"Cheyenne's Axe"
+obtained!</LABEL><PROC=1>
 $E=====1459=====
 <PROC=0>
 <END>
@@ -4374,9 +4388,9 @@ $E=====1460=====
 //<LABEL>バイクオプション
 //「リタのリボン」
 //を手に入れた!!</LABEL><PROC=1>
-<LABEL>Option de vélo
-"Ribbon de Lita"
-obtenu !</LABEL><PROC=1>
+<LABEL>Bike Option
+"Lita's Ribbon"
+obtained!</LABEL><PROC=1>
 $E=====1461=====
 <PROC=0>
 <END>
@@ -4384,9 +4398,9 @@ $E=====1462=====
 //<LABEL>バイクオプション
 //「ザジの魔法石」
 //を手に入れた!!</LABEL><PROC=1>
-<LABEL>Option de vélo
-"Orbe de Zazie"
-obtenu !</LABEL><PROC=1>
+<LABEL>Bike Option
+"Zazie's Orb"
+obtained!</LABEL><PROC=1>
 $E=====1463=====
 <PROC=0>
 <END>
@@ -4394,9 +4408,9 @@ $E=====1464=====
 //<LABEL>バイクカラー
 //「コフィングレー」
 //を手に入れた!!</LABEL><PROC=1>
-<LABEL>Couleur de vélo
-"Gris Cercueil"
-obtenu !</LABEL><PROC=1>
+<LABEL>Bike Color
+"Coffin Gray"
+obtained!</LABEL><PROC=1>
 $E=====1465=====
 <PROC=0>
 <END>
@@ -4404,9 +4418,9 @@ $E=====1466=====
 //<LABEL>バイクカラー
 //「ソルイエロー」
 //を手に入れた!!</LABEL><PROC=1>
-<LABEL>Couleur de vélo
-"Jaune Sol"
-obtenu !</LABEL><PROC=1>
+<LABEL>Bike Color
+"Sol Yellow"
+obtained!</LABEL><PROC=1>
 $E=====1467=====
 <PROC=0>
 <END>
@@ -4414,9 +4428,9 @@ $E=====1468=====
 //<LABEL>バイクカラー
 //「ルナホワイト」
 //を手に入れた!!</LABEL><PROC=1>
-<LABEL>Couleur de vélo
-"Blanc Luna"
-obtenu !</LABEL><PROC=1>
+<LABEL>Bike Color
+"Luna White"
+obtained!</LABEL><PROC=1>
 $E=====1469=====
 <PROC=0>
 <END>
@@ -4424,9 +4438,9 @@ $E=====1470=====
 //<LABEL>バイクカラー
 //「フレイムレッド」
 //を手に入れた!!</LABEL><PROC=1>
-<LABEL>Couleur de vélo
-"Rouge Flamme"
-obtenu !</LABEL><PROC=1>
+<LABEL>Bike Color
+"Flame Red"
+obtained!</LABEL><PROC=1>
 $E=====1471=====
 <PROC=0>
 <END>
@@ -4434,9 +4448,9 @@ $E=====1472=====
 //<LABEL>バイクカラー
 //「フロストブルー」
 //を手に入れた!!</LABEL><PROC=1>
-<LABEL>Couleur de vélo
-"Bleu Givré"
-obtenu !</LABEL><PROC=1>
+<LABEL>Bike Color
+"Frost Blue"
+obtained!</LABEL><PROC=1>
 $E=====1473=====
 <PROC=0>
 <END>
@@ -4444,9 +4458,9 @@ $E=====1474=====
 //<LABEL>バイクカラー
 //「クラウドパープル」
 //を手に入れた!!</LABEL><PROC=1>
-<LABEL>Couleur de vélo
-"Violet Nuage"
-obtenu !</LABEL><PROC=1>
+<LABEL>Bike Color
+"Cloud Purple"
+obtained!</LABEL><PROC=1>
 $E=====1475=====
 <PROC=0>
 <END>
@@ -4454,9 +4468,9 @@ $E=====1476=====
 //<LABEL>バイクカラー
 //「アースグリーン」
 //を手に入れた!!</LABEL><PROC=1>
-<LABEL>Couleur de vélo
-"Vert Terre"
-obtenu !</LABEL><PROC=1>
+<LABEL>Bike Color
+"Earth Green"
+obtained!</LABEL><PROC=1>
 $E=====1477=====
 <PROC=0>
 <END>
@@ -4464,9 +4478,9 @@ $E=====1478=====
 //<LABEL>バイクカラー
 //「ダークブラック」
 //を手に入れた!!</LABEL><PROC=1>
-<LABEL>Couleur de vélo
-"Noir Sombre"
-obtenu !</LABEL><PROC=1>
+<LABEL>Bike Color
+"Dark Black"
+obtained!</LABEL><PROC=1>
 $E=====1479=====
 <PROC=0>
 <END>
@@ -4474,9 +4488,9 @@ $E=====1480=====
 //<LABEL>バイクカラー
 //「ジャンゴレッド」
 //を手に入れた!!</LABEL><PROC=1>
-<LABEL>Couleur de vélo
-"Rouge Django"
-obtenu !</LABEL><PROC=1>
+<LABEL>Bike Color
+"Django Red"
+obtained!</LABEL><PROC=1>
 $E=====1481=====
 <PROC=0>
 <END>
@@ -4484,9 +4498,9 @@ $E=====1482=====
 //<LABEL>バイクカラー
 //「サバタブラック」
 //を手に入れた!!</LABEL><PROC=1>
-<LABEL>Couleur de vélo
-"Noir Sabata"
-obtenu !</LABEL><PROC=1>
+<LABEL>Bike Color
+"Sabata Black"
+obtained!</LABEL><PROC=1>
 $E=====1483=====
 <PROC=0>
 <END>
@@ -4494,9 +4508,9 @@ $E=====1484=====
 //<LABEL>バイクカラー
 //「トリニティーSP」
 //を手に入れた!!</LABEL><PROC=1>
-<LABEL>Couleur de vélo
-"Trinité SP"
-obtenu !</LABEL><PROC=1>
+<LABEL>Bike Color
+"Trinity SP"
+obtained!</LABEL><PROC=1>
 $E=====1485=====
 <PROC=0>
 <END>
@@ -4504,9 +4518,9 @@ $E=====1486=====
 //<LABEL>バイクカラー
 //「ロックブルー」
 //を手に入れた!!</LABEL><PROC=1>
-<LABEL>Couleur de vélo
-"Bleu Rock"
-obtenu !</LABEL><PROC=1>
+<LABEL>Bike Color
+"Rock Blue"
+obtained!</LABEL><PROC=1>
 $E=====1487=====
 <PROC=0>
 <END>
@@ -4514,9 +4528,9 @@ $E=====1488=====
 //<LABEL>ぬいぐるみ
 //「おてんこさま」
 //を手に入れた!!</LABEL><PROC=1>
-<LABEL>Peluche
-"Maître Otenko"
-obtenu !</LABEL><PROC=1>
+<LABEL>Stuffed Doll
+"Master Otenko"
+obtained!</LABEL><PROC=1>
 $E=====1489=====
 <PROC=0>
 <END>
@@ -4524,9 +4538,9 @@ $E=====1490=====
 //<LABEL>ぬいぐるみ
 //「おけんこさま」
 //を手に入れた!!</LABEL><PROC=1>
-<LABEL>Peluche
-"Maître Okenko"
-obtenu !</LABEL><PROC=1>
+<LABEL>Stuffed Doll
+"Master Okenko"
+obtained!</LABEL><PROC=1>
 $E=====1491=====
 <PROC=0>
 <END>
@@ -4534,9 +4548,9 @@ $E=====1492=====
 //<LABEL>ぬいぐるみ
 //「かげんこさま」
 //を手に入れた!!</LABEL><PROC=1>
-<LABEL>Peluche
-"Maître Kagenko"
-obtenu !</LABEL><PROC=1>
+<LABEL>Stuffed Doll
+"Master Kagenko"
+obtained!</LABEL><PROC=1>
 $E=====1493=====
 <PROC=0>
 <END>
@@ -4544,9 +4558,9 @@ $E=====1494=====
 //<LABEL>ぬいぐるみ
 //「おがんくさま」
 //を手に入れた!!</LABEL><PROC=1>
-<LABEL>Peluche
-"Maître Oganku"
-obtenu !</LABEL><PROC=1>
+<LABEL>Stuffed Doll
+"Master Oganku"
+obtained!</LABEL><PROC=1>
 $E=====1495=====
 <PROC=0>
 <END>
@@ -4554,9 +4568,9 @@ $E=====1496=====
 //<LABEL>ぬいぐるみ
 //「どろんぼさま」
 //を手に入れた!!</LABEL><PROC=1>
-<LABEL>Peluche
-"Maître Doronbo"
-obtenu !</LABEL><PROC=1>
+<LABEL>Stuffed Doll
+"Master Doronbo"
+obtained!</LABEL><PROC=1>
 $E=====1497=====
 <PROC=0>
 <END>
@@ -4564,9 +4578,9 @@ $E=====1498=====
 //<LABEL>ぬいぐるみ
 //「おたんてさま」
 //を手に入れた!!</LABEL><PROC=1>
-<LABEL>Peluche
-"Maître Otante"
-obtenu !</LABEL><PROC=1>
+<LABEL>Stuffed Doll
+"Master Otante"
+obtained!</LABEL><PROC=1>
 $E=====1499=====
 <PROC=0>
 <END>
@@ -4574,9 +4588,9 @@ $E=====1500=====
 //<LABEL>ぬいぐるみ
 //「陽子ちゃんと暗子ちゃん」
 //を手に入れた!!</LABEL><PROC=1>
-<LABEL>Peluche
+<LABEL>Stuffed Doll
 "Luxana & Doomy"
-obtenu !</LABEL><PROC=1>
+obtained!</LABEL><PROC=1>
 $E=====1501=====
 <PROC=0>
 <END>
@@ -4584,9 +4598,9 @@ $E=====1502=====
 //<LABEL>ぬいぐるみ
 //「ロックマン」
 //を手に入れた!!</LABEL><PROC=1>
-<LABEL>Peluche
+<LABEL>Stuffed Doll
 "Rockman"
-obtenu !</LABEL><PROC=1>
+obtained!</LABEL><PROC=1>
 $E=====1503=====
 <PROC=0>
 <END>
@@ -4594,9 +4608,9 @@ $E=====1504=====
 //<LABEL>ぬいぐるみ
 //「ブルース」
 //を手に入れた!!</LABEL><PROC=1>
-<LABEL>Peluche
+<LABEL>Stuffed Doll
 "Blues"
-obtenu !</LABEL><PROC=1>
+obtained!</LABEL><PROC=1>
 $E=====1505=====
 <PROC=0>
 <END>
@@ -4604,9 +4618,9 @@ $E=====1506=====
 //<LABEL>ぬいぐるみ
 //「カーネル」
 //を手に入れた!!</LABEL><PROC=1>
-<LABEL>Peluche
+<LABEL>Stuffed Doll
 "Colonel"
-obtenu !</LABEL><PROC=1>
+obtained!</LABEL><PROC=1>
 $E=====1507=====
 <PROC=0>
 <END>
@@ -4614,9 +4628,9 @@ $E=====1508=====
 //<LABEL>ブロマイド
 //「太陽少年<NAME>(A)」
 //を手に入れた!!</LABEL><PROC=1>
-<LABEL>Photographie
-"Garçon Solaire <NAME> (A)"
-obtenu !</LABEL><PROC=1>
+<LABEL>Photograph
+"Solar Boy <NAME> (A)"
+obtained!</LABEL><PROC=1>
 $E=====1509=====
 <PROC=0>
 <END>
@@ -4624,9 +4638,9 @@ $E=====1510=====
 //<LABEL>ブロマイド
 //「太陽少年<NAME>(B)」
 //を手に入れた!!</LABEL><PROC=1>
-<LABEL>Photographie
-"Garçon Solaire <NAME> (B)"
-obtenu !</LABEL><PROC=1>
+<LABEL>Photograph
+"Solar Boy <NAME> (B)"
+obtained!</LABEL><PROC=1>
 $E=====1511=====
 <PROC=0>
 <END>
@@ -4634,9 +4648,9 @@ $E=====1512=====
 //<LABEL>ブロマイド
 //「太陽の使者おてんこさま」
 //を手に入れた!!</LABEL><PROC=1>
-<LABEL>Photographie
-"Messager du Soleil
-Otenko" obtenu !</LABEL><PROC=1>
+<LABEL>Photograph
+"Messenger of the Sun
+Otenko" obtained!</LABEL><PROC=1>
 $E=====1513=====
 <PROC=0>
 <END>
@@ -4644,9 +4658,9 @@ $E=====1514=====
 //<LABEL>ブロマイド
 //「暗黒少年サバタ(A)」
 //を手に入れた!!</LABEL><PROC=1>
-<LABEL>Photographie
-"Garçon des Ténèbres Sabata (A)"
-obtenu !</LABEL><PROC=1>
+<LABEL>Photograph
+"Dark Boy Sabata (A)"
+obtained!</LABEL><PROC=1>
 $E=====1515=====
 <PROC=0>
 <END>
@@ -4654,9 +4668,9 @@ $E=====1516=====
 //<LABEL>ブロマイド
 //「暗黒少年サバタ(B)」
 //を手に入れた!!</LABEL><PROC=1>
-<LABEL>Photographie
-"Garçon des Ténèbres Sabata (B)"
-obtenu !</LABEL><PROC=1>
+<LABEL>Photograph
+"Dark Boy Sabata (B)"
+obtained!</LABEL><PROC=1>
 $E=====1517=====
 <PROC=0>
 <END>
@@ -4664,9 +4678,9 @@ $E=====1518=====
 //<LABEL>ブロマイド
 //「未来少年トリニティ」
 //を手に入れた!!</LABEL><PROC=1>
-<LABEL>Photographie
-"Garçon du Futur Trinity"
-obtenu !</LABEL><PROC=1>
+<LABEL>Photograph
+"Future Boy Trinity"
+obtained!</LABEL><PROC=1>
 $E=====1519=====
 <PROC=0>
 <END>
@@ -4674,9 +4688,9 @@ $E=====1520=====
 //<LABEL>ブロマイド
 //「嘆きの魔女カーミラ」
 //を手に入れた!!</LABEL><PROC=1>
-<LABEL>Photographie
-"Sorcière Pleureuse Carmilla"
-obtenu !</LABEL><PROC=1>
+<LABEL>Photograph
+"Crying Witch Carmilla"
+obtained!</LABEL><PROC=1>
 $E=====1521=====
 <PROC=0>
 <END>
@@ -4684,9 +4698,9 @@ $E=====1522=====
 //<LABEL>ブロマイド
 //「大地の巫女リタ」
 //を手に入れた!!</LABEL><PROC=1>
-<LABEL>Photographie
-"Prêtresse de la Terre Lita"
-obtenu !</LABEL><PROC=1>
+<LABEL>Photograph
+"Earthly Maiden Lita"
+obtained!</LABEL><PROC=1>
 $E=====1523=====
 <PROC=0>
 <END>
@@ -4694,9 +4708,9 @@ $E=====1524=====
 //<LABEL>ブロマイド
 //「ひまわり娘ザジ」
 //を手に入れた!!</LABEL><PROC=1>
-<LABEL>Photographie
-"Fille Tournesol Zazie"
-obtenu !</LABEL><PROC=1>
+<LABEL>Photograph
+"Sunflower Girl Zazie"
+obtained!</LABEL><PROC=1>
 $E=====1525=====
 <PROC=0>
 <END>
@@ -4704,9 +4718,9 @@ $E=====1526=====
 //<LABEL>ブロマイド
 //「鋼鉄のスミス」
 //を手に入れた!!</LABEL><PROC=1>
-<LABEL>Photographie
-"Smith d'Acier"
-obtenu !</LABEL><PROC=1>
+<LABEL>Photograph
+"Steel Smith"
+obtained!</LABEL><PROC=1>
 $E=====1527=====
 <PROC=0>
 <END>
@@ -4714,9 +4728,9 @@ $E=====1528=====
 //<LABEL>ブロマイド
 //「スミレ」
 //を手に入れた!!</LABEL><PROC=1>
-<LABEL>Photographie
+<LABEL>Photograph
 "Violet"
-obtenu !</LABEL><PROC=1>
+obtained!</LABEL><PROC=1>
 $E=====1529=====
 <PROC=0>
 <END>
@@ -4724,9 +4738,9 @@ $E=====1530=====
 //<LABEL>ブロマイド
 //「クロ」
 //を手に入れた!!</LABEL><PROC=1>
-<LABEL>Photographie
-"Nero"
-obtenu !</LABEL><PROC=1>
+<LABEL>Photograph
+"Kuro"
+obtained!</LABEL><PROC=1>
 $E=====1531=====
 <PROC=0>
 <END>
@@ -4734,9 +4748,9 @@ $E=====1532=====
 //<LABEL>ブロマイド
 //「キッド」
 //を手に入れた!!</LABEL><PROC=1>
-<LABEL>Photographie
+<LABEL>Photograph
 "Kid"
-obtenu !</LABEL><PROC=1>
+obtained!</LABEL><PROC=1>
 $E=====1533=====
 <PROC=0>
 <END>
@@ -4744,9 +4758,9 @@ $E=====1534=====
 //<LABEL>ブロマイド
 //「風の戦士シャイアン」
 //を手に入れた!!</LABEL><PROC=1>
-<LABEL>Photographie
-"Guerrier du Vent Cheyenne"
-obtenu !</LABEL><PROC=1>
+<LABEL>Photograph
+"Wind Warrior Cheyenne"
+obtained!</LABEL><PROC=1>
 $E=====1535=====
 <PROC=0>
 <END>
@@ -4754,9 +4768,9 @@ $E=====1536=====
 //<LABEL>ブロマイド
 //「レディ」
 //を手に入れた!!</LABEL><PROC=1>
-<LABEL>Photographie
+<LABEL>Photograph
 "Lady"
-obtenu !</LABEL><PROC=1>
+obtained!</LABEL><PROC=1>
 $E=====1537=====
 <PROC=0>
 <END>
@@ -4764,9 +4778,9 @@ $E=====1538=====
 //<LABEL>ブロマイド
 //「棺桶屋」
 //を手に入れた!!</LABEL><PROC=1>
-<LABEL>Photographie
-"Vendeur de Cercueils"
-obtenu !</LABEL><PROC=1>
+<LABEL>Photograph
+"Coffin Shopkeeper"
+obtained!</LABEL><PROC=1>
 $E=====1539=====
 <PROC=0>
 <END>
@@ -4774,9 +4788,9 @@ $E=====1540=====
 //<LABEL>ブロマイド
 //「コーチ」
 //を手に入れた!!</LABEL><PROC=1>
-<LABEL>Photographie
+<LABEL>Photograph
 "Coach"
-obtenu !</LABEL><PROC=1>
+obtained!</LABEL><PROC=1>
 $E=====1541=====
 <PROC=0>
 <END>
@@ -4784,9 +4798,9 @@ $E=====1542=====
 //<LABEL>ブロマイド
 //「エンニオ」
 //を手に入れた!!</LABEL><PROC=1>
-<LABEL>Photographie
+<LABEL>Photograph
 "Ennio"
-obtenu !</LABEL><PROC=1>
+obtained!</LABEL><PROC=1>
 $E=====1543=====
 <PROC=0>
 <END>
@@ -4794,9 +4808,9 @@ $E=====1544=====
 //<LABEL>ブロマイド
 //「マルチェロ」
 //を手に入れた!!</LABEL><PROC=1>
-<LABEL>Photographie
+<LABEL>Photograph
 "Marcello"
-obtenu !</LABEL><PROC=1>
+obtained!</LABEL><PROC=1>
 $E=====1545=====
 <PROC=0>
 <END>
@@ -4804,9 +4818,9 @@ $E=====1546=====
 //<LABEL>ブロマイド
 //「ルイス」
 //を手に入れた!!</LABEL><PROC=1>
-<LABEL>Photographie
+<LABEL>Photograph
 "Luis"
-obtenu !</LABEL><PROC=1>
+obtained!</LABEL><PROC=1>
 $E=====1547=====
 <PROC=0>
 <END>
@@ -4814,9 +4828,9 @@ $E=====1548=====
 //<LABEL>ブロマイド
 //「血の伯爵」
 //を手に入れた!!</LABEL><PROC=1>
-<LABEL>Photographie
-"Comte du Sang qui Sature le Sol"
-obtenu !</LABEL><PROC=1>
+<LABEL>Photograph
+"Count of Groundsoaking
+Blood" obtained!</LABEL><PROC=1>
 $E=====1549=====
 <PROC=0>
 <END>
@@ -4824,9 +4838,9 @@ $E=====1550=====
 //<LABEL>ブロマイド
 //「死の翼フレスベルグ」
 //を手に入れた!!</LABEL><PROC=1>
-<LABEL>Photographie
-"Ailes de la Mort Hresvelgr"
-obtenu !</LABEL><PROC=1>
+<LABEL>Photograph
+"Wings of Death Hresvelgr"
+obtained!</LABEL><PROC=1>
 $E=====1551=====
 <PROC=0>
 <END>
@@ -4834,9 +4848,9 @@ $E=====1552=====
 //<LABEL>ブロマイド
 //「機械王ニーズホッグ」
 //を手に入れた!!</LABEL><PROC=1>
-<LABEL>Photographie
-"Roi Mécanique Nidhoggr"
-obtenu !</LABEL><PROC=1>
+<LABEL>Photograph
+"Machine King Nidhoggr"
+obtained!</LABEL><PROC=1>
 $E=====1553=====
 <PROC=0>
 <END>
@@ -4844,9 +4858,9 @@ $E=====1554=====
 //<LABEL>ブロマイド
 //「人形使いラタトスク」
 //を手に入れた!!</LABEL><PROC=1>
-<LABEL>Photographie
-"Ratatosk le Marionnettiste"
-obtenu !</LABEL><PROC=1>
+<LABEL>Photograph
+"Ratatosk the Puppeteer"
+obtained!</LABEL><PROC=1>
 $E=====1555=====
 <PROC=0>
 <END>
@@ -4854,9 +4868,9 @@ $E=====1556=====
 //<LABEL>ブロマイド
 //「???」
 //を手に入れた!!</LABEL><PROC=1>
-<LABEL>Photographie
+<LABEL>Photograph
 "???"
-obtenu !</LABEL><PROC=1>
+obtained!</LABEL><PROC=1>
 $E=====1557=====
 <PROC=0>
 <END>
@@ -4864,9 +4878,9 @@ $E=====1558=====
 //<LABEL>ブロマイド
 //「ロックマン」
 //を手に入れた!!</LABEL><PROC=1>
-<LABEL>Photographie
+<LABEL>Photograph
 "Rockman"
-obtenu !</LABEL><PROC=1>
+obtained!</LABEL><PROC=1>
 $E=====1559=====
 <PROC=0>
 <END>
@@ -4874,9 +4888,9 @@ $E=====1560=====
 //<LABEL>ブロマイド
 //「ガリガリ君」
 //を手に入れた!!</LABEL><PROC=1>
-<LABEL>Photographie
+<LABEL>Photograph
 "GariGari-kun"
-obtenu !</LABEL><PROC=1>
+obtained!</LABEL><PROC=1>
 $E=====1561=====
 <PROC=0>
 <END>
@@ -4905,8 +4919,8 @@ $X=====1570=====
 $E=====1571=====
 //セーブしますか?
 // <ALTER>はい</ALTER>  <ALTER>いいえ</ALTER>
-Sauvegarder ?
- <ALTER>Oui</ALTER>  <ALTER>Non</ALTER>
+Save?
+ <ALTER>Yes</ALTER>  <ALTER>No</ALTER>
 $E=====1572=====
 <PROC=0>
 <END>
@@ -4916,7 +4930,7 @@ $E=====1574=====
 //<LABEL=RITA>リタ</LABEL>
 //ここにデモが入りますわ。
 <LABEL=RITA>Lita</LABEL>:
-Une démo va ici.
+A demo goes here.
 $E=====1575=====
 <PROC=0>
 <END>
@@ -4926,7 +4940,7 @@ $E=====1577=====
 //<LABEL=ZAJI>ザジ</LABEL>
 //ここはパネルが入るんやで。
 <LABEL=ZAJI>Zazie</LABEL>:
-Un panneau va ici.
+A panel goes here.
 $E=====1578=====
 <PROC=0>
 <END>
@@ -4936,19 +4950,19 @@ $E=====1580=====
 //<LABEL=ROCKMAN>ロックマン</LABEL>
 //ここに会話が入るよ。
 <LABEL=ROCKMAN>Rockman</LABEL>:
-Une conversation va ici.
+A conversation goes here.
 $E=====1581=====
 <PROC=0>
 <END>
 $E=====1582=====
 //財宝を発見した!!
-Trésor découvert !
+Treasure discovered!
 $E=====1583=====
 <PROC=0>
 <END>
 $E=====1584=====
 //ミッションクリア!!
-MISSION RÉUSSIE !
+MISSION CLEAR!
 $E=====1585=====
 <PROC=0>
 <END>
@@ -4957,22 +4971,23 @@ $E=====1586=====
 //　　　　　[見回し]
 //
 
-  [Regard autour de soi]
+      [Looking Around]
+
 $E=====1587=====
 //<WEIGHT>Ｒボタン</WEIGHT>を押(お)しながら<WEIGHT>{＋}ボ
 //タン</WEIGHT>を動かせば、自分の周りを
 //見回すことができる
-Soyez conscient du danger devant vous...
+Be aware of danger ahead...
 $E=====1588=====
 //冒険者(ぼうけんしゃ)たる者、
-Maintenez le <WEIGHT>Bouton R</WEIGHT> et
-utilisez le <WEIGHT>Pavé directionnel {＋}</WEIGHT>
+Hold the <WEIGHT>R Button</WEIGHT> and
+use the <WEIGHT>{＋}Control Pad</WEIGHT>
 $E=====1589=====
 //新しいエリアではまず、周囲の
 //状況(じょうきょう)を確認(か
 //くにん)せよ
-pour regarder autour de vous et vérifier
-la zone environnante.
+to look around and check
+the surrounding area.
 $E=====1590=====
 <PROC=0>
 <END>
@@ -4981,24 +4996,25 @@ $E=====1591=====
 //　　　 [移動ブロック]
 //
 
-  [Blocs Déplaçables]
+      [Movable Blocks]
+
 $E=====1592=====
 //木箱などの移動(いどう)ブロッ
 //クは、
-Quand vous faites face à quelque chose
-comme une caisse en bois,
+When faced with something
+like a wooden box,
 $E=====1593=====
 //ブロックに向かって<WEIGHT>{＋}ボタン</WEIGHT>を
 //押(お)し続けることで、移動(
 //いどう)させることができる
-vous pouvez appuyer et maintenir le
-<WEIGHT>Pavé directionnel {＋}</WEIGHT> vers le bloc
-pour le faire bouger.
+you can press and hold the
+<WEIGHT>{＋}Control Pad</WEIGHT> into the block
+to make it move.
 $E=====1594=====
 //冒険者(ぼうけんしゃ)たる者、
 //道は自らの手で切り開け
-Un vrai aventurier trace son chemin
-de ses propres mains.
+A true adventurer carves out
+a path with his own hands.
 $E=====1595=====
 <PROC=0>
 <END>
@@ -5006,20 +5022,20 @@ $E=====1596=====
 //
 // 　　　　　[方角]
 //
-Pour ne pas vous perdre
-sur le chemin que vous avez choisi...
+Lest you become lost
+on your chosen path...
 $E=====1597=====
 //冒険者(ぼうけんしゃ)たる者、
 //道にまようことなかれ
-Sachez que le nord est
-en haut à droite,
-le sud en bas à gauche,
+Know that north is
+to the top right,
+south is bottom left,
 $E=====1598=====
 //画面右上は北、右下は東、
 //左下は南、左上は西と知れ
-l'est en bas à droite, et
-l'ouest en haut à gauche
-de l'écran.
+east is bottom right, and
+west is to the top left
+of the screen.
 $E=====1599=====
 <PROC=0>
 <END>
@@ -5028,62 +5044,66 @@ $E=====1600=====
 // 　[太陽タケノコと精霊虫]
 //
 
-[Bambous Solaire & Insectes Spirituels]
+[Bamboo Shoots & Solar Bugs]
 
 $E=====1601=====
 //ダンジョン内で武器(ぶき)を使
 //うと、
-Quand vous combattez à l'intérieur
-d'un donjon,
+When you're fighting inside
+a dungeon,
 $E=====1602=====
 //地面から水晶(すいしょう)のよ
 //うなモノが生えてくることがあ
 //る
-des choses semblables à des cristaux
-peuvent apparaître du sol.
+crystal-like things may
+appear out of the ground.
 $E=====1603=====
 //それは大地にたくわえられたエ
 //ネルギーのかたまり、太陽タケ
 //ノコだ
-Ce sont des Bambous Solaires. Ce sont des
-concentrations d'énergie stockée dans le sol.
+Those are Solar Bamboo
+Shoots. They're clumps of
+energy stored in the ground.
 $E=====1604=====
 //太陽タケノコには3種類の精霊
 //虫(せいれいちゅう)がひそんで
 //いる
-Toutes sortes d'Insectes Spirituels sont
-cachés dans les Bambous Solaires.
+All kinds of Spirit Bugs are
+hidden in Solar Bamboo
+Shoots.
 $E=====1605=====
 //ふれた者のエナジーを回復(か
 //いふく)させる太陽虫、
-Il y a les Insectes Solaires, qui
-restaurent l'énergie quand on les touche,
+There are Solar Bugs, which
+restore energy when touched,
 $E=====1606=====
 //ライフを回復(かいふく)させる
 //月光虫、
-les Insectes Lunaires, qui restaurent
-la vie,
+Moon Bugs, which restore
+life,
 $E=====1607=====
 //そしてエナジーをうばう暗黒虫
 //だ
-et les Insectes Sombres, qui drainent
-l'énergie.
+and Dark Bugs, which drain
+energy.
 $E=====1608=====
 //太陽虫、月光虫は太陽チャージ
 //でよびよせることもできるが、
-Vous pouvez attirer les Insectes Solaires et
-Lunaires vers vous en utilisant la Charge Solaire,
+You can call Solar Bugs and
+Moon Bugs over to you using
+Solar Charge,
 $E=====1609=====
 //暗黒虫は自ら近づいてきてエナ
 //ジーをうばおうとする
-mais les Insectes Sombres voleront votre
-énergie s'ils s'approchent.
+but Dark Bugs will sap your
+energy if they get close.
 $E=====1610=====
 //冒険者(ぼうけんしゃ)たる者、
 //つねに警戒(けいかい)をおこた
 //るな
-Un vrai aventurier reste
-vigilant et ne se laisse jamais surprendre.
+A true adventurer stays
+alert and never gets caught
+off guard.
 $E=====1611=====
 <PROC=0>
 <END>
@@ -5092,19 +5112,21 @@ $E=====1612=====
 //　　　　　[昇降床]
 //
 
-[Plateformes Élévatrices]
+    [Elevator Platforms]
+
 $E=====1613=====
 //昇降床(しょうこうゆか)は上に
 //乗ることで起動し、別のフロア
 //へと移動(いどう)する
-Les plateformes élévatrices s'activent
-quand vous montez dessus,
-vous déplaçant vers un autre étage.
+Elevator platforms activate
+when you stand atop them,
+moving to a different floor.
 $E=====1614=====
 //冒険者(ぼうけんしゃ)たる者、
 //おそれずに一歩をふみだせ
-Un vrai aventurier avance
-courageusement pas à pas.
+A true adventurer fearlessly
+takes things one step at a
+time.
 $E=====1615=====
 <PROC=0>
 <END>
@@ -5113,20 +5135,21 @@ $E=====1616=====
 //　　　　　[トゲ床]
 //
 
-   [Sols à Piques]
+       [Spike Floors]
+
 $E=====1617=====
 //トゲの生えた床(ゆか)に足をふ
 //みこめば、当然ダメージを受け
 //る
-Si vous marchez sur un sol
-à piques, vous subirez
-forcément des dégâts.
+If you walk on a spike
+floor, you will of course
+take damage.
 $E=====1618=====
 //冒険者(ぼうけんしゃ)たる者、
 //自らを傷(きず)つけることなか
 //れ
-Un vrai aventurier ne se
-blesse jamais lui-même.
+A true adventurer never
+causes himself harm.
 $E=====1619=====
 <PROC=0>
 <END>
@@ -5135,25 +5158,26 @@ $E=====1620=====
 //　　　　　[鳴り床]
 //
 
-   [Sols Résonants]
+       [Echo Floors]
+
 $E=====1621=====
 //鳴り床(ゆか)は、その上を走る
 //と大きな足音を発するが、
-Si vous marchez sur un sol
-résonant, le son de vos pas
-résonnera.
+If you walk across an echo
+floor, the sound of your
+footsteps will resonate.
 $E=====1622=====
 //壁(かべ)にはりついて移動(い
 //どう)すれば、足音は発しない
-Vous devez vous accrocher au
-mur pour éviter de faire du
-bruit.
+You must cling to the wall
+to avoid making any sound.
 $E=====1623=====
 //冒険者(ぼうけんしゃ)たる者、
 //自らの発する音にも十分注意せ
 //よ
-Un vrai aventurier est toujours
-attentif au bruit qu'il fait.
+A true adventurer is always
+careful of the sound he
+makes.
 $E=====1624=====
 <PROC=0>
 <END>
@@ -5161,8 +5185,8 @@ $E=====1625=====
 //
 //　　　[イチゴをえがけ]
 //
-     [QU'EST-CE QU'UN
-      SCEAU SANS LA MER?]
+     [WHAT ARE SEALS
+      WITHOUT THE SEA?]
 
 $E=====1626=====
 <PROC=0>
@@ -5172,7 +5196,8 @@ $E=====1627=====
 //　　　　[頭上注意!!]
 //
 
- [Attention au-dessus !]
+     [Look out above!]
+
 $E=====1628=====
 <PROC=0>
 <END>
@@ -5181,31 +5206,31 @@ $E=====1629=====
 //　　　 [見えないモノ]
 //
 
- [Choses Invisibles]
+     [Invisible Things]
+
 $E=====1630=====
 //ゴーストなどのモンスター同様
-En plus des monstres de type
-fantôme standards, des pièges
-de donjon et des coffres au trésor,
+In addition to standard
+Ghost-type monsters, dungeon
+traps, and treasure chests,
 $E=====1631=====
 //ダンジョン内の罠(わな)や宝箱
 //(たからばこ)には、そのままで
 //は目に見えないモノもある
-il existe aussi des versions
-invisibles.
+there are also invisible
+versions.
 $E=====1632=====
 //それら目に見えないモノを見る
 //には、特定のアイテムが必要だ
-Pour voir ces choses
-invisibles, vous aurez besoin
-d'un objet spécial.
+In order to see these
+invisible things, you'll
+need a special item.
 $E=====1633=====
 //冒険者(ぼうけんしゃ)たる者、
 //手に入れたアイテムは有効(ゆ
 //うこう)に活用せよ
-Un vrai aventurier utilise
-toujours ses objets
-efficacement.
+A true adventurer always
+uses his items effectively.
 $E=====1634=====
 <PROC=0>
 <END>
@@ -5214,28 +5239,29 @@ $E=====1635=====
 //　　　　 [やり直し]
 //
 
-  [Recommencer]
+      [Starting Over]
+
 $E=====1636=====
 //移動(いどう)ブロックなど、
-Pour les casse-têtes comme les
-blocs mobiles,
+When dealing with puzzles
+like moving blocks,
 $E=====1637=====
 //まだ解(と)けていないエリア内
 //の仕掛(しか)けを、元の状態(
 //じょうたい)にもどすには、
-si vous devez les remettre à
-leur état initial,
+if you need to reset them
+to their original states,
 $E=====1638=====
 //そのエリアを出て、もう一度入
 //り直せば良い
-quittez la zone et rentrez-y.
+leave the area and re-enter.
 $E=====1639=====
 //冒険者(ぼうけんしゃ)たる者、
 //1度や2度の失敗であきらめるこ
 //となかれ
-Un vrai aventurier ne doit pas
-abandonner après quelques
-échecs.
+A true adventurer must not
+give up after a few
+failures.
 $E=====1640=====
 <PROC=0>
 <END>
@@ -5244,32 +5270,33 @@ $E=====1641=====
 //　　　　 [水たまり]
 //
 
-     [Flaques d'Eau]
+         [Puddles]
+
 $E=====1642=====
 //水たまりは、その上を走ると大
 //きな音を発するが、
-Si vous marchez sur une flaque
-d'eau, le son de vos pas sera
-beaucoup plus fort.
+If you walk across a puddle,
+the sound of your footsteps
+will be much louder.
 $E=====1643=====
 //壁(かべ)にはりついて移動(い
 //どう)すれば、足音は発しない
-Vous devez vous accrocher au
-mur pour éviter de faire du
-bruit.
+You must cling to the wall
+to avoid making any sound.
 $E=====1644=====
 //また屋外エリアであれば、太陽
 //の光によって蒸発(じょうはつ)
 //させることもできる
-Dans des zones extérieures,
-elles s'évaporeront sous une
-forte lumière solaire.
+In outdoor areas, they will
+evaporate under strong
+sunlight, though.
 $E=====1645=====
 //冒険者(ぼうけんしゃ)たる者、
 //自らの発する音にも十分注意せ
 //よ
-Un vrai aventurier est toujours
-attentif au bruit qu'il fait.
+A true adventurer is always
+careful of the sound he
+makes.
 $E=====1646=====
 <PROC=0>
 <END>
@@ -5278,26 +5305,27 @@ $E=====1647=====
 //　　　　 [太陽風]
 //
 
-    [Vent Solaire]
+        [Solar Wind]
+
 $E=====1648=====
 //ダンジョン内にふく風、太陽風
 //は、太陽の光の影響(えいきょ
 //う)を受け、
-Le vent qui souffle dans les
-donjons, le Vent Solaire, est
-affecté par la lumière du soleil.
+The wind that blows inside
+dungeons, Solar Wind, is
+affected by sunlight.
 $E=====1649=====
 //太陽ゲージの値が高ければ強く
 //低ければ弱くふき、ゲージがゼ
 //ロになれば無風となる
-Si le jauge est haute, le vent
-sera fort. Si elle est vide,
-l'air sera calme.
+If the gauge is high, the
+wind will be strong. If it's
+empty, the air will be calm.
 $E=====1650=====
 //冒険者(ぼうけんしゃ)たる者、
 //自然をも味方につけよ
-Un vrai aventurier se rend
-ami avec la nature.
+A true adventurer makes
+friends with nature.
 $E=====1651=====
 <PROC=0>
 <END>
@@ -5306,24 +5334,25 @@ $E=====1652=====
 //         [移動床]
 //
 
-  [Sols Mobiles]
+      [Moving Floors]
+
 $E=====1653=====
 //移動床(いどうゆか)を使えば、
 //はなれたエリアへの移動(いど
 //う)が可能(かのう)だが、
-Les sols mobiles vous permettent
-d'atteindre des zones éloignées,
+Moving Floors allow you to
+reach distant areas,
 $E=====1654=====
 //足をふみ外せば命はない
-mais un faux pas peut être
-fatal.
+but one wrong step can spell
+disaster.
 $E=====1655=====
 //冒険者(ぼうけんしゃ)たる者、
 //生と死は常(つね)に隣(となり)
 //合わせだと知れ
-Un vrai aventurier sait que
-la vie et la mort sont toujours
-proches.
+A true adventurer knows that
+life and death are never far
+apart.
 $E=====1656=====
 <PROC=0>
 <END>
@@ -5332,24 +5361,26 @@ $E=====1657=====
 //　　　 [紋章ブロック]
 //
 
-   [Blocs à Emblème]
+       [Crest Blocks]
+
 $E=====1658=====
 //4大元素のマークがえがかれた
 //紋章(もんしょう)ブロックは、
-Les blocs à Emblème, marqués
-d'un des quatre éléments,
+Crest Blocks, inscribed with
+the mark of one of the four
+elements,
 $E=====1659=====
 //同じマークのパネルの上に乗せ
 //ることで、スイッチとしての機
 //能(きのう)を果たす
-fonctionnent comme des interrupteurs
-quand ils sont placés sur des
-panneaux portant le même symbole.
+act like switches when
+pushed onto panels with the
+same mark.
 $E=====1660=====
 //冒険者(ぼうけんしゃ)たる者、
 //知を持って道を切り開け
-Un vrai aventurier trace son
-chemin avec sagesse.
+A true adventurer strikes
+out a path with wisdom.
 $E=====1661=====
 <PROC=0>
 <END>
@@ -5358,27 +5389,27 @@ $E=====1662=====
 //         [太陽床]
 //
 
-   [Sols Solaire]
+       [Solar Floors]
+
 $E=====1663=====
 //太陽の光をエネルギーにうかび
 //上がる魔法の床(ゆか)、それが
 //太陽床(たいようゆか)だ
-Les Sols Solaire sont des
-sols magiques qui flottent
-avec l'énergie du soleil.
+Solar Floors are magic
+floors that float with the
+energy of sunlight.
 $E=====1664=====
 //ただし、太陽の光が強すぎると
 //消えてしまうので注意せよ
-Cependant, ils s'éteignent si
-la lumière du soleil est trop
-forte.
+However, they will go out if
+the sunlight is too strong.
 $E=====1665=====
 //冒険者(ぼうけんしゃ)たる者、
 //すぎたるはおよばざるがごとし
 //と知れ
-Un vrai aventurier avance
-confiant vers l'avenir sans
-se complaire dans le passé.
+A true adventurer walks
+confidently into the future
+and dwells not in the past.
 $E=====1666=====
 <PROC=0>
 <END>
@@ -5387,26 +5418,27 @@ $E=====1667=====
 //         [太陽床]
 //
 
-   [Sols Solaire]
+       [Solar Floors]
+
 $E=====1668=====
 //床(ゆか)が消えてしまえば、そ
 //の上にいた者は落ちるのが必然
-Quand un Sol Solaire s'éteint,
-quiconque était dessus tombe
-inévitablement.
+When a Solar Floor goes out,
+anything that was on it will
+plummet.
 $E=====1669=====
 //太陽床(たいようゆか)の上では
 //太陽ゲージの値に注意せよ
-Faites attention au niveau de
-la jauge solaire en marchant
-sur les Sols Solaire.
+Pay close attention to the
+Solar Gauge when walking on
+Solar Floors.
 $E=====1670=====
 //冒険者(ぼうけんしゃ)たる者、
 //自らの立場をわすれることなか
 //れ
-Un vrai aventurier ne perd
-jamais le sens de son
-environnement.
+A true adventurer never
+loses track of his
+surroundings.
 $E=====1671=====
 <PROC=0>
 <END>
@@ -5415,7 +5447,7 @@ $E=====1672=====
 //   [ここにあるは2つの宝]
 //
 
-[Il y a 2 trésors ici]
+[There are 2 treasures here]
 
 $E=====1673=====
 <PROC=0>
@@ -5425,30 +5457,31 @@ $E=====1674=====
 //　　　　 [ゴーレム]
 //
 
-      [Golem]
+          [Golem]
+
 $E=====1675=====
 //転がり攻撃(こうげき)は壁(か
 //べ)はりつきで回避(かいひ)せ
 //よ
-Esquivez son attaque de roulade
-en vous collant au mur.
+Avoid its rolling attack by
+clinging to a wall.
 $E=====1676=====
 //またゴーレム同士を衝突(しょ
 //うとつ)させれば、
-Si vous pouvez faire entrer
-un Golem en collision avec
-un autre ennemi,
+If you can cause a Golem to
+collide with another enemy,
 $E=====1677=====
 //ダメージをあたえた上で、気絶
 //(きぜつ)させることができる
-il subira des dégâts importants
-et sera momentanément assommé.
+it will take significant
+damage and be momentarily
+stunned.
 $E=====1678=====
 //冒険者(ぼうけんしゃ)たる者、
 //知を持って戦いにいどめ
-Un vrai aventurier combat
-avec son intelligence autant
-qu'avec ses poings.
+A true adventurer fights
+with his brain as well as
+his fists.
 $E=====1679=====
 <PROC=0>
 <END>
@@ -5457,19 +5490,20 @@ $E=====1680=====
 //　　　　　 [溶岩]
 //
 
-       [Lave]
+           [Lava]
+
 $E=====1681=====
 //溶岩(ようがん)に足をふみ入れ
 //れば、当然ダメージを受ける
-Si vous mettez le pied dans
-la lave, vous subirez
-forcément des dégâts.
+If you step into a pool of
+lava, you will of course
+take damage.
 $E=====1682=====
 //冒険者(ぼうけんしゃ)たる者、
 //自らを傷(きず)つけることなか
 //れ
-Un vrai aventurier ne se
-blesse jamais lui-même.
+A true adventurer never
+causes himself harm.
 $E=====1683=====
 <PROC=0>
 <END>
@@ -5478,29 +5512,30 @@ $E=====1684=====
 //　　　　[氷ブロック]
 //
 
-    [Blocs de Glace]
+        [Ice Blocks]
+
 $E=====1685=====
 //移動(いどう)ブロックの一種で
 //ある氷ブロックは、
-Les blocs de glace, une variété
-de blocs mobiles,
+Ice blocks, a variety of
+moving blocks,
 $E=====1686=====
 //一度動き始めると、壁(かべ)な
 //どにつき当たるまで止まらない
-continueront de bouger une fois
-que vous les poussez jusqu'à ce
-qu'ils touchent un mur.
+will keep moving once you
+push them until they hit a
+wall.
 $E=====1687=====
 //氷ブロックの移動(いどう)は、
 //結果を予想して慎重(しんちょ
 //う)に行え
-Quand vous déplacez un bloc de
-glace, planifiez soigneusement.
+When moving an ice block,
+plan ahead carefully.
 $E=====1688=====
 //冒険者(ぼうけんしゃ)たる者、
 //知を持って道を切り開け
-Un vrai aventurier trace son
-chemin avec sagesse.
+A true adventurer strikes
+out a path with wisdom.
 $E=====1689=====
 <PROC=0>
 <END>
@@ -5509,22 +5544,22 @@ $E=====1690=====
 //　　　　　[火炎弾]
 //
 
-    [Balles de Feu]
+        [Fireballs]
+
 $E=====1691=====
 //火炎弾(かえんだん)は、フロス
 //トの属性攻撃(ぞくせいこうげ
 //き)によってのみ、
-Pour en venir à bout des balles
-de feu,
+To deal with Fireballs,
 $E=====1692=====
 //破壊(はかい)が可能(かのう)だ
-vous pouvez les détruire avec
-des attaques de l'élément Frost.
+you can destroy them with
+Frost-element attacks.
 $E=====1693=====
 //冒険者(ぼうけんしゃ)たる者、
 //知を持って道を切り開け
-Un vrai aventurier trace son
-chemin avec sagesse.
+A true adventurer strikes
+out a path with wisdom.
 $E=====1694=====
 <PROC=0>
 <END>
@@ -5533,7 +5568,8 @@ $E=====1695=====
 //　　　 [立ち入り禁止]
 //
 
-     [Interdit d'Entrée]
+         [No Entry]
+
 $E=====1696=====
 <PROC=0>
 <END>
@@ -5542,24 +5578,25 @@ $E=====1697=====
 //　　　　[すべり床]
 //
 
- [Sols Glissants]
+     [Slippery Floors]
+
 $E=====1698=====
 //こおった床(ゆか)の上では足を
 //ふみ入れたら最後、壁(かべ)な
 //どにつき当たるまで止まれない
-Si vous posez le pied sur un sol
-glacé, vous ne vous arrêterez pas
-avant de toucher un mur.
+If you step onto a frozen
+floor, you won't stop moving
+until you hit a wall.
 $E=====1699=====
 //方向転換(ほうこうてんかん)も
 //できないので注意せよ
-Vous ne pourrez pas non plus
-changer de direction.
+You won't be able to change
+directions, either.
 $E=====1700=====
 //冒険者(ぼうけんしゃ)たる者、
 //知を持って道を切り開け
-Un vrai aventurier trace son
-chemin avec sagesse.
+A true adventurer strikes
+out a path with wisdom.
 $E=====1701=====
 <PROC=0>
 <END>
@@ -5568,23 +5605,24 @@ $E=====1702=====
 //　　　　[氷ブロック]
 //
 
-    [Blocs de Glace]
+        [Ice Blocks]
+
 $E=====1703=====
 //移動(いどう)ブロックの一種で
 //ある氷ブロックは、
-Les blocs de glace, une variété
-de blocs mobiles,
+Ice blocks, a variety of
+moving blocks,
 $E=====1704=====
 //フレイムの属性攻撃(ぞくせい
 //こうげき)で溶(と)かすことが
 //できる
-peuvent être fondus avec une
-attaque de l'élément Flame.
+can be melted with a Flame-
+element attack.
 $E=====1705=====
 //冒険者(ぼうけんしゃ)たる者、
 //知を持って道を切り開け
-Un vrai aventurier trace son
-chemin avec sagesse.
+A true adventurer strikes
+out a path with wisdom.
 $E=====1706=====
 <PROC=0>
 <END>
@@ -5593,35 +5631,37 @@ $E=====1707=====
 //　　　　　 [大砲]
 //
 
-     [Canons]
+         [Cannons]
+
 $E=====1708=====
 //自動装填式大砲(じどうそうて
 //んしきたいほう)を撃(う)つに
 //は、
-Pour tirer avec des canons à
-rechargement automatique,
+To fire automatically
+reloading artillery,
 $E=====1709=====
 //大砲(たいほう)自体を攻撃(こ
 //うげき)すればいい
-il suffit d'attaquer le canon
-lui-même.
+simply attack the cannon
+itself.
 $E=====1710=====
 //ただし次の砲弾(ほうだん)が装
 //填(そうてん)されるまでに、
-Mais soyez attentif au temps
-qu'il faut après le tir,
+But pay close attention to
+the amount of time it takes
+after firing,
 $E=====1711=====
 //しばらく時間がかかるので要注
 //意だ
-avant de charger un autre
-obus.
+before loading another
+shell.
 $E=====1712=====
 //冒険者(ぼうけんしゃ)たる者、
 //仕掛(しか)けは有効(ゆうこう)
 //に活用せよ
-Un vrai aventurier utilise
-les mécanismes disponibles
-efficacement.
+A true adventurer uses
+available devices
+effectively.
 $E=====1713=====
 <PROC=0>
 <END>
@@ -5630,26 +5670,26 @@ $E=====1714=====
 //　　　　 [噴出火炎]
 //
 
-    [Jets de Flammes]
+        [Flame Jets]
+
 $E=====1715=====
 //ダンジョン内で噴出(ふんしゅ
 //つ)する火炎(かえん)は、太陽
 //の光の影響(えいきょう)を受け
-Les jets de flammes dans les
-donjons sont affectés par la
-lumière du soleil.
+Flame Jets in dungeons are
+affected by the sunlight.
 $E=====1716=====
 //太陽ゲージの値が高ければいき
 //おい良く、低ければゆっくりと
 //噴出(ふんしゅつ)する
-Si la jauge est haute, les
-jets seront forts. Si elle
-est vide, ils ralentiront.
+If the gauge is high, the
+jets will be strong. If it's
+empty, they will slow down.
 $E=====1717=====
 //冒険者(ぼうけんしゃ)たる者、
 //自然をも味方につけよ
-Un vrai aventurier se rend
-ami avec la nature.
+A true adventurer makes
+friends with nature.
 $E=====1718=====
 <PROC=0>
 <END>
@@ -5657,16 +5697,16 @@ $E=====1719=====
 //
 //　　　[警告(けいこく)]
 //
-         [Avertissement]
+         [Warning]
 $E=====1720=====
 //ねむりたるは鋼鉄(こうてつ)の
 //乙女(おとめ)
-Ce tonneau endormi est une
-Vierge de Fer.
+That sleeping barrel is an
+Iron Maiden.
 $E=====1721=====
 //そのねむりをさまたげることな
 //かれ
-Ne perturbez pas son sommeil.
+Do not disturb its slumber.
 $E=====1722=====
 <PROC=0>
 <END>
@@ -5675,10 +5715,11 @@ $E=====1723=====
 //　　　　　　[春]
 //
 
-      [Printemps]
+          [Spring]
+
 $E=====1724=====
 //それは始まりの季節
-La première saison.
+The first season.
 $E=====1725=====
 <PROC=0>
 <END>
@@ -5687,10 +5728,11 @@ $E=====1726=====
 //　　　　　　[夏]
 //
 
-      [Été]
+          [Summer]
+
 $E=====1727=====
 //それは2番目の季節
-La deuxième saison.
+The second season.
 $E=====1728=====
 <PROC=0>
 <END>
@@ -5699,10 +5741,11 @@ $E=====1729=====
 //　　　　　　[秋]
 //
 
-      [Automne]
+          [Autumn]
+
 $E=====1730=====
 //それは3番目の季節
-La troisième saison.
+The third season.
 $E=====1731=====
 <PROC=0>
 <END>
@@ -5711,46 +5754,47 @@ $E=====1732=====
 //　　　　　　[冬]
 //
 
-      [Hiver]
+          [Winter]
+
 $E=====1733=====
 //それは終わりの季節
-La saison finale.
+The final season.
 $E=====1734=====
 <PROC=0>
 <END>
 $E=====1735=====
 //[春は命芽生える季節。
 //それは死の始まり]
-[Le printemps est la saison
-de la vie naissante, le
-début de la mort.]
+[Spring is the season
+of budding life, the
+beginning of death.]
 $E=====1736=====
 <PROC=0>
 <END>
 $E=====1737=====
 //[夏は命燃える季節。
 //それは死へのいざない]
-[L'été est la saison de la
-vie ardente, l'invitation
-à la mort.]
+[Summer is the season
+of burning life, the
+introduction to death.]
 $E=====1738=====
 <PROC=0>
 <END>
 $E=====1739=====
 //[秋は命わたる季節。
 //それは死への旅立ち]
-[L'automne est la saison où
-la vie traverse, le départ
-vers la mort.]
+[Autumn is the season of
+life crossing over, the
+departure toward death.]
 $E=====1740=====
 <PROC=0>
 <END>
 $E=====1741=====
 //[冬は命こおる季節。
 //それは死のおとずれ]
-[L'hiver est la saison de la
-vie gelée, l'arrivée de la
-mort.]
+[Winter is the season
+of frozen life, the
+arrival of death.]
 $E=====1742=====
 <PROC=0>
 <END>
@@ -5758,7 +5802,7 @@ $E=====1743=====
 //
 //        [8をしめせ]
 
-[Le nombre 8 est affiché]
+[The number 8 is displayed]
 $E=====1744=====
 <PROC=0>
 <END>
@@ -5766,7 +5810,7 @@ $E=====1745=====
 //
 //        [13をしめせ]
 
-[Le nombre 13 est affiché]
+[The number 13 is displayed]
 $E=====1746=====
 <PROC=0>
 <END>
@@ -5774,7 +5818,7 @@ $E=====1747=====
 //
 //        [3をしめせ]
 
-[Le nombre 3 est affiché]
+[The number 3 is displayed]
 $E=====1748=====
 <PROC=0>
 <END>
@@ -5790,34 +5834,37 @@ $E=====1751=====
 //フレスベルグ
 //「どういうことだ・・・?
 Hresvelgr:
-"Qu'est-ce que cela signifie...?
+"What is the meaning of
+this...?
 $E=====1752=====
 //オレサマが太陽樹(たいようじ
 //ゅ)からうばいとったエナジー
 //は・・・
-L'énergie que j'ai volée à l'Arbre Solaire...
+The energy I took from the
+Solar Tree...
 $E=====1753=====
 //こんなものではないはずだ!
-ça n'était pas censé se passer comme ça!
+this wasn't supposed to
+happen!
 $E=====1754=====
 //まさか・・・
 //伯爵(はくしゃく)か!?
-Ne me dites pas... 
-le Comte!?
+Don't tell me...
+the Count!?
 $E=====1755=====
 //くそっ・・・
-Merde...
+Damn...
 $E=====1756=====
 //オレサマが好きなのは・・・
 //ミディアムレア(半生)なのに!
-J'aime ça... à point!
+I like it... medium rare!
 $E=====1757=====
 //これじゃあウェルダン(よく焼
 //け)、いや・・・
-C'est trop cuit... beurk...
+This is well done... ugh...
 $E=====1758=====
 //黒・コ・・ゲ・・・!!」
-Tellement... carbonisé...!"
+So... charred...!"
 $E=====1759=====
 <PROC=0>
 <END>
@@ -5826,41 +5873,46 @@ $E=====1760=====
 //「暗黒物質(ダークマター)はに
 //くしみの力・・・
 Sabata:
-"La Matière Noire est la force de la haine...
+"Dark Matter is the power of
+hatred...
 $E=====1761=====
 //それは負の感情(かんじょう)を
 //育て、増幅(ぞうふく)する
-elle fait naître et amplifie les émotions négatives.
+it brings out negative
+emotions, and amplifies
+them.
 $E=====1762=====
 //だがおまえとの戦いを望んだこ
 //のおれの想いは・・・
-Mais mon désir de te combattre...
+But my desire to fight
+you...
 $E=====1763=====
 //まぎれもなくおれ自身のものだ
-était bien le mien.
+was mine alone.
 $E=====1764=====
 //おまえとの戦い・・・
 //楽しかったぞ!!
-Le combat contre toi...
-c'était amusant!
+Fighting with you...
+it was fun!
 $E=====1765=====
 //戦え、<NAME>・・・
-Combat, <NAME>...
+Fight, <NAME>...
 $E=====1766=====
 //戦って戦って戦いぬいて・・・
-Continue de te battre jusqu'au bout...
+Fight on until the end...
 $E=====1767=====
 //その先に何が待っていようとも
 //・・・決してあきらめるな!
-Quoi qu'il puisse y avoir au-delà.
-...ne baisse jamais les bras!
+Everything else can wait.
+...never give up!
 $E=====1768=====
 //あきらめないその心こそが、
-Car cet esprit indomptable...
+Because that indomitable
+spirit of yours...
 $E=====1769=====
 //最大の武器(ぶき)になるのだか
 //らな!!」
-c'est ton arme la plus puissante!"
+is your greatest weapon!"
 $E=====1770=====
 <PROC=0>
 <END>
@@ -5868,12 +5920,13 @@ $E=====1771=====
 //サバタ
 //「すまない、カーミラ・・・
 Sabata:
-"Je suis désolé, Carmilla...
+"I'm sorry, Carmilla...
 $E=====1772=====
 //おまえとの約束、どうやら果た
 //せそうも・な・・い・・・」
-Il semble que je ne pourrai pas tenir...
-notre... pro... messe..."
+It looks like I won't be
+able to fulfill our...
+pro... mise..."
 $E=====1773=====
 <PROC=1><PROC=0>
 <END>
@@ -5885,25 +5938,27 @@ Nidhoggr:
 $E=====1775=====
 //オマエらのような下等生物が、
 //よくもこのオレを!
-des créatures inférieures...
-comment osez-vous!
+inferior creatures...
+how dare you!
 $E=====1776=====
 //よくもわが鉄(くろがね)の軍団
 //(ぐんだん)を!!
-Comment osez-vous faire ça à mon armée de fer!
+How dare you do that to my
+iron army!
 $E=====1777=====
 //だがオレをたおしたところで、
 //ヴァナルガンドの復活(ふっか
 //つ)はもう止められない!
-Même si tu m'as vaincu,
-tu ne pourras pas arrêter
-la résurrection de Vanargand!
+You may have defeated me,
+but you can't stop
+Vanargand's revival!
 $E=====1778=====
 //大地が月を赤くそめる・・・
 //その時は目前にまでせまってい
 //る!
-La terre teinte la lune de rouge...
-le moment est imminent!
+The moon is dyed red with
+earth. The time approaches,
+right before your eyes!
 $E=====1779=====
 //ゲゴゴゴゴッ・・・!!」
 Gwah hah hah hah...!"
@@ -5914,81 +5969,82 @@ $E=====1781=====
 //ラタトスク
 //「おろかな・・・!!
 Ratatosk:
-"Imbéciles...!
+"You fools...!
 $E=====1782=====
 //わたしだけが、ヴァナルガンド
 //をあやつれたのだ
-J'étais le seul à pouvoir
-contrôler Vanargand.
+I was the one who would
+control Vanargand.
 $E=====1783=====
 //破壊(はかい)の獣(けもの)、そ
 //の恐怖(きょうふ)による世界支
 //配・・・
-J'aurais gouverné le monde
-par la peur, avec la Bête
-de Destruction...
+I would have ruled the world
+with fear, using the Beast
+of Destruction...
 $E=====1784=====
 //それだけが・・・
-C'était le seul moyen...
+It was the only way...
 $E=====1785=====
 //傷(きず)ついたあの星を救う、
 //唯一(ゆいいつ)の手段だったの
-pour sauver votre étoile blessée!
+to save your wounded star!
 $E=====1786=====
 //わたしがいなければ・・・
-Sans moi...
+Without me...
 $E=====1787=====
 //ヴァナルガンドは本能のまま、
 //世界を破壊(はかい)する
-Vanargand suivra ses instincts et
-détruira le monde.
+Vanargand's instincts will
+cause it to destroy the
+world.
 $E=====1788=====
 //生者も死者もなく・・・
 //すべてがほろび去る
-Les vivants et les morts...
-tout sera détruit.
+The living and the dead...
+it will destroy everything.
 $E=====1789=====
 //生も死も与えられずただそこに
 //存在(そんざい)するもの、絶対
 //存在(エターナル) ・・・
-Une entité qui ne connaît ni la vie ni la mort, simplement existant. Un Éternel...
-
-Voici la traduction en français de l'anglais vers le français sans changer la syntaxe :
-
+A being that knows neither
+life nor death, simply
+existing. An Eternal...
 $E=====1790=====
 //それをたおせるものなど、
-rien ne peut
-vaincre un tel être,
+there's nothing that could
+defeat such a being,
 $E=====1791=====
 //この世界には存在(そんざい)し
 //ない
-dans ce monde.
+not in this world.
 $E=====1792=====
 //ウフフフフ・・・
 //いいでしょう
 Heh heh heh heh...
-très bien.
+very well.
 $E=====1793=====
 //お行きなさい、
-Allez,
+Go on,
 $E=====1794=====
 //はるかなる月世界・・・
 //失われた楽園、まほろばへ
-vers la lointaine lune...
-vers le paradis perdu et
-splendide, Mahoroba.
+to the distant moon...
+to the splendid lost
+paradise, Mahoroba.
 $E=====1795=====
 //そしてほろぼされるがいい
-et soyez détruits,
+And be destroyed,
 $E=====1796=====
 //破壊(はかい)の獣(けもの)と成
 //り果てた・・・
-par les mains de votre frère
-Sabata!
+by your brother Sabata's
+hands!
 $E=====1797=====
 //兄、サバタの手によって!
-Il n'est plus que la Bête
-de Destruction maintenant.
+He has been reduced to
+nothing but the Beast of
+Destruction now.
 $E=====1798=====
 //ウッハッハッハッハッ!!」
 Uwah hah hah hah hah!"
@@ -5999,24 +6055,23 @@ $E=====1800=====
 //エリアの北と西、4ヶ所の窓(ま
 //ど)をかくしているバットをた
 //おせば、
-Tuez les chauves-souris sur
-les 4 fenêtres dans les
-zones nord et ouest,
+Destroy the bats on the 4
+windows in the north and
+west areas,
 $E=====1801=====
 //エリアの中に太陽の光をみちび
 //き、伯爵(はくしゃく)にダメー
 //ジをあたえることができる
-et cela dirigera la lumière
-du soleil à l'intérieur,
-endommagant le Comte.
+and it will direct sunlight
+into the middle area,
+damaging the Count.
 $E=====1802=====
 //だが、太陽ゲージがゼロでは意
 //味がない。太陽センサーに太陽
 //の光を当てるんだ!!
-Mais si la jauge solaire est
-à zéro, rien ne se passera.
-Dirigez la lumière sur le
-capteur!
+But if the Solar Guage is at
+zero, nothing will happen.
+Shine light on the sensor!
 $E=====1803=====
 <PROC=0>
 <END>
@@ -6024,15 +6079,15 @@ $E=====1804=====
 //夜の一族(ヴァンパイア)である
 //伯爵(はくしゃく)の得意属性(
 //とくいぞくせい)はダークだ
-Parce que le Comte est un
-Vampire, son élément fort
-est l'Obscurité.
+Because the Count is a
+Vampire, his strong element
+is Dark.
 $E=====1805=====
 //苦手であるソル属性(ぞくせい)
 //の攻撃(こうげき)で、戦いにい
 //どめ!!
-Utilisez sa faiblesse, l'élément
-Solaire, pour le combattre!
+Use his weakness, the Sol
+element, to fight him!
 $E=====1806=====
 <PROC=0>
 <END>
@@ -6040,22 +6095,21 @@ $E=====1807=====
 //伯爵(はくしゃく)の吸血(きゅ
 //うけつ)を受けると、ダメージ
 //を受けるばかりではなく、
-Si le Comte utilise son
-attaque de succion de sang,
-cela ne causera pas seulement
-des dégâts,
+If the Count uses his
+bloodsucking attack, it
+won't just deal damage,
 $E=====1808=====
 //伯爵(はくしゃく)の暗黒ゲージ
 //まで、回復(かいふく)させてし
 //まう
-ça restaurera également sa
-jauge d'Obscurité.
+it will also recover his
+Dark Gauge.
 $E=====1809=====
 //吸血(きゅうけつ)を受けてしま
 //ったら、<WEIGHT>{＋}ボタン</WEIGHT>の連打で、た
 //だちに脱出(だっしゅつ)せよ!!
-Si vous êtes touché, frappez
-rapidement le <WEIGHT>{＋}Control Pad</WEIGHT>!
+If you're hit by it, quickly
+move the <WEIGHT>{＋}Control Pad</WEIGHT>!
 $E=====1810=====
 <PROC=0>
 <END>
@@ -6063,114 +6117,110 @@ $E=====1811=====
 //全体攻撃(ぜんたいこうげき)で
 //あるブラッドレインを、よける
 //ことはできないが、
-L'attaque Pluie de Sang couvre
-toute la zone et ne peut être
-évité,
+Blood Rain attacks the
+entire area and cannot be
+avoided,
 $E=====1812=====
 //伯爵(はくしゃく)自身は無防備
 //(むぼうび)になる
-mais cela laisse le Comte
-totalement sans défense.
+but it leaves the Count
+completely defenseless.
 $E=====1813=====
 //連続攻撃(れんぞくこうげき)を
 //たたきこみ、一気に勝負をつけ
 //ろ!!
-Attaquez le Comte à répétition
-et assurez votre victoire!
+Attack the Count repeatedly
+and ensure your victory!
 $E=====1814=====
 <PROC=0>
 <END>
 $E=====1815=====
 //上空を飛んでいるフレスベルグ
 //に対して、
-Parce que Hresvelgr vole haut
-dans le ciel,
+Because Hresvelgr flies high
+in the air,
 $E=====1816=====
 //地上からの攻撃(こうげき)でダ
 //メージをあたえることは、むず
 //かしい
-il est difficile de lui
-infliger des dégâts depuis
-le sol.
+it is difficult to damage
+him from the ground.
 $E=====1817=====
 //エリア内にある太陽の根をアー
 //ス属性(ぞくせい)の攻撃(こう
 //げき)で元気にし、
-Utilisez des attaques de
-l'élément Terre sur les Racines
-Solaire pour les faire
-pousser,
+Use Earth elemental attacks
+on the Solar Roots to make
+them grow,
 $E=====1818=====
 //その上から攻撃(こうげき)せよ
 //!!
-puis attaquez Hresvelgr depuis
-le dessus!
+then attack Hresvelgr from
+atop them!
 $E=====1819=====
 <PROC=0>
 <END>
 $E=====1820=====
 //上空を飛んでいるフレスベルグ
 //に対して、
-Parce que Hresvelgr vole haut
-dans le ciel,
+Because Hresvelgr flies high
+in the air,
 $E=====1821=====
 //地上からの攻撃(こうげき)でダ
 //メージをあたえることは、むず
 //かしいが、
-il est difficile de lui
-infliger des dégâts depuis
-le sol.
+it is difficult to damage
+him from the ground.
 $E=====1822=====
 //ソードの縦斬(たてぎ)りであれ
 //ば、
-Mais si vous avez une longue
-épée,
+But if you have a long
+sword,
 $E=====1823=====
 //通常(つうじょう)のダメージを
 //あたえることが可能(かのう)だ
-vous pourrez généralement
-lui infliger des dégâts.
+it will usually be able to
+damage him.
 $E=====1824=====
 <PROC=0>
 <END>
 $E=====1825=====
 //相手を地面にたたきつける攻撃
 //(こうげき)、モズ落としは、
-Shrike Drop est une attaque
-qui cloue l'adversaire au
-sol.
+Shrike Drop is an attack
+that slams the opponent onto
+the ground.
 $E=====1826=====
 //つかまったら最後、脱出(だっ
 //しゅつ)することはできない
-Si vous finissez par être
-attrapé, vous ne pourrez pas
-vous échapper.
+If you end up caught, you
+won't be able to escape.
 $E=====1827=====
 //つかまえようとするフレスベル
 //グの突進(とっしん)は、身をか
 //わしてやりすごすか、
-Quand Hresvelgr plonge pour
-vous attraper, esquivez et
-laissez-le passer,
+When Hresvelger dives in to
+grab you, dodge and let him
+pass by you,
 $E=====1828=====
 //連続攻撃(れんぞくこうげき)を
 //たたきこみ撃退(げきたい)せよ
 //!!
-puis repoussez-le avec des
-attaques répétées !
+then drive him back with
+repeated attacks!
 $E=====1829=====
 <PROC=0>
 <END>
 $E=====1830=====
 //エリアの南東には天窓(てんま
 //ど)がある
-Il y a une lucarne dans la
-partie sud-est de la zone.
+There's a skylight in the
+southeast part of the area.
 $E=====1831=====
 //太陽の光さえあれば、太陽チャ
 //ージが可能(かのう)だ
-Tant qu'il y a du soleil,
-une Charge Solaire sera
+As long as there's sunlight,
+a Solar Charge will be
 possible.
 $E=====1832=====
 <PROC=0>
@@ -6178,35 +6228,35 @@ $E=====1832=====
 $E=====1833=====
 //トリニティを見殺しにはできな
 //い!!
-Ne laissez pas Trinity mourir !
+Don't let Trinity die!
 $E=====1834=====
 //トリニティを運び、エリア周囲
 //のイバラでダメージを受けない
 //ようにしろ!
-Empêchez-le de se blesser en
-le déplaçant loin des épines
-sur les murs !
+Keep him from getting
+hurt by moving him away from
+the thorns on the wall!
 $E=====1835=====
 //あらかじめ太陽の根の手前に運
 //んでおけば、風に運ばれるのを
 //ふせぐことができるぞ!!
-Vous pouvez éviter que le vent
-ne le pousse en le déplaçant
-devant une racine !
+You can stop the wind from
+pushing him around by moving
+him in front of a root!
 $E=====1836=====
 <PROC=0>
 <END>
 $E=====1837=====
 //サバタに正面からの攻撃(こう
 //げき)は通用しない
-N'attaquez pas Sabata de
-face.
+Don't attack Sabata from
+the front.
 $E=====1838=====
 //背後(はいご)に回りこみ、視界
 //(しかい)の外から攻撃(こうげ
 //き)せよ!!
-Contournez-le par derrière et
-attaquez depuis son angle mort !
+Get behind him and attack
+from his blind spot!
 $E=====1839=====
 <PROC=0>
 <END>
@@ -6214,22 +6264,22 @@ $E=====1840=====
 //暗黒スプレッドによる回転攻撃
 //(かいてんこうげき)、暗黒ゴマ
 //は強力だ
-Dark Spin est une puissante
-attaque tournoyante utilisant
-une diffusion d'Obscurité.
+Dark Spin is a powerful
+spinning attack using a Dark
+spread.
 $E=====1841=====
 //サバタが急接近(きゅうせっき
 //ん)してきたら、ただちに距離
 //(きょり)を取れ!!
-Quand Sabata s'approche
-soudainement, reculez !
+When Sabata approaches you
+suddenly, get back!
 $E=====1842=====
 //タイミング良くソードで攻撃(
 //こうげき)すれば、暗黒ゴマを
 //打ち返すことができるぞ!!
-Si votre timing est bon, vous
-pouvez dévier Dark Spin avec
-un coup d'épée !
+If your timing is good, you
+can deflect Dark Spin with
+a sword strike!
 $E=====1843=====
 <PROC=0>
 <END>
@@ -6237,50 +6287,50 @@ $E=====1844=====
 //雪隠(ゆきがく)れで姿(すがた)
 //をかくしたサバタや、サバタが
 //しかけたアイスランスは、
-Quand Sabata disparaît dans
-la neige,
+When Sabata disappears into
+the snow,
 $E=====1845=====
 //太陽の光によって、その姿(す
 //がた)を現す
-utilisez la lumière du soleil
-pour révéler la position de
-l'Ice Lance ou de Sabata lui-même.
+use sunlight to reveal the
+position of the Ice Lance
+or Sabata himself.
 $E=====1846=====
 <PROC=0>
 <END>
 $E=====1847=====
 //暗黒少年であるサバタの得意属
 //性(とくいぞくせい)はダークだ
-Parce que Sabata est le Garçon
-des Ténèbres, son élément fort
-est l'Obscurité.
+Because Sabata is the Dark
+Boy, his strong element is
+Dark.
 $E=====1848=====
 //苦手であるソル属性(ぞくせい)
 //の攻撃(こうげき)で、戦いにい
 //どめ!!
-Utilisez sa faiblesse, l'élément
-Solaire, pour le combattre !
+Use his weakness, the Sol
+element, to fight him!
 $E=====1849=====
 <PROC=0>
 <END>
 $E=====1850=====
 /船にそなえ付けられた大砲(た
 //いほう)は、
-Les canons sur le dos de
-Nidhoggr...
+The cannons on Nidhoggr's
+back...
 $E=====1851=====
 //大砲(たいほう)自体を攻撃(こ
 //うげき)すれば、撃(う)つこと
 //ができる
-peuvent être détruits si vous
-les attaquez.
+can be destroyed if you
+attack them.
 $E=====1852=====
 //大砲(たいほう)を使って、海上
 //のニーズホッグを攻撃(こうげ
 //き)せよ!!
-Utilisez les canons pour
-attaquer Nidhoggr quand il est
-au-dessus de l'eau !
+Use the cannons to attack
+Nidhoggr when it's above
+water!
 $E=====1853=====
 <PROC=0>
 <END>
@@ -6288,57 +6338,56 @@ $E=====1854=====
 //ニーズホッグの放つミサイルは
 //その落下地点に、あらかじめ照
 //準(しょうじゅん)があらわれる
-Quand Nidhoggr tire des
-missiles, une cible apparaît
-à leur destination.
+When Nidhoggr fires
+missiles, a target appears
+at their destination.
 $E=====1855=====
 //照準(しょうじゅん)があらわれ
 //たら、ただちにその場をはなれ
 //ミサイルを回避(かいひ)せよ!!
-Dès qu'une cible apparaît,
-éloignez-vous pour éviter
-les missiles !
+When you see a target, get
+out of the way!
 $E=====1856=====
 <PROC=0>
 <END>
 $E=====1857=====
 //ニーズホッグの弱点は、その巨
 //大(きょだい)な2つの目玉だ
-Les deux yeux géants de
-Nidhoggr sont son point faible.
+Nidhoggr's two gigantic eyes
+are its weak point.
 $E=====1858=====
 //ニーズホッグがその手を甲板(
 //かんぱん)にふり下ろしたら、
-Quand Nidhoggr abaisse ses
-bras sur le pont,
+When Nidhoggr swings its
+arms onto the deck,
 $E=====1859=====
 //その手を伝って顔の上に乗り、
 //2つの目玉を攻撃(こうげき)せ
 //よ!!
-montez sur son visage et
-attaquez ses yeux !
+climb up onto its face and
+attack its eyes!
 $E=====1860=====
 <PROC=0>
 <END>
 $E=====1861=====
 //ニーズホッグは、その目玉から
 //強力な殺人光線を放つ
-Nidhoggr peut tirer un puissant
-Rayon de la Mort de ses yeux.
+Nidhoggr can fire a powerful
+Murder Beam from its eyes.
 $E=====1862=====
 //ふり下ろした手がふるえ始めた
 //ら、直ちにその手を伝って船に
 //もどれ!!
-Quand ses bras commencent à
-trembler, redescendez sur votre
-bateau immédiatement !
+When its arms begin to
+shake, climb back down to
+your ship immediately!
 $E=====1863=====
 //にげおくれ、殺人光線を浴びれ
 //ば、ゲームオーバーをまぬがれ
 //ることはできない
-Si vous attendez trop pour
-fuir, c'est une fin de partie
-garantie.
+If you wait too long to
+escape, it's a guaranteed
+Game Over.
 $E=====1864=====
 <PROC=0>
 <END>
@@ -6346,15 +6395,15 @@ $E=====1865=====
 //ニーズホッグは、召喚(しょう
 //かん)したトゲロボから得たエ
 //ネルギーでバリアを張(は)る
-Les Spike Bots libérés par
-Nidhoggr accumulent de l'énergie
-pour former une barrière.
+The Spike Bots released by
+Nidhoggr gather energy and
+form a barrier.
 $E=====1866=====
 //トゲロボを破壊(はかい)して、
 //ニーズホッグのバリアを打ちや
 //ぶれ!!
-Attaquez les Spike Bots pour
-détruire la barrière !
+Attack the Spike Bots to
+destroy the barrier!
 $E=====1867=====
 <PROC=0>
 <END>
@@ -6362,39 +6411,39 @@ $E=====1868=====
 //ニーズホッグが落とす爆弾(ば
 //くだん)は、<WEIGHT>{＋}ボタン</WEIGHT>で、けり
 //飛ばすことができる
-Vous pouvez renvoyer les bombes
-que Nidhoggr lâche, en utilisant
-le <WEIGHT>{＋}Control Pad</WEIGHT>.
+You can kick back the bombs
+that Nidhoggr drops, using
+the <WEIGHT>{＋}Control Pad</WEIGHT>.
 $E=====1869=====
 //上手くけることができれば、
-Avec suffisamment de dextérité,
+With enough skill,
 $E=====1870=====
 //トゲロボやニーズホッグにダメ
 //ージをあたえることも可能(か
 //のう)だ
-il est possible de causer des
-dégâts à Nidhoggr et aux Spike Bots.
+it's possible to damage both
+Nidhoggr and the Spike Bots.
 $E=====1871=====
 <PROC=0>
 <END>
 $E=====1872=====
 //ラタトスクの攻撃(こうげき)、
 //人形使いを受けると、
-Puppeteer, l'une des attaques
-de Ratatosk,
+Puppeteer, one of Ratatosk's
+attacks,
 $E=====1873=====
 //身体の自由をうばわれ、ラタト
 //スクの近くに引きよせられてし
 //まう
-prend le contrôle de votre corps
-et vous attire plus près de lui.
+takes control of your body
+and pulls you closer to him.
 $E=====1874=====
 //ダークウィップの一撃(いちげ
 //き)を受ける前に、<WEIGHT>{＋}ボタン</WEIGHT>の
 //連打で脱出(だっしゅつ)せよ!
-Avant de vous faire frapper par
-le Fouet des Ténèbres, bougez le
-<WEIGHT>{＋}Control Pad</WEIGHT> pour vous échapper !
+Before you get hit by Dark
+Whip, move the <WEIGHT>{＋}Control Pad</WEIGHT>
+to escape!
 $E=====1875=====
 <PROC=0>
 <END>
@@ -6402,48 +6451,48 @@ $E=====1876=====
 //ラタトスクのなげるチャクラム
 //は、そのブーメランのような動
 //きに注意せよ!!
-Le Chakram de Ratatosk se déplace
-comme un boomerang, alors soyez
-vigilant !
+Ratatosk's Chakram moves
+like a boomerang, so watch
+out!
 $E=====1877=====
 //またチャクラムには、しびれ薬
 //がぬられている
-Il est également imprégné d'un
-poison paralysant.
+It's also soaked in a
+paralyzing medicine.
 $E=====1878=====
 //よけきれずマヒしてしまったと
 //きは、<WEIGHT>{＋}ボタン</WEIGHT>の連打でただち
 //に回復(かいふく)せよ!!
-Si vous êtes paralysé par une
-coupure, bougez le <WEIGHT>{＋}Control Pad</WEIGHT>
-pour récupérer !
+If you get Paralyzed from a
+cut, move the <WEIGHT>{＋}Control Pad</WEIGHT>
+to recover!
 $E=====1879=====
 <PROC=0>
 <END>
 $E=====1880=====
 //ラタトスクの攻撃(こうげき)、
 //影使(かげつか)いでは、
-Maniement de l'Ombre, une des
-attaques de Ratatosk,
+Shadow Puppeteer, one of
+Ratatosk's attacks,
 $E=====1881=====
 //影(かげ)から生まれた分身に攻
 //撃(こうげき)すると、自分がダ
 //メージを受けてしまう
-crée des clones à partir des
-ombres. Si vous les attaquez,
-vous subirez des dégâts.
+creates clones from the
+shadows. If you attack them,
+you'll end up taking damage.
 $E=====1882=====
 //姿(すがた)を消したラタトスク
 //を見つけ出し、撃破(げきは)せ
 //よ!!
-Trouvez Ratatosk devenu invisible
-et détruisez-le !
+Find the invisible Ratatosk
+and pulverize him!
 $E=====1883=====
 //ラタトスクは分身から走る光の
 //先にかくれているぞ!!
-Ratatosk se cachera au bout des
-traînées lumineuses partant des
-clones !
+Ratatosk will be hiding at
+the end of the light trails
+coming from the clones!
 $E=====1884=====
 <PROC=0>
 <END>
@@ -6451,36 +6500,37 @@ $E=====1885=====
 //燃(も)える色の髪(かみ)を持つ
 //ラタトスクの得意属性(とくい
 //ぞくせい)はフレイムだ
-Avec ses cheveux rouge flamboyant,
-l'élément fort de Ratatosk est
-la Flamme.
+With his fiery red hair,
+Ratatosk's, strong element
+is Flame.
 $E=====1886=====
 //苦手であるフロスト属性(ぞく
 //せい)の攻撃(こうげき)で、戦
 //いにいどめ!!
-Utilisez sa faiblesse, l'élément
-Givre, pour le combattre !
+Use his weakness, the Frost
+element, to fight him!
 $E=====1887=====
 <PROC=0>
 <END>
 $E=====1888=====
 //ヴァナルガンドの2つの手、ホ
-//ワイトアーム et ブラックアーム
+//ワイトアームとブラックアーム
 //は、
-Les deux bras de Vanargand, le
-Bras Blanc et le Bras Noir,
+Vanargand's two arms, the
+White Arm and Black Arm,
 $E=====1889=====
 //それぞれソル属性(ぞくせい)と
 //ダーク属性(ぞくせい)を得意と
 //する
-sont respectivement élément Solaire
-et élément Obscurité.
+are Sol element and Dark
+element, respectively.
 $E=====1890=====
 //苦手であるダーク属性(ぞくせ
 //い)、ソル属性(ぞくせい)で攻
 //撃(こうげき)せよ!!
-Attaquez-les avec leurs faiblesses,
-les éléments Obscurité et Solaire !
+Attack them with their
+weaknesses, the Dark and Sol
+elements!
 $E=====1891=====
 <PROC=0>
 <END>
@@ -6488,63 +6538,62 @@ $E=====1892=====
 //ヴァナルガンドが放つ属性(ぞ
 //くせい)ビーム、怪光線(かいこ
 //うせん)は、
-Rayons Mystères, les faisceaux
-élémentaires que Vanargand tire,
+Mystery Beams, the elemental
+beams that Vanargand fires,
 $E=====1893=====
 //ソードでの攻撃(こうげき)で、
 //打ち返すことが可能(かのう)だ
-peuvent être renvoyés avec des
-attaques à l'épée.
+can be deflected back at it
+with sword attacks.
 $E=====1894=====
 //ただし、怪光線(かいこうせん)
 //を打ち返せば、ソードは大きな
 //ダメージを受ける
-Cependant, cela endommagera
-sévèrement l'épée.
+However, this will cause
+severe damage to the sword.
 $E=====1895=====
 //打ち返しに使うソードは、折(
 //お)れることを覚悟(かくご)せ
 //よ!!
-Si vous décidez d'utiliser une
-épée pour les renvoyer, soyez
-prêt à ce qu'elle se casse !
+If you decide to use a sword
+to knock them back, be
+prepared for it to break!
 $E=====1896=====
 <PROC=0>
 <END>
 $E=====1897=====
 //ヴァナルガンドの頭部(とうぶ)
 //は無属性(むぞくせい)だ
-La tête de Vanargand n'a pas
-d'élément fort.
+Vanargand's head has no
+strong element.
 $E=====1898=====
 //弱点を突くことはできないが、
-Il n'y a pas de point faible
-spécifique à viser,
+There's no specific weak
+point for you to hit,
 $E=====1899=====
 //属性攻撃(ぞくせいこうげき)を
 //行えば、多少なりともダメージ
 //をますことは可能(かのう)だ
-mais les attaques élémentaires
-infligeront légèrement plus
-de dégâts.
+but elemental attacks will
+deal slightly more damage.
 $E=====1900=====
 <PROC=0>
 <END>
 $E=====1901=====
 //ヴァナルガンドの腹部(ふくぶ)
 //には、サバタがいる
-Sabata se trouve sur
-l'abdomen de Vanargand.
+Sabata is located on
+Vanargand's abdomen.
 $E=====1902=====
 //苦手であるソル属性(ぞくせい)
 //で攻撃(こうげき)すれば、
-Si vous l'attaquez avec l'élément
-Solaire,
+If you attack him with the
+Sol element,
 $E=====1903=====
 //より多くのダメージをあたえる
 //ことが可能(かのう)だが・・・
-cela infligera beaucoup plus
-de dégâts, mais...
+it will deal a lot more
+damage, but...
 $E=====1904=====
 <PROC=0>
 <END>
@@ -6552,7 +6601,7 @@ $E=====1905=====
 //
 //<LABEL>　　　　 敵を倒せ!!</LABEL>
 
-<LABEL>     Détruis l'ennemi !</LABEL>
+<LABEL>     Defeat the enemy!</LABEL>
 $E=====1906=====
 <PROC=0>
 <END>
@@ -6560,31 +6609,31 @@ $E=====1907=====
 //
 //<LABEL> 敵モンスターをすべて倒せ!!</LABEL>
 
-<LABEL> Détruis tous les monstres ennemis !</LABEL>
+<LABEL> Defeat all enemy monsters!</LABEL>
 $E=====1908=====
 <PROC=0>
 <END>
 $E=====1909=====
 //
 //<LABEL>時間内に敵モンスターを倒せ!!</LABEL>
-<LABEL> Détruis tous les monstres ennemis
- dans le délai imparti !</LABEL>
+<LABEL> Defeat all enemy monsters
+ within the time limit!</LABEL>
 $E=====1910=====
 <PROC=0>
 <END>
 $E=====1911=====
 //<LABEL>　　　 見つからずに、
 //　　敵モンスターを倒せ!!</LABEL>
-<LABEL> Détruis tous les monstres ennemis
- sans être repéré !</LABEL>
+<LABEL> Defeat all enemy monsters
+ without being spotted!</LABEL>
 $E=====1912=====
 <PROC=0>
 <END>
 $E=====1913=====
 //<LABEL>　　ダメージを受けずに、
 //　　敵モンスターを倒せ!!</LABEL>
-<LABEL> Détruis tous les monstres ennemis
- sans subir de dégâts !</LABEL>
+<LABEL> Defeat all enemy monsters
+ without getting hit!</LABEL>
 $E=====1914=====
 <PROC=0>
 <END>
@@ -6592,7 +6641,7 @@ $E=====1915=====
 //
 //<LABEL>　　　 ソードを倒せ!!</LABEL>
 
-<LABEL>     Détruis l'Épée !</LABEL>
+<LABEL>     Defeat the Sword!</LABEL>
 $E=====1916=====
 <PROC=0>
 <END>
@@ -6600,7 +6649,7 @@ $E=====1917=====
 //
 //<LABEL>　　　ソード+を倒せ!!</LABEL>
 
-<LABEL>     Détruis l'Épée+ !</LABEL>
+<LABEL>     Defeat the Sword+!</LABEL>
 $E=====1918=====
 <PROC=0>
 <END>
@@ -6608,7 +6657,7 @@ $E=====1919=====
 //
 //<LABEL>　　　アックスを倒せ!!</LABEL>
 
-<LABEL>      Détruis la Hache !</LABEL>
+<LABEL>      Defeat the Axe!</LABEL>
 $E=====1920=====
 <PROC=0>
 <END>
@@ -6616,7 +6665,7 @@ $E=====1921=====
 //
 //<LABEL>　　 アックス+を倒せ!!</LABEL>
 
-<LABEL>     Détruis la Hache+ !</LABEL>
+<LABEL>     Defeat the Axe+!</LABEL>
 $E=====1922=====
 <PROC=0>
 <END>
@@ -6624,7 +6673,7 @@ $E=====1923=====
 //
 //<LABEL>　ブロンズアーマーを倒せ!!</LABEL>
 
-<LABEL>  Détruis l'Armure de Bronze !</LABEL>
+<LABEL>  Defeat the Bronze Armor!</LABEL>
 $E=====1924=====
 <PROC=0>
 <END>
@@ -6632,7 +6681,7 @@ $E=====1925=====
 //
 //<LABEL>　アイアンアーマーを倒せ!!</LABEL>
 
-<LABEL>   Détruis l'Armure de Fer !</LABEL>
+<LABEL>   Defeat the Iron Armor!</LABEL>
 $E=====1926=====
 <PROC=0>
 <END>
@@ -6640,7 +6689,7 @@ $E=====1927=====
 //
 //<LABEL>　フレイムアーマーを倒せ!!</LABEL>
 
-<LABEL>  Détruis l'Armure de Flamme !</LABEL>
+<LABEL>  Defeat the Flame Armor!</LABEL>
 $E=====1928=====
 <PROC=0>
 <END>
@@ -6648,7 +6697,7 @@ $E=====1929=====
 //
 //<LABEL>　フレイムアーマー{＋}を倒せ!!</LABEL>
 
-<LABEL> Détruis l'Armure de Flamme{＋} !</LABEL>
+<LABEL> Defeat the Flame Armor{＋}!</LABEL>
 $E=====1930=====
 <PROC=0>
 <END>
@@ -6656,7 +6705,7 @@ $E=====1931=====
 //
 //<LABEL>　フロストアーマーを倒せ!!</LABEL>
 
-<LABEL>  Détruis l'Armure de Givre !</LABEL>
+<LABEL>  Defeat the Frost Armor!</LABEL>
 $E=====1932=====
 <PROC=0>
 <END>
@@ -6664,7 +6713,7 @@ $E=====1933=====
 //
 //<LABEL>　フロストアーマー{＋}を倒せ!!</LABEL>
 
-<LABEL> Détruis l'Armure de Givre{＋} !</LABEL>
+<LABEL> Defeat the Frost Armor{＋}!</LABEL>
 $E=====1934=====
 <PROC=0>
 <END>
@@ -6672,7 +6721,7 @@ $E=====1935=====
 //
 //<LABEL>　クラウドアーマーを倒せ!!</LABEL>
 
-<LABEL>  Détruis l'Armure de Nuage !</LABEL>
+<LABEL>  Defeat the Cloud Armor!</LABEL>
 $E=====1936=====
 <PROC=0>
 <END>
@@ -6680,7 +6729,7 @@ $E=====1937=====
 //
 //<LABEL>　クラウドアーマー{＋}を倒せ!!</LABEL>
 
-<LABEL> Détruis l'Armure de Nuage{＋} !</LABEL>
+<LABEL> Defeat the Cloud Armor{＋}!</LABEL>
 $E=====1938=====
 <PROC=0>
 <END>
@@ -6688,7 +6737,7 @@ $E=====1939=====
 //
 //<LABEL>　アースアーマーを倒せ!!</LABEL>
 
-<LABEL>  Détruis l'Armure de Terre !</LABEL>
+<LABEL>  Defeat the Earth Armor!</LABEL>
 $E=====1940=====
 <PROC=0>
 <END>
@@ -6696,7 +6745,7 @@ $E=====1941=====
 //
 //<LABEL>　アースアーマー{＋}を倒せ!!</LABEL>
 
-<LABEL> Détruis l'Armure de Terre{＋} !</LABEL>
+<LABEL> Defeat the Earth Armor{＋}!</LABEL>
 $E=====1942=====
 <PROC=0>
 <END>
@@ -6704,7 +6753,7 @@ $E=====1943=====
 //
 //<LABEL>　デュアルアーマーを倒せ!!</LABEL>
 
-<LABEL>   Détruis l'Armure Double !</LABEL>
+<LABEL>   Defeat the Dual Armor!</LABEL>
 $E=====1944=====
 <PROC=0>
 <END>
@@ -6712,7 +6761,7 @@ $E=====1945=====
 //
 //<LABEL>　デュアルアーマー{＋}を倒せ!!</LABEL>
 
-<LABEL>  Détruis l'Armure Double{＋} !</LABEL>
+<LABEL>  Defeat the Dual Armor{＋}!</LABEL>
 $E=====1946=====
 <PROC=0>
 <END>
@@ -6720,7 +6769,7 @@ $E=====1947=====
 //
 //<LABEL>　ダークアーマーを倒せ!!</LABEL>
 
-<LABEL>   Détruis l'Armure des Ténèbres !</LABEL>
+<LABEL>   Defeat the Dark Armor!</LABEL>
 $E=====1948=====
 <PROC=0>
 <END>
@@ -6728,7 +6777,7 @@ $E=====1949=====
 //
 //<LABEL>　白金の騎士を倒せ!!</LABEL>
 
-<LABEL>Détruis le Chevalier d'Argent !</LABEL>
+<LABEL>Defeat the Silver Knight!</LABEL>
 $E=====1950=====
 <PROC=0>
 <END>
@@ -6736,7 +6785,7 @@ $E=====1951=====
 //
 //<LABEL>　　 スケルトンを倒せ!!</LABEL>
 
-<LABEL>    Détruis tous les Squelettes !</LABEL>
+<LABEL>    Defeat all Skeletons!</LABEL>
 $E=====1952=====
 <PROC=0>
 <END>
@@ -6744,7 +6793,7 @@ $E=====1953=====
 //
 //<LABEL>★デバッグメッセージ★</LABEL>
 
-<LABEL>★MESSAGE DE DÉBOGAGE★</LABEL>
+<LABEL>★DEBUG MESSAGE★</LABEL>
 $E=====1954=====
 <PROC=0>
 <END>
@@ -6752,7 +6801,7 @@ $E=====1955=====
 //
 //<LABEL>★デバッグメッセージ★</LABEL>
 
-<LABEL>★MESSAGE DE DÉBOGAGE★</LABEL>
+<LABEL>★DEBUG MESSAGE★</LABEL>
 $E=====1956=====
 <PROC=0>
 <END>
@@ -6760,7 +6809,7 @@ $E=====1957=====
 //
 //<LABEL>★デバッグメッセージ★</LABEL>
 
-<LABEL>★MESSAGE DE DÉBOGAGE★</LABEL>
+<LABEL>★DEBUG MESSAGE★</LABEL>
 $E=====1958=====
 <PROC=0>
 <END>
@@ -6768,7 +6817,7 @@ $E=====1959=====
 //
 //<LABEL>★デバッグメッセージ★</LABEL>
 
-<LABEL>★MESSAGE DE DÉBOGAGE★</LABEL>
+<LABEL>★DEBUG MESSAGE★</LABEL>
 $E=====1960=====
 <PROC=0>
 <END>
@@ -6776,7 +6825,7 @@ $E=====1961=====
 //
 //<LABEL>★デバッグメッセージ★</LABEL>
 
-<LABEL>★MESSAGE DE DÉBOGAGE★</LABEL>
+<LABEL>★DEBUG MESSAGE★</LABEL>
 $E=====1962=====
 <PROC=0>
 <END>
@@ -6784,7 +6833,7 @@ $E=====1963=====
 //
 //<LABEL>★デバッグメッセージ★</LABEL>
 
-<LABEL>★MESSAGE DE DÉBOGAGE★</LABEL>
+<LABEL>★DEBUG MESSAGE★</LABEL>
 $E=====1964=====
 <PROC=0>
 <END>
@@ -6792,7 +6841,7 @@ $E=====1965=====
 //
 //<LABEL>★デバッグメッセージ★</LABEL>
 
-<LABEL>★MESSAGE DE DÉBOGAGE★</LABEL>
+<LABEL>★DEBUG MESSAGE★</LABEL>
 $E=====1966=====
 <PROC=0>
 <END>
@@ -6800,7 +6849,7 @@ $E=====1967=====
 //
 //<LABEL>★デバッグメッセージ★</LABEL>
 
-<LABEL>★MESSAGE DE DÉBOGAGE★</LABEL>
+<LABEL>★DEBUG MESSAGE★</LABEL>
 $E=====1968=====
 <PROC=0>
 <END>
@@ -6808,7 +6857,7 @@ $E=====1969=====
 //
 //<LABEL>★デバッグメッセージ★</LABEL>
 
-<LABEL>★MESSAGE DE DÉBOGAGE★</LABEL>
+<LABEL>★DEBUG MESSAGE★</LABEL>
 $E=====1970=====
 <PROC=0>
 <END>
@@ -6816,7 +6865,7 @@ $E=====1971=====
 //
 //<LABEL>★デバッグメッセージ★</LABEL>
 
-<LABEL>★MESSAGE DE DÉBOGAGE★</LABEL>
+<LABEL>★DEBUG MESSAGE★</LABEL>
 $E=====1972=====
 <PROC=0>
 <END>
@@ -6824,7 +6873,7 @@ $E=====1973=====
 //
 //<LABEL>★デバッグメッセージ★</LABEL>
 
-<LABEL>★MESSAGE DE DÉBOGAGE★</LABEL>
+<LABEL>★DEBUG MESSAGE★</LABEL>
 $E=====1974=====
 <PROC=0>
 <END>
@@ -6833,8 +6882,8 @@ $E=====1975=====
 //「さすがはわれらが主(あるじ)
 //サバタさま・・・」
 <LABEL>???</LABEL>:
-"Comme on pouvait s'y attendre
-de notre maître, Sabata..."
+"As to be expected of Lord
+Sabata..."
 $E=====1976=====
 <PROC=0>
 <END>
@@ -6843,17 +6892,17 @@ $E=====1977=====
 //「大いなる災厄(さいやく)
 //・・・
 <LABEL>???</LABEL>:
-"Un grand fléau...
+"A great calamity...
 $E=====1978=====
 //破壊(はかい)の獣(けもの)、
 //ヴァナルガンド
-La Bête de Destruction,
+The Beast of Destruction,
 Vanargand.
 $E=====1979=====
 //その力を受けつぐ者、暗黒少年
 //・・・」
-Celui qui hérite de son
-pouvoir, le Garçon des Ténèbres..."
+The one who inherits its
+power, the Dark Boy..."
 $E=====1980=====
 <PROC=0>
 <END>
@@ -6862,15 +6911,15 @@ $E=====1981=====
 //「ヴァナルガンドはまもなく解
 //放(かいほう)される
 <LABEL>???</LABEL>:
-"Vanargand sera bientôt
-libéré.
+"Vanargand will soon be
+released.
 $E=====1982=====
 //血と大地によって月がそまる時
 //破壊(はかい)の獣(けもの)はと
 //き放たれる」
-Quand le sang et la terre teignent
-la lune, la Bête de Destruction
-sera libérée."
+When blood and earth dye
+the moon, the Beast of
+Destruction will be freed."
 $E=====1983=====
 <PROC=0>
 <END>
@@ -6879,8 +6928,8 @@ $E=====1984=====
 //「太陽の季節は終わりを告げ、
 //暗黒の時代がおとずれる」
 <LABEL>???</LABEL>:
-"L'heure du Soleil est terminée. L'ère
-des ténèbres est imminente."
+"The Sun's hour is over. The
+era of darkness is at hand."
 $E=====1985=====
 <PROC=0>
 <END>
@@ -6889,15 +6938,16 @@ $E=====1986=====
 //「さらばだ・・・
 //太陽少年<NAME>
 <LABEL>Sabata</LABEL>:
-"Adieu...
-Garçon Solaire <NAME>.
+"This is goodbye...
+Solar Boy <NAME>.
 $E=====1987=====
 //もはやわれわれのジャマをする
 //ものはない
-Plus rien ne peut nous gêner.
+Now there's nothing to get
+in our way.
 $E=====1988=====
 //世界は・・・終わる」
-"Le monde... va finir."
+"The world... shall end."
 $E=====1989=====
 <PROC=0>
 <END>
@@ -6906,106 +6956,109 @@ $E=====1990=====
 //「人々が太陽をわすれたってい
 //う暗黒の時代・・・
 <LABEL>Trinity</LABEL>:
-"L'Ère Sombre, lorsque les
-gens avaient oublié le Soleil...
+"The Dark Era, when people
+had forgotten the Sun...
 $E=====1991=====
 //破壊(はかい)の獣(けもの)、ヴ
 //ァナルガンドに世界はメチャク
 //チャにされちまった
-ce monde a fini par être
-détruit par la Bête de
+that world ended up being
+ruined by the Beast of
 Destruction, Vanargand.
 $E=====1992=====
 //そしてそのヴァナルガンドをあ
 //やつる闇の一族(イモータル)に
 //支配(しはい)された世界が、
-Et puis il y a le monde
-contrôlé par les Immortels
-utilisant ce même Vanargand,
+And then there's the world
+that the Immortals control
+using that same Vanargand,
 $E=====1993=====
 //未来世紀さ<PROC=1>
-le Siècle Futur.<PROC=1>
+the Future Era.<PROC=1>
 $E=====1994=====
 //太陽はうばわれ、空には闇の一
 //族(イモータル)が作り出した暗
 //黒の太陽が浮かんでやがる
-Les Immortels ont volé le
-soleil et ont mis un soleil
-artificiel sombre dans le ciel.
+The Immortals stole away the
+sun and put up an artificial
+dark sun.
 $E=====1995=====
 //地上は死者(アンデッド)の世界
 //・・・
-La surface est le domaine
-des Morts-Vivants...
+Above ground is the domain
+of the Undead...
 $E=====1996=====
 //人間は地下にかくれてくらすし
 //かなかった
-Les humains n'ont eu d'autre
-choix que de se cacher sous
-terre pour survivre.
+Humans had no choice but to
+hide underground to
+survive.
 $E=====1997=====
 //食い物も満足に手に入らない地
 //下世界じゃあ、同じ人間同士で
 //もすべてがうばい合い
-Il n'y a rien. Les humains
-sont forcés de se battre entre
-eux pour tout--
+It provides nothing. Humans
+are forced to compete with
+each other for everything--
 $E=====1998=====
 //食い物も、
 //金も、
 //命さえな・・・
-la nourriture,
-l'argent,
-même leur vie...
+food,
+money,
+even their lives...
 $E=====1999=====
 //だれもが他人をうたがうそんな
 //世界で、信じられるものといっ
 //たら金だけさ。そうだろ?
-Personne ne fait confiance aux
-inconnus là-bas. La seule chose
-en laquelle on peut croire, c'est l'argent.
+Nobody trusts strangers
+there. The only thing that
+can be trusted is money.
 $E=====2000=====
 //そんなみじめなオイラたちにと
 //って、たった1つの希望は伝説
 //の戦士だ
-Dans notre misérable situation,
-le Guerrier Légendaire est notre
-seule lueur d'espoir.
+In our miserable situation,
+the Legendary Warrior is our
+only hope.
 $E=====2001=====
 //かつて闇の一族(イモータル)と
 //戦い、数々の伝説を残したとい
 //う光の戦士
-Il a autrefois combattu les
-Immortels. Les légendes l'appellent
-le Guerrier de Lumière.
+He once fought against the
+Immortals. Legends call him
+the Warrior of Light.
 $E=====2002=====
 //その戦士さえあらわれてくれり
 //ゃあ、世界は救われるってわけ
 //だ
-Si seulement le Guerrier apparaissait,
-le monde serait sauvé.
+If only the Warrior would
+appear, the world would be
+saved.
 $E=====2003=====
 //でもよぉ、そんなのは子供だま
 //しのおとぎ話さ
-Mais... ce n'est qu'un conte
-de fées pour enfants.
+But... that's just a fairy
+tale that only children
+would believe.
 $E=====2004=====
 //伝説の戦士は仲間にうらぎられ
 //世界のどこかに封印(ふういん)
 //されちまったっていうが、
-Le Guerrier Légendaire a fini
-trahi par son ami et scellé
-quelque part.
+The Legendary Warrior ended
+up betrayed by his friend
+and sealed away somewhere.
 $E=====2005=====
 //だれもそれをさがそうだなんて
 //しなかったからな
-Personne n'a cherché l'endroit.
+Nobody went looking for the
+place.
 $E=====2006=====
 //<PROC=2>そんなことをしたバカは・・・
-<PROC=2>Seul un imbécile essaierait...
+<PROC=2>Only a fool would try...
 $E=====2007=====
 //オイラの母ちゃんぐらいだぜ」
-un imbécile comme ma mère."
+a fool like my mom."
 $E=====2008=====
 <PROC=0>
 <END>
@@ -7020,25 +7073,25 @@ $E=====2011=====
 //「いつもご利用ありがとうござ
 //います。暗黒ローンです
 <LABEL><EXTEND=0> of Dark Loans</LABEL>:
-"Merci d'utiliser Dark
+"Thank you for using Dark
 Loans.
 $E=====2012=====
 //明日はローンの返済日(へんさ
 //いび)です
-Le remboursement de votre
-prêt est dû demain.
+Your loan repayment is due
+tomorrow.
 $E=====2013=====
 //ご返済(へんさい)は、太陽バン
 //クもしくは太陽スタンドからの
 //自動引き落しとなります
-Nous déduirons automatiquement
-votre paiement de la Banque
-Solaire ou de la Station Solaire.
+We will automatically deduct
+your payment from the Solar
+Bank or Solar Station.
 $E=====2014=====
 //返済(へんさい)のご用意を、
 //<PROC=1>よろしくお願いします」<LOCK=48>
-Veuillez
-<PROC=1>le préparer d'ici là."<LOCK=48>
+Please have it
+<PROC=1>ready by then."<LOCK=48>
 $E=====2015=====
 <PROC=0>
 <END>
@@ -7047,26 +7100,26 @@ $E=====2016=====
 //「いつもご利用ありがとうござ
 //います。暗黒ローンです
 <LABEL><EXTEND=0> of Dark Loans</LABEL>:
-"Merci d'utiliser Dark
+"Thank you for using Dark
 Loans.
 $E=====2017=====
 //本日、ソル(SOL)の自動引き落
 //しを確認(かくにん)いたしまし
 //た
-Aujourd'hui, votre prêt a
-été remboursé avec succès.
+Today, your loan was
+successfully repaid.
 $E=====2018=====
 //これにて、お客さまのローンの
 //返済(へんさい)は無事完了とな
 //ります
-Le Soll nécessaire a été
-automatiquement déduit de
-votre compte.
+The required Soll has been
+automatically deducted from
+your account.
 $E=====2019=====
 //ご返済(へんさい)、
 //<PROC=1><PROC=2>ありがとうございました!!」<LOCK=48>
-Merci beaucoup
-<PROC=1><PROC=2>pour votre paiement!"<LOCK=48>
+Thank you very much
+<PROC=1><PROC=2>for your payment!"<LOCK=48>
 $E=====2020=====
 <PROC=0>
 <END>
@@ -7075,28 +7128,28 @@ $E=====2021=====
 //「いつもご利用ありがとうござ
 //います。暗黒ローンです
 <LABEL><EXTEND=0> of Dark Loans</LABEL>:
-"Merci d'utiliser Dark
+"Thank you for using Dark
 Loans.
 $E=====2022=====
 //本日はローンの返済日(へんさ
 //いび)です
-Le remboursement de votre
-prêt est dû aujourd'hui.
+Your loan repayment is due
+today.
 $E=====2023=====
 //太陽バンクおよび太陽スタンド
 //から、ソル(SOL)を引き落とさ
 //せていただきましたが、
-Le Soll a été automatiquement
-déduit de votre compte,
+Soll has been automatically
+deducted from your account,
 $E=====2024=====
 //残高が不足しています
-mais votre solde est
-insuffisant pour couvrir
-le montant dû.
+but your balance is
+insufficient to cover the
+amount due.
 $E=====2025=====
 //ローンのご返済(へんさい)を、
 //<PROC=1>よろしくお願いします」<LOCK=48>
-<PROC=1>Veuillez rembourser votre prêt."<LOCK=48>
+<PROC=1>Please repay your loan."<LOCK=48>
 $E=====2026=====
 <PROC=0>
 <END>
@@ -7108,33 +7161,33 @@ $E=====2027=====
 $E=====2028=====
 //覚悟(かくご)はよろしいですね
 //?
-Êtes-vous prêt ?
+"Are you prepared?
 $E=====2029=====
 //ワタシたちはエナジーを貸(か)
 //し、アナタはそれを借りた
-Nous vous avons prêté de l'énergie, et maintenant
-vous nous devez une dette.
+We lent you energy, and now
+you owe us a debt.
 $E=====2030=====
 //アナタの事情も分かります
-Nous comprenons votre
+We understand your
 situation.
 $E=====2031=====
 //ですが、借りたものは返さなけ
 //ればなりません。
 //それが世の中のルールです
-Cependant, vous devez rembourser
-ce que vous avez emprunté.
-C'est la règle du monde.
+However, you have to pay
+back what you borrow.
+That's the way of the world.
 $E=====2032=====
 //問題はどうやって返すのか、で
 //すが・・・
-La question est comment vous allez
-nous rembourser, cependant...
+The question is how you will
+repay us, though...
 $E=====2033=====
 //アナタには、ちょっとしたお仕
 //事をしていただきます」
-nous allons vous faire travailler
-pour nous."
+we're going to put you to
+work for us."
 $E=====2034=====
 <PROC=0>
 <END>
@@ -7143,19 +7196,20 @@ $E=====2035=====
 //「・・・またアナタですか?
 //<NAME>さん・・・
 <LABEL>Doomy of Dark Loans</LABEL>:
-"...encore vous ?
+"...you again?
 <NAME>...
 $E=====2036=====
 //こりない人ですね・・・
-Vous ne changez jamais, hein...
+You don't learn, do you...
 $E=====2037=====
 //・・・仕方ありません。
 //おしおきをさせていただきます
-...je n'ai pas le choix,
-il est temps de vous punir.
+...oh well, can't be helped.
+Time to receive your
+punishment.
 $E=====2038=====
 //さあ、行きますよ?」
-On y va ?"
+Shall I begin?"
 $E=====2039=====
 <PROC=0>
 <END>
@@ -7164,33 +7218,34 @@ $E=====2040=====
 //「・・・<NAME>さん、
 //アナタわざとやってますね?
 <LABEL>Doomy of Dark Loans</LABEL>:
-"...<NAME>, vous le faites
-exprès, n'est-ce pas ?
+"...<NAME>, are you
+doing this on purpose?
 $E=====2041=====
 //そんなに、ワタシにおしおきさ
 //れたいんですか?
-Vous aimez tant que ça être
-puni par moi ?
+Do you like being punished
+by me?
 $E=====2042=====
 //わかっています!!
 //アナタがそういう趣味(しゅみ)
 //の人だということは・・・
-Je comprends maintenant !
-Vous êtes du genre à aimer ça...
+I get it now!
+You're into that kind
+of thing...
 $E=====2043=====
 //でもワタシは・・・
 //もっと普通(ふつう)の恋(こい)
 //がしたいんです!
-mais moi... je veux une relation
-plus conventionnelle !
+but I... I want a more
+conventional love!
 $E=====2044=====
 //だから・・・
-Donc...
+So...
 $E=====2045=====
 //さようなら、<NAME>さん!!」
 //<PROC=1>
-adieu,
-<NAME> !"
+this is goodbye,
+<NAME>!"
 <PROC=1>
 $E=====2046=====
 //<LABEL=PLAYER><NAME></LABEL>
@@ -7204,32 +7259,32 @@ $E=====2047=====
 "<NAME>...
 $E=====2048=====
 //アナタ、
-vous...
+you...
 $E=====2049=====
 //よくも妹をもてあそんでくれた
 //わね!!
-Comment osez-vous jouer avec
-ma sœur !
+how dare you toy around
+with my sister!
 $E=====2050=====
 //あの子はアナタとちがって純粋
 //(じゅんすい)なの!
-Contrairement à vous, elle est
-pure !
+Unlike you, that girl is
+pure!
 $E=====2051=====
 //それなのにアナタは・・・
 //あの子を自分のいけない趣味(
 //しゅみ)につき合わせて!
-Et vous...
-vous l'entraînez dans vos
-perversités !
+And you...
+you're getting her involved
+in your disgusting hobbies!
 $E=====2052=====
 //アナタには、相応(そうおう)の
 //むくいを受けてもらいます
-Je vais vous infliger une
-punition appropriée.
+I'll give you a fitting
+punishment.
 $E=====2053=====
 //覚悟(かくご)なさい!!」
-Préparez-vous !"
+Prepare yourself!"
 $E=====2054=====
 <PROC=0>
 <END>
@@ -7242,46 +7297,44 @@ $E=====2056=====
 //<NAME>さん・・・
 //アナタって本当にこりない人ね
 //<NAME>...
-vous ne changez jamais, hein ?
+you never learn, do you?
 $E=====2057=====
 //まだあの子を傷(きず)つけたい
 //の!?
-Vous voulez encore lui faire
-du mal !?
+Do you want to keep hurting
+her!?
 $E=====2058=====
 //アナタが何度来ようとも・・・
-Peu importe combien de fois
-vous revenez...
+No matter how many times you
+come here...
 $E=====2059=====
 //もう二度と、あの子には近づけ
 //させないわ!!
-je ne vous laisserai plus
-vous approcher d'elle !
+I won't let you get near her
+again!
 $E=====2060=====
 //えっ・・・
 //そうじゃない?
 Eh...
-ce n'est pas ça ?
+that's not it?
 $E=====2061=====
 //今日はワタシに会いに来た?
-Vous êtes venu me voir
-aujourd'hui ?
+Today you came to see me?
 $E=====2062=====
 //それってまさか・・・
-Mais moi...
+But I just...
 $E=====2063=====
 //ダメよ、そんなの!
-C'est impossible !
+I can't do that!
 $E=====2064=====
 //ダメ・・・
-Impossible...
+I can't...
 $E=====2065=====
 //絶対(ぜったい)にダメよ!!
-Absolument impossible !
+Absolutely not!
 $E=====2066=====
 //と、とにかくおしおきよ!!」
-B-bref, il est temps de vous
-punir !"
+A-anyway, punishment!"
 $E=====2067=====
 <PROC=0>
 <END>
@@ -7296,24 +7349,24 @@ $E=====2069=====
 $E=====2070=====
 //こんなこと、いつまで続ける気
 //なの?
-Combien de temps comptez-vous
-continuer ça ?
+How long do you plan to keep
+this up?
 $E=====2071=====
 //まるで暗子ちゃんをだましてる
 //みたいで・・・
 //ワタシ、たえられないわ!!
-On dirait que vous essayez
-de la séduire...
-je ne le supporte pas !
+You're trying to seduce her,
+aren't you...
+I won't put up with that!
 $E=====2072=====
 //もう、終わりにしましょう」
-Finissons-en."
+Let's end this now."
 $E=====2073=====
 //<LABEL>???</LABEL>
 //「ダメよ、陽子ちゃん!!」
 //<PROC=1>
 <LABEL>???</LABEL>:
-"Non, Luxana !"
+"Don't, Luxana!"
 <PROC=1>
 $E=====2074=====
 //<LABEL>暗黒ローンの陽子ちゃん</LABEL>
@@ -7322,23 +7375,23 @@ $E=====2074=====
 <PROC=2>"Doomy...
 $E=====2075=====
 //・・・どうして!?」
-...pourquoi !?"
+...why!?"
 $E=====2076=====
 //<LABEL>暗黒ローンの暗子ちゃん</LABEL>
 //「だって・・・
 <LABEL>Doomy of Dark Loans</LABEL>:
-"Parce que...
+"Because...
 $E=====2077=====
 //ワタシ、<NAME>さんも陽子ちゃんも大好きなんだもん!!
-Je vous aime tous les deux !
+I love both of you!
 $E=====2078=====
 //ワタシのせいで2人が苦しんで
 //いるなんて・・・
-C'est à cause de moi que vous
-souffrez...
+It's my fault you're both
+suffering...
 $E=====2079=====
 //そんなの嫌(いや)だよ!!」
-Je ne peux pas le supporter !"
+I can't stand it!"
 $E=====2080=====
 //<LABEL>暗黒ローンの陽子ちゃん</LABEL>
 //「暗子ちゃん・・・
@@ -7349,100 +7402,100 @@ $E=====2081=====
 ...
 $E=====2082=====
 //・・・わかったわ
-Je comprends.
+I understand.
 $E=====2083=====
 //アナタを助けるつもりでいたの
 //に、余計(よけい)に苦しめてし
 //まうなんて・・・
-Je voulais vous aider, mais
-je vous ai fait encore plus
-souffrir...
+I came to rescue you, but it
+ended up causing you
+unnecessary grief.
 $E=====2084=====
 //ワタシも人のこと言えないわ。
 //お姉ちゃん失格(しっかく)ね」
-Je n'ai pas le droit de juger
-les autres. Je suis une sœur
-incompétente."
+I'm not fit to call myself
+human. I'm not fit to be
+your sister."
 $E=====2085=====
 //<LABEL>暗黒ローンの暗子ちゃん</LABEL>
 //「そんなことない!!
 <LABEL>Doomy of Dark Loans</LABEL>:
-"C'est faux !
+"That's not true!
 $E=====2086=====
 //陽子ちゃんは、
 Luxana,
 $E=====2087=====
 //ワタシの大好きな・・・
 //最高のお姉ちゃんだよ!!」
-tu es ma sœur chérie...
-la meilleure sœur du monde !"
+you're my dear sister...
+the best sister ever!"
 $E=====2088=====
 //<LABEL>暗黒ローンの陽子ちゃん</LABEL>
 //「ありがとう、暗子ちゃん
 <LABEL>Luxana of Dark Loans</LABEL>:
-"Merci, Doomy.
+"Thank you, Doomy.
 $E=====2089=====
 //<PROC=3><NAME>さん・・・
 <PROC=3><NAME>...
 $E=====2090=====
 //今さらワタシから言えたことじ
 //ゃないけど・・・
-Je ne l'ai pas dit jusqu'à maintenant,
-mais...
+I haven't said it until now,
+but...
 $E=====2091=====
 //妹のこと・・・
 //よろしくお願いします」
 //<PROC=4><LOCK=48>
-s'il vous plaît...
-prenez soin de ma sœur."
+please...
+take care of my sister."
 <PROC=4><LOCK=48>
 $E=====2092=====
 //<LABEL>暗黒ローンの暗子ちゃん</LABEL>
 //「陽子ちゃん!?
 <LABEL>Doomy of Dark Loans</LABEL>:
-"Luxana !?
+"Luxana!?
 $E=====2093=====
 //本当に・・・
 //それでいいの?」
-Est-ce...
-est-ce vraiment d'accord ?"
+Is it...
+is it really okay?"
 $E=====2094=====
 //<LABEL>暗黒ローンの陽子ちゃん</LABEL>
 //<PROC=5>「ええ・・・
 <LABEL>Luxana of Dark Loans</LABEL>:
-<PROC=5>"Oui...
+<PROC=5>"Yes...
 $E=====2095=====
 //ワタシは陽子・・・
-Je suis Luxana...
+I am Luxana...
 $E=====2096=====
 //太陽バンクの、陽子なのよ?
-de la Banque Solaire, c'est ça ?
+of the Solar Bank, right?
 $E=====2097=====
 //おしおきなんて、ガラじゃない
 //のよ・・・
-Quelque chose comme une punition
-n'est juste pas mon genre...
+Something like punishment
+just isn't my style...
 $E=====2098=====
 //さあ、暗子ちゃん」
-vas-y, Doomy."
+go ahead, Doomy."
 $E=====2099=====
 //<LABEL>暗黒ローンの暗子ちゃん</LABEL>
 //「うん!!
 <LABEL>Doomy of Dark Loans</LABEL>:
-"Oui !
+"Yes!
 $E=====2100=====
 //<PROC=6>・・・
 <PROC=6>...
 $E=====2101=====
 //あの、<NAME>さん・・・
-euh... <NAME>...
+umm... <NAME>...
 $E=====2102=====
 //もう一度ワタシに・・・
-voulez-vous...
+will you...
 $E=====2103=====
 //おしおきさせてくれますか?」
-me permettre de vous punir
-juste une fois de plus ?"
+will you let me punish you
+just one more time?"
 $E=====2104=====
 <PROC=0>
 <END>
@@ -7453,7 +7506,7 @@ $E=====2105=====
 "<NAME>...
 $E=====2106=====
 //おしおきですよ{heart}」
-c'est l'heure de votre punition.{heart}"
+time for your punishment.{heart}"
 $E=====2107=====
 <PROC=0>
 <END>
@@ -7461,19 +7514,20 @@ $E=====2108=====
 //<LABEL>暗黒ローンの暗子ちゃん</LABEL>
 //「さあ、着きました
 <LABEL>Doomy of Dark Loans</LABEL>:
-"D'accord, nous y sommes.
+"Okay, we're there.
 $E=====2109=====
 //ここは暗黒ローンの地下100階
 //通称(つうしょう)おしおき部屋
 //です
-C'est le Dark Loans B100F,
-aussi connu sous le nom de
-Chambre de Punition.
+This is Dark Loans B100F,
+also known as the
+Punishment Room.
 $E=====2110=====
 //そしてアレは暗黒発電機・・・<PROC=1>
 //もうおわかりですね?」
-Et ça, c'est le Générateur Obscur...<PROC=1>
-Vous comprenez maintenant ?"
+And that is the Dark
+Generator...<PROC=1>
+Do you understand now?"
 $E=====2111=====
 <PROC=0>
 <END>
@@ -7494,30 +7548,30 @@ $E=====2116=====
 //「あなたには今からここで発
 //電をしてもらいます
 <LABEL><EXTEND=0> of Dark Loans</LABEL>:
-"Dès maintenant, vous allez
-faire fonctionner le générateur pour nous.
+"Starting now, you're going
+to run the generator for us.
 $E=====2117=====
 //方法は簡単。
 //<EXTEND=1>と<WEIGHT>Ａボタン</WEIGHT>を交互(
 //こうご)に押(お)して走るだけ
-C'est simple. Alternez
-entre appuyer sur <EXTEND=1>
-et le <WEIGHT>Bouton A</WEIGHT> pour courir.
+It's simple. Alternate
+between pressing <EXTEND=1>
+and the <WEIGHT>A Button</WEIGHT> to run.
 $E=====2118=====
 //エナジーが発電されれば、それ
 //が返済にあてられるというわけ
 //です
-Nous prendrons l'énergie que
-vous produirez comme remboursement.
+We'll take the energy you
+generate as repayment.
 $E=====2119=====
 //簡単ですね{note}
-Plutôt simple, hein ?{note}
+Pretty simple, huh?{note}
 $E=====2120=====
 //それでは<NAME>さん、
 //よろしくお願いします」
 //<PROC=1><LOCK=48>
-Alors, <NAME>,
-s'il vous plaît..."
+Well then, <NAME>,
+if you please..."
 <PROC=1><LOCK=48>
 $E=====2121=====
 <PROC=0>
@@ -7526,28 +7580,28 @@ $E=====2122=====
 //<LABEL>暗黒ローンの<EXTEND=0>ちゃん</LABEL>
 //「はい、けっこうです!
 <LABEL><EXTEND=0> of Dark Loans</LABEL>:
-"D'accord, ça suffit !
+"Okay, that's enough!
 $E=====2123=====
 //ご返済(へんさい)ありがとうご
 //ざいます。
 //これであなたも自由の身です
-Merci d'avoir remboursé votre
-dette.
-Vous êtes maintenant libre.
+Thank you for repaying your
+debt.
+You are free to go now.
 $E=====2124=====
 //もう、こんなところに来てはい
 //けませんよ、<NAME>さん
-Vous ne devez plus vous retrouver
-dans ce genre de situation,
+You mustn't end up in this
+kind of situation again,
 <NAME>.
 $E=====2125=====
 //それでは、今後とも暗黒ローン
 //をよろしくお願いします
-Alors, nous espérons que vous
-continuerez à utiliser Dark Loans.
+Well then, we hope you'll
+keep using Dark Loans.
 $E=====2126=====
 //<PROC=1><PROC=2>ありがとうございました!!」<LOCK=48>
-<PROC=1><PROC=2>Merci beaucoup !"<LOCK=48>
+<PROC=1><PROC=2>Thank you very much!"<LOCK=48>
 $E=====2127=====
 <PROC=0>
 <END>
@@ -7555,29 +7609,29 @@ $E=====2128=====
 //<LABEL>暗黒ローンの<EXTEND=0>ちゃん</LABEL>
 //「はい、もうけっこうです
 <LABEL><EXTEND=0> of Dark Loans</LABEL>:
-"D'accord, ça suffit amplement !
+"Okay, that's quite enough!
 $E=====2129=====
 //今のあなたに、これ以上は無理
 //のようですね・・・
-On dirait que c'est tout ce
-que vous pouvez gérer pour le moment...
+Looks like that's all you
+can handle for now...
 $E=====2130=====
 //今日のところは、これでかんべ
 //んしてあげます。
-Je vais oublier votre dette
-pour aujourd'hui.
+I'll forgive your debt for
+today.
 $E=====2131=====
 //これからは、身のほどをわきま
 //えてくださいよ?
 //いいですね、<NAME>さん?
-À l'avenir, soyez conscient
-de vos limites.
-D'accord, <NAME> ?
+Know your body's limit from
+now on.
+Okay, <NAME>?
 $E=====2132=====
 //それでは、今後とも暗黒ローン
 //をよろしくお願いします」
-Alors, nous espérons que vous
-continuerez à utiliser Dark Loans."
+Well then, we hope you'll
+keep using Dark Loans."
 $E=====2133=====
 <PROC=0>
 <END>
@@ -7585,21 +7639,21 @@ $E=====2134=====
 //<LABEL>暗黒ローンの<EXTEND=0>ちゃん</LABEL>
 //「はい、おつかれさまでした!
 <LABEL><EXTEND=0> of Dark Loans</LABEL>:
-"D'accord, bien joué !
+"Okay, well done!
 $E=====2135=====
 //ご返済(へんさい)ありがとうご
 //ざいます
-Merci d'avoir remboursé votre
-dette.
+Thank you for repaying your
+debt.
 $E=====2136=====
 //なかなかの走りでしたが、
-Vous avez couru plutôt bien,
+You ran pretty well,
 $E=====2137=====
 //もうこんなところに来てはいけ
 //ませんよ、<NAME>さん」
-mais vous ne devez plus vous retrouver
-dans ce genre de situation,
-<NAME>."
+but you mustn't end up in
+this kind of situation
+again, <NAME>."
 $E=====2138=====
 <PROC=0>
 <END>
@@ -7607,19 +7661,20 @@ $E=====2139=====
 //<LABEL>暗黒ローンの<EXTEND=0>ちゃん</LABEL>
 //「はい、おつかれさまでした!
 <LABEL><EXTEND=0> of Dark Loans</LABEL>:
-"D'accord, bien joué !
+"Okay, well done!
 $E=====2140=====
 //ご返済(へんさい)ありがとうご
 //ざいます
-Merci d'avoir remboursé votre
-dette.
+Thank you for repaying your
+debt.
 $E=====2141=====
 //なかなかの走りでしたが、
-Vous avez couru plutôt bien,
+You ran pretty well,
 $E=====2142=====
 //もう無理をしてはいけませんよ
 //<NAME>さん」
-mais ne vous surmenez plus,
+but you mustn't push
+yourself too hard,
 <NAME>."
 $E=====2143=====
 <PROC=0>
@@ -7628,20 +7683,20 @@ $E=====2144=====
 //<LABEL>暗黒ローンの<EXTEND=0>ちゃん</LABEL>
 //「はい、おつかれさまでした!
 <LABEL><EXTEND=0> of Dark Loans</LABEL>:
-"D'accord, bien joué !
+"Okay, well done!
 $E=====2145=====
 //ご返済(へんさい)ありがとうご
 //ざいます
-Merci d'avoir remboursé votre
-dette.
+Thank you for repaying your
+debt.
 $E=====2146=====
 //すばらしい走りです!!
-C'était une course excellente !
+That was an excellent run!
 $E=====2147=====
 //でも、返済期限(へんさいきげ
 //ん)は守ってくださいね、<NAME>さん」
-Cependant, respectez les délais
-de remboursement la prochaine fois,
+However, please abide by the
+terms of the loan next time,
 <NAME>."
 $E=====2148=====
 <PROC=0>
@@ -7649,24 +7704,24 @@ $E=====2148=====
 $E=====2149=====
 //「チョコレート」
 //を手に入れた!!
-"Chocolat"
-obtenu !
+"Chocolate"
+obtained!
 $E=====2150=====
 <PROC=0>
 <END>
 $E=====2151=====
 //「太陽の実」
 //を手に入れた!!
-"Fruit Solaire"
-obtenu !
+"Solar Fruit"
+obtained!
 $E=====2152=====
 <PROC=0>
 <END>
 $E=====2153=====
 //「魔法薬」
 //を手に入れた!!
-"Potion Magique"
-obtenue !
+"Magical Potion"
+obtained!
 $E=====2154=====
 <PROC=0>
 <END>
@@ -7674,79 +7729,80 @@ $E=====2155=====
 //古の大樹が呼んでいる・・・・
 //・・・・・・・・・・・・・・
 //・・・・・・・・・・気がする
-L'Ancien Arbre appelle.
+The Ancient Tree is calling.
 ............................
-....................je crois.
+....................I think.
 $E=====2156=====
 <PROC=0>
 <END>
 $E=====2157=====
 // 　　　　世紀末・・・　　　　 
-    La fin du monde...
+    The end of the world...
 $E=====2158=====
 //　　　人々が太陽を忘れた　　　
-//　　　　　暗黒の époque　　　
-   Les gens ont oublié le
-   Soleil. C'était une époque sombre...
+//　　　　　暗黒の時代　　　　　
+   People forgot about the
+   Sun. It was a dark age...
 $E=====2159=====
-// 　　L'apparition du Clan de l'ombre　　 
-// 　　le monde a été enveloppé de peur　　 
-   Avec l'apparition du
-   Clan de l'Ombre, le monde
-   a été enveloppé de peur.
+// 　　闇の一族の出現により　　 
+// 　　世界は恐怖に包まれた　　 
+   With the appearance of
+   the Dark Tribe, the world
+   was shrouded in fear.
 $E=====2160=====
-// 　　　les vivants devinrent morts-vivants　　　 
-//　　les morts-vivants ont erré sur la terre　　
-   Les vivants devinrent morts-vivants
-   et errèrent sur la terre.
+// 　　　生者は死者となり　　　 
+//　　死者は世界をさまよった　　
+   The living turned undead
+   and roamed the earth.
 $E=====2161=====
-//　　　　le dernier espoir　　　　 
-// 　　　grâce aux guerriers　　　 
-   Grâce aux guerriers,
-   le dernier espoir des gens,
+//　　　　最後の希望たる　　　　
+// 　　　戦士の活躍により　　　 
+   Thanks to the warriors,
+   the people's last hope,
 $E=====2162=====
-//　　il semblait que le soleil avait
-// 　　　　été brièvement retrouvé　　　　 
-   il semblait que le soleil avait
-   été brièvement retrouvé, et un moment
-   de répit avait été gagné.
+//　　一時は取り戻されたかに　　
+// 　　　　見えた太陽も　　　　 
+   It seemed the sun had
+   returned, and a brief
+   respite had been earned.
 $E=====2163=====
-// 　　mais les guerriers ont été
-// 　　　　　vaincus par la trahison d'un ami　　　　　 
-    Mais les guerriers ont été
-    vaincus, trahis par un ami,
+// 　　戦士が仲間の裏切りに　　 
+// 　　　　　倒れると　　　　　 
+    But the warriors were
+    defeated, betrayed by
+    their friend,
 $E=====2164=====
-//　　　　et ne furent plus jamais vus　　　　
-//　　　vus à nouveau　　　
-     et ne furent plus jamais
-     vus.
+//　　　　二度とその姿を　　　　
+//　　　現すことはなかった　　　
+     and they were never
+     seen again.
 $E=====2165=====
 // 　　　破壊の獣は目覚め
-   La Bête de Destruction
-   s'est éveillée,
+   The Beast of Destruction
+   awoke,
 $E=====2166=====
 //　　　世界は永遠の暗黒に　　　
 //　　　　　閉ざされた　　　　　
-     et le monde a été
-     plongé dans l'obscurité
-     éternelle.
+     and the world was
+     plunged into eternal
+     darkness.
 $E=====2167=====
 //　　　太陽の光を得たとき　　　
 // 　戦士は再び目覚めるという　 
-   Quand le Soleil reviendra,
-   on dit que les guerriers
-   s'éveilleront à nouveau.
+   When the Sun returns,
+   it is said the warriors
+   shall awaken once more.
 $E=====2168=====
 // 　　しかし戦士のいない今　　 
-   Mais qui pourra
-   récupérer le Soleil... 
+   But who will be able to
+   take back the Sun... 
 $E=====2169=====
 //　　　　いったいだれに　　　　
 //　　太陽を取り戻すことなど　　
 //　　　　できよう・・・　　　　
 
-maintenant que les guerriers
-ne sont plus là ?
+    now that the warriors
+    are gone?
 $E=====2170=====
 <PROC=0>
 <END>
@@ -7760,48 +7816,48 @@ $E=====2172=====
 <END>
 $E=====2173=====
 //  明日もまた日は昇(のぼ)る! 
- Le Soleil se lèvera demain!
+ The Sun will rise tomorrow!
 $E=====2174=====
 // 　　　　でも・・・　　　　 
-            mais...
+            but...
 $E=====2175=====
 //　　望んでいるだけじゃあ、　
 //　　　明日は変わらない　　　
-      les souhaits seuls ne
-      changeront pas l'avenir.
+      wishes alone won't
+      change the future.
 $E=====2176=====
 //　　未来を変えるのは明日　　
-      Les changements de demain
-      affectent l'avenir.
+      Tomorrow's changes
+      affect the future.
 $E=====2177=====
 //　　明日を変えるのは今日　　
-       Les changements d'aujourd'hui
-       affectent demain.
+       Today's changes
+       affect tomorrow.
 $E=====2178=====
 //　　　今日できること、　　　
 // 1人でできることは小さくても
-   Les changements qu'une personne
-   peut faire aujourd'hui sont petits,
+   The changes one person
+   can make today are small,
 $E=====2179=====
 //　その積み重ねが明日を変え、
 //　いつか未来をも変えるんだ　
-   mais ils s'accumulent, et en
-   temps voulu l'avenir change.
+   but they add up, and in
+   time the future changes.
 $E=====2180=====
 //　　太陽と暗黒、2つの未来　 
-      Soleil et Ténèbres,
-      leur avenir...
+      Sun and Darkness,
+      their future...
 $E=====2181=====
 //　　　　明日もまた、　　　　
 // 　日は昇(のぼ)るのだから　 
-        Le Soleil va
-        se lever demain,
+        The Sun will
+        rise tomorrow,
 $E=====2182=====
 //　　　ボクは戦う・・・　　　
-       alors je vais me battre...
+       so I will fight...
 $E=====2183=====
 //　　ボクらの太陽と共に!!　　
-      avec notre Soleil!
+      alongside our Sun!
 $E=====2184=====
 <PROC=0>
 <END>
@@ -7810,8 +7866,8 @@ $E=====2185=====
 //　　　　逆襲のサバタ
 //　　　　　　 終
            BOKTAI 3
-    LA CONTRE-attaque DE SABATA
-           LA FIN
+    SABATA'S COUNTERATTACK
+           THE  END
 $E=====2186=====
 <PROC=0>
 <END>
@@ -7819,7 +7875,7 @@ $E=====2187=====
 //<LABEL=TRINITY>トリニティ</LABEL>
 //「まだか?」
 <LABEL=TRINITY>Trinity</LABEL>:
-"Pas encore fini ?"
+"Still not done?"
 $E=====2188=====
 <PROC=0>
 <END>
@@ -7828,12 +7884,12 @@ $E=====2189=====
 //「なに、ヒントがほしい?
 //しょうがねぇなぁ・・・
 <LABEL=TRINITY>Trinity</LABEL>:
-"Quoi, tu veux un indice ?
-Je suppose que ça ne peut pas être aidé...
+"What, you want a hint?
+Guess it can't be helped...
 $E=====2190=====
 //イチゴを数字に直してみな!」
-quelle forme reste-t-il dans SEALS
-quand on enlève SEA ?"
+what shape is left in SEALS
+when you take away SEA?"
 $E=====2191=====
 <PROC=0>
 <END>
@@ -7894,15 +7950,15 @@ $E=====2214=====
 //<LABEL=SABATA></LABEL>やあやあ
 //たすけてやるぜ
 //さきいってていいよ<LOCK=20>
-<LABEL=SABATA></LABEL>Hey, je vais aider ici.
-Continue sans moi.<LOCK=20>
+<LABEL=SABATA></LABEL>Hey, I'll help out here.
+You go on without me.<LOCK=20>
 $E=====2215=====
 //<LABEL=SABATA></LABEL>まあそういうことで
 //おつかれ
 //またな<LOCK=20>
-<LABEL=SABATA></LABEL>Voilà comment ça se passe.
-Merci.
-À plus.<LOCK=20>
+<LABEL=SABATA></LABEL>Well that's how it is.
+Thanks.
+Later.<LOCK=20>
 $E=====2216=====
 <PROC=0>
 <END>
@@ -7911,44 +7967,44 @@ $X=====2217=====
 $X=====2218=====
 {C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C3}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C3}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C5}{C6}{C6}{C6}{C7}{C3}{C4}{C1}{C2}{D1}{D2}{D2}{D2}{D3}{C3}{C3}{C1}{C2}{C5}{C6}{C6}{C6}{C7}{C3}{C3}{C1}{C2}{D1}{D2}{D2}{D2}{D3}{C4}{C1}{C2}{C4}{CE}{CF}{CF}{CF}{D0}{C3}{C4}{C1}{C2}{C8}{C9}{C9}{C9}{CA}{C3}{C4}{C1}{C2}{CE}{CF}{CF}{CF}{D0}{C3}{C4}{C1}{C2}{C8}{C9}{C9}{C9}{CA}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{D4}{D5}{D5}{D5}{D5}{D6}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{CB}{CC}{CC}{CC}{CC}{CD}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{D4}{D5}{D5}{D5}{D5}{D6}{C3}{C4}{C1}{C2}{C3}{C3}{CB}{CC}{CC}{CC}{CC}{CD}{C4}{C1}{C2}{C3}{C4}{D4}{D5}{D5}{D5}{D5}{D6}{C3}{C4}{C1}{C2}{C3}{CB}{CC}{CC}{CC}{CC}{CD}{C3}{C4}{C1}{C2}{C3}{CE}{CF}{CF}{CF}{CF}{CF}{CF}{CF}{D0}{C4}{C1}{C2}{C3}{C4}{C8}{C9}{C9}{C9}{C9}{C9}{C9}{C9}{CA}{C3}{C4}{C1}{C2}{C3}{CE}{CF}{CF}{CF}{CF}{CF}{CF}{CF}{D0}{C4}{C1}{C2}{C3}{C4}{C8}{C9}{C9}{C9}{C9}{C9}{C9}{C9}{CA}{C1}{C2}{C3}{C4}{C5}{C6}{C6}{C6}{C6}{C6}{C6}{C6}{C7}{C3}{C4}{C1}{C2}{D1}{D2}{D2}{D2}{D2}{D2}{D2}{D2}{D3}{C1}{C2}{C3}{C4}{C5}{C6}{C6}{C6}{C6}{C6}{C6}{C6}{C7}{C3}{C4}{C1}{C2}{D1}{D2}{D2}{D2}{D2}{D2}{D2}{D2}{D3}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C4}{C1}{C2}{C3}{C3}{C1}{C2}{C3}{C3}{C1}{C2}{C3}{C3}{C1}{C2}{C3}{C3}{C1}{C2}{C3}{C3}{C3}{D7}{C4}{C1}{C2}{C3}{C4}{C0}{C0}{C0}{C0}{C0}{00}
 $E=====2219=====
-/太陽銃レンズ
+//太陽銃レンズ
 //「アストロ」
 //を手に入れた!!
-Lentille de Pistolet Solaire
+Solar Gun Lens
 "Astro"
-obtenue !
+obtained!
 $E=====2220=====
 //「ライセンスオブソード」
 //を手に入れた!!
-"Licence d'Épée"
-obtenue !
+"Sword License"
+obtained!
 $E=====2221=====
 //データを受信しました。
-Données reçues.
+Data received.
 $E=====2222=====
 //データ受信に失敗しました。
-Réception de données échouée.
+Data reception failed.
 $E=====2223=====
 //バイクポイント
-Points de Moto
+Bike Points
 $E=====2224=====
 // 今回
-Derniers
+ Latest
 $E=====2225=====
 // 合計
-Total
+ Total
 $E=====2226=====
 //対戦成績
-Record de Combat
+Battle Record
 $E=====2227=====
 //勝
-Victoire
+Win
 $E=====2228=====
 //負
-Défaite
+Lose
 $E=====2229=====
 //引き分け
-Match nul
+Tie
 $E=====2230=====
 <EXTEND=1>
 $E=====2231=====
@@ -7957,76 +8013,75 @@ $E=====2232=====
 //<EXTEND=1>コースに
 //決定しました。
 <EXTEND=1>
-cours sélectionné.
+course selected.
 $E=====2233=====
 //通信ケーブルを正しく接続して下さい。
-Veuillez connecter correctement le câble de liaison.
+Please connect the link cable securely.
 $E=====2234=====
 //他のプレイヤーと通信中です。しばらくお待ちください。
-L'autre joueur est en train de transmettre. Veuillez attendre.
+The other player is transmitting. Please wait.
 $E=====2235=====
 //他のプレイヤーが準備中です。しばらくお待ちください。
-L'autre joueur est encore en préparation. Veuillez attendre.
+The other player is still preparing. Please wait.
 $E=====2236=====
 //<WEIGHT>STARTボタン</WEIGHT>で対戦が始まります。
-Appuyez sur <WEIGHT>START</WEIGHT> pour commencer le combat.
+Press <WEIGHT>START</WEIGHT> to begin the battle.
 $E=====2237=====
 //対戦データを交換中です。
-Échange des données de combat.
+Exchanging battle data.
 $E=====2238=====
 //<WEIGHT>STARTボタン</WEIGHT>で対戦が始まります。<WEIGHT>Bボタン</WEIGHT>で前の画面に戻ります。
-Appuyez sur <WEIGHT>START</WEIGHT> pour commencer le combat. Appuyez sur le <WEIGHT>Bouton B</WEIGHT> pour revenir à l'écran précédent.
+Press <WEIGHT>START</WEIGHT> to begin the battle. Press the <WEIGHT>B Button</WEIGHT> to return to the previous screen.
 $E=====2239=====
 //コースを設定中です。しばらくお待ちください。
-Création du parcours. Veuillez attendre.
+Creating course. Please wait.
 $C=====2240=====
 //強い日差しや気温の変化に注意
 //して、もう一度対戦しますか?
-Combattre à nouveau ? Faites attention au fort ensoleillement et aux hautes températures.
+Battle again? Be careful around strong sunlight and high temperatures.
 $E=====2241=====
 //他のプレイヤーが選択中です。
 //しばらくお待ちください。
-L'autre joueur est en train de
-faire un choix. Veuillez attendre.
+The other player is making a
+selecting. Please wait.
 $E=====2242=====
 //対戦の準備中です。
-Préparation au combat.
+Preparing for battle.
 $E=====2243=====
 //対戦を終了します。
-Fin du combat.
+End battle.
 $E=====2244=====
 //通信中です。
 //相手からの接続を待っています
 //Ｂボタンでキャンセルします。
-En transmission.
-En attente de connexion de l'adversaire.
-Appuyez sur
-<WEIGHT>Bouton B</WEIGHT> pour annuler.
+Transmitting. Waiting for
+opponent to connect. Press
+<WEIGHT>B Button</WEIGHT> to cancel.
 $E=====2245=====
 //通信エラーです。
 //接続を確認して
 //電源を入れ直して下さい。
-Erreur de transmission.
-Vérifiez la connexion et
-rebranchez le cordon d'alimentation.
+Transmission error.
+Check connection and
+insert power cord.
 $E=====2246=====
 //キャンセルされました。
-Annulé.
+Cancelled.
 $E=====2247=====
 //セーブに失敗しました。　　　
 //電源を入れ直して下さい。
-Échec de la sauvegarde.
-Branchez à nouveau le cordon d'alimentation.
+Save failed.
+Insert power cord.
 $E=====2248=====
 //　　…セーブしています…　　
 //　カートリッジを抜いたり、　
 //  電源を切らないでください。
-         …Enregistrement…
-   Ne retirez pas la cartouche
-   ou n'éteignez pas l'appareil.
+         …Saving…
+   Do not remove Game Pak
+   or turn OFF the power.
 $E=====2249=====
 //セーブしました。
-Enregistré.
+Saved.
 $X=====2250=====
 {C1}{C4}{D5}{C1}{C2}{C4}{E9}{C1}{C3}{C4}{02}F{C1}{C4}{C1}{D1}{C1}{C5}{C1}{D7}{C1}{C6}{C8}{CC}{C1}{C7}{C8}{CC}{C1}{C8}{C8}{CC}{C1}{C9}{C7}{02}{C8}{C1}{CA}{C7}{01},{01}{C1}{CB}{C5}{C9}{C1}{CC}{C5}{C8}{C1}{CD}{C9}{C9}{C1}{CE}{CA}{C7}{C1}{CF}{CB}{C7}{C1}{D0}{CD}{D2}{C1}{D1}{CD}{D5}{C1}{D2}{CC}{D9}{C1}{D3}{D0}{D5}{C1}{D4}{CF}{C6}{C1}{D5}{CE}{C9}{C1}{D6}{C2}{D0}{C1}{D7}{C3}{C2}{C1}{D8}{C6}{C2}{C1}{C0}{C0}{C0}{C0}{00}
 $E=====2251=====
@@ -8103,76 +8158,76 @@ $E=====2274=====
 ZAZIE'S ORB
 $E=====2275=====
 //エナジーを強化する魔法のハンドル。攻撃力アップ(小)。
-Une énergie-renforcée magie poignée. Lève légèrement Attack.
+An energy-reinforced magic handle. Slightly raises Attack.
 $E=====2276=====
 //エナジーを強化するライディングステップ。攻撃力アップ(中)。
-Une énergie-renforcée pas de monte. Lève Attack.
+An energy-reinforced riding step. Raises Attack.
 $E=====2277=====
 //ロックマンの力が宿ったエンブレム。攻撃力アップ(大)。
-Un emblème avec le pouvoir de Rockman. Lève grandement Attack.
+An emblem with the power of Rockman. Greatly raises Attack.
 $E=====2278=====
 //高性能スパークプラグ。加速力アップ(小)。
-Une bougie d'allumage de haute efficacité. Lève légèrement Accel.
+A high efficiency spark plug. Slightly raises Accel.
 $E=====2279=====
 //最高級エンジンオイル。加速力アップ(大)。
-Une huile de moteur de haute qualité. Lève grandement Accel.
+A high grade engine oil. Greatly raises Accel.
 $E=====2280=====
 //ハイパーチャージャー。最高スピードアップ(小)。
-Un chargeur hyper. Lève légèrement la vitesse max.
+A hyper charger. Slightly raises max Speed.
 $E=====2281=====
 //ブルースの力が宿ったチェーン。最高スピードアップ(小)。
-Une chaîne avec le pouvoir de Blues. Lève légèrement la vitesse max.
+A chain with the power of Blues. Slightly raises max Speed.
 $E=====2282=====
 //カーネルの力が宿ったギア。最高スピードアップ(小)。
-Un engrenage avec le pouvoir de Colonel. Lève légèrement la vitesse max.
+A gear with the power of Colonel. Slightly raises max Speed.
 $E=====2283=====
 //強化されたスイングアーム。HP最大値アップ(小)。
-Un bras oscillant renforcé. Lève légèrement le HP max.
+A reinforced swing arm. Slightly raises max HP.
 $E=====2284=====
 //強化されたフレーム。HP最大値アップ(大)。
-Un cadre renforcé. Lève grandement le HP max.
+A reinforced frame. Greatly raises max HP.
 $E=====2285=====
 //フロントを守る追加装甲(ついかそうこう)。受けるダメージが減る(小)。
-Un blindage additionnel pour protéger l'avant. Réduit légèrement le dommage reçu.
+Additional armor to protect the front. Slightly reduces damage received.
 $E=====2286=====
 //ボディを守る追加装甲(ついかそうこう)。受けるダメージが減る(大)。
-Un blindage additionnel pour protéger le corps. Réduit grandement le dommage reçu.
+Additional armor to protect the body. Greatly reduces damage received.
 $E=====2287=====
 //ブースト用追加バッテリー。ブーストコストが下がる。
-Une batterie additionnelle pour le boost. Réduit le coût du boost.
+An additional boost battery. Reduces boost cost.
 $E=====2288=====
 //ウエポン用追加バッテリー。ウエポンコストが下がる。
-Une batterie additionnelle pour l'arme. Réduit le coût de l'arme.
+An additional weapon battery. Reduces weapon cost.
 $E=====2289=====
 //スペシャル用追加バッテリー。スペシャルコストが下がる。
-Une batterie additionnelle pour le spécial. Réduit le coût spécial.
+An additional Special battery. Reduces Special cost.
 $E=====2290=====
 //高性能クラッチ。ブレーキ性能(せいのう)アップ(小)。
-Un embrayage de haute efficacité. Améliore légèrement la performance des freins.
+A high efficiency clutch. Slightly improves brake performance.
 $E=====2291=====
 //高性能ブレーキ。ブレーキ性能(せいのう)アップ(大)。
-Un frein de haute efficacité. Améliore grandement la performance des freins.
+A high efficiency brake. Greatly improves brake performance.
 $E=====2292=====
 //キッド愛用(?)のアフロ。エナジーの回復(かいふく)スピードが上がる。
-L'afro préféré de Kid(?). Augmente le taux de récupération de l'énergie.
+Kid's favorite(?) afro. Raises energy recovery rate.
 $E=====2293=====
 //スミス愛用のハンマー。回復(かいふく)ポットの効果が上がる。
-Le marteau préféré de Smith. Augmente l'effet de la potion de récupération.
+Smith's favorite hammer. Increases recovery potion effect.
 $E=====2294=====
 //スミレ愛用の白いエプロン。HPが半分以下のとき、受けるダメージが減る。
-Le tablier blanc préféré de Violet. Réduit le dommage reçu quand sous la moitié du HP max.
+Violet's favorite white apron. Reduces damage taken when below half max HP.
 $E=====2295=====
 //レディ愛用の魔法カード。HPが半分以下のとき、全てのコストが下がる。
-La carte magique préférée de Lady. Réduit tous les coûts quand sous la moitié du HP max.
+Lady's favorite magic card. Reduces everything's cost when below half max HP.
 $E=====2296=====
 //シャイアン愛用のトマホーク。ライバルより後ろにいると、最高スピードが上がる。バイクバトル専用(せんよう)。
-Le tomahawk préféré de Cheyenne. Augmente la vitesse max quand derrière le rival. Seulement pour les batailles de moto.
+Cheyenne's favorite tomahawk. Raises max speed when behind rival. Bike Battle only.
 $E=====2297=====
 //リタ愛用の青いリボン。ライバルより後ろにいると、エナジーが回復(かいふく)する。バイクバトル専用(せんよう)。
-Le ruban bleu préféré de Lita. Récupère l'énergie quand derrière le rival. Seulement pour les batailles de moto.
+Lita's favorite blue ribbon. Recovers energy when behind rival. Bike Battle only.
 $E=====2298=====
 //ザジ愛用の魔法の石。ライバルより前にいると、エナジーが回復(かいふく)する。バイクバトル専用(せんよう)。
-La pierre magique préférée de Zazie. Récupère l'énergie quand devant le rival. Seulement pour les batailles de moto.
+Zazie's favorite magical stone. Recovers energy when in front of rival. Bike Battle only.
 $X=====2299=====
 {C1}{E1}{FB}{02}x{C1}{C2}{E3}{02}t{02}f{C1}{C3}{E7}{02}W{02}D{C2}{C4}{E5}{02}Z{02}D{C3}{C5}{FB}{02}t{02}X{C1}{C6}{DD}{02}M{ED}{C1}{C0}{C0}{C0}{C0}{C0}{00}
 $E=====2300=====
@@ -8195,22 +8250,22 @@ $E=====2305=====
 BOOSTER
 $E=====2306=====
 //性能(せいのう)の低いタイヤ。
-Un pneu de faible efficacité.
+A low-efficiency tire.
 $E=====2307=====
 //ブレーキ性能(せいのう)にすぐれたタイヤ。
-Un pneu avec une grande efficacité de frein.
+A tire with great brake efficiency.
 $E=====2308=====
 //ダートの上でも自由に走ることのできるタイヤ。
-Un pneu qui roule librement sur la terre.
+A tire that runs freely over dirt.
 $E=====2309=====
 //アイスの上でも自由に走ることのできるタイヤ。
-Un pneu qui roule librement sur la glace.
+A tire that runs freely over ice.
 $E=====2310=====
 //ハンドル性能(せいのう)・ブレーキ性能(せいのう)にすぐれたタイヤ。
-Un pneu avec une grande efficacité de frein et de maniabilité.
+A tire with great brake and handling efficiency.
 $E=====2311=====
 //ブーストコストの最も低いタイヤ。
-Un pneu avec un très faible coût pour le boost.
+A tire with very low Boost cost.
 $X=====2312=====
 {C1}{C1}{02}x{E9}{D5}{C1}{D0}{C2}{C2}{02}F{02}x{DF}{C1}{E4}{C3}{C3}{02}x{02}P{E9}{C1}{DF}{C4}{C4}{02}d{02}{B4}{E9}{C1}{E9}{C5}{C5}{02}P{02}{96}{EE}{C1}{DF}{C6}{C6}{02}x{C9}{FD}{C1}{C1}{C0}{C0}{C0}{C0}{C0}{C0}{00}
 $E=====2313=====
@@ -8233,22 +8288,22 @@ $E=====2318=====
 CRUSHER
 $E=====2319=====
 //<WEIGHT>Ｂボタン</WEIGHT>で前方にショットを放つ。
-Appuyez sur le <WEIGHT>B Button</WEIGHT> pour tirer un coup vers l'avant.
+Press the <WEIGHT>B Button</WEIGHT> to fire a shot forward.
 $E=====2320=====
 //<WEIGHT>Ｂボタン</WEIGHT>で左右にカーブするショットを放つ。
-Appuyez sur le <WEIGHT>B Button</WEIGHT> pour tirer un coup qui courbe à gauche et à droite.
+Press the <WEIGHT>B Button</WEIGHT> to fire a shot that curves left and right.
 $E=====2321=====
 //<WEIGHT>Ｂボタン</WEIGHT>のタメ押(お)しで、貫通力(かんつうりょく)のあるチャージショットを放つ。
-Maintenez le <WEIGHT>B Button</WEIGHT> pour charger un coup perforant.
+Hold the <WEIGHT>B Button</WEIGHT> to charge up a piercing shot.
 $E=====2322=====
 //<WEIGHT>Ｂボタン</WEIGHT>で前方に2発のミサイルを放つ。
-Appuyez sur le <WEIGHT>B Button</WEIGHT> pour tirer deux missiles vers l'avant.
+Press the <WEIGHT>B Button</WEIGHT> to fire two missiles forward.
 $E=====2323=====
 //<WEIGHT>Ｂボタン</WEIGHT>で前後にミサイルを放つ。
-Appuyez sur le <WEIGHT>B Button</WEIGHT> pour tirer des missiles vers l'avant et l'arrière.
+Press the <WEIGHT>B Button</WEIGHT> to fire missiles forward and backward.
 $E=====2324=====
 //<WEIGHT>Ｂボタン</WEIGHT>を押(お)している間、ドリルで前方を攻撃(こうげき)する。
-Maintenez le <WEIGHT>B Button</WEIGHT> pour attaquer vers l'avant avec une foreuse.
+Hold the <WEIGHT>B Button</WEIGHT> to attack forward with a drill.
 $X=====2325=====
 {C1}{C6}{C2}{C5}{C1}{C1}{C2}{C3}{01},{01}{02}{C8}{02}P{FD}{C3}{C2}{02}x{01}@{01}{C1}{02}{96}{C4}{C4}{01},{01}{02}{C8}{D5}{01}h{01}{C5}{C5}{01}X{02}{01},{01}{C1}{01}{94}{02}{C6}{C1}{02}x{01}索{02}x{02}{F0}{C0}{C0}{C0}{C0}{C0}{00}
 $E=====2326=====
@@ -8271,22 +8326,22 @@ $E=====2331=====
 MISSILES
 $E=====2332=====
 //<WEIGHT>Ａボタン</WEIGHT>を押(お)している間、HPを回復(かいふく)する。
-Maintenez le <WEIGHT>A Button</WEIGHT> pour récupérer des PV.
+Hold the <WEIGHT>A Button</WEIGHT> to recover HP.
 $E=====2333=====
 //<WEIGHT>Ａボタン</WEIGHT>で後方に地雷(じらい)を設置(せっち)する。
-Appuyez sur le <WEIGHT>A Button</WEIGHT> pour placer une mine derrière vous.
+Press the <WEIGHT>A Button</WEIGHT> to place a land mind behind you.
 $E=====2334=====
 //<WEIGHT>Ａボタン</WEIGHT>でHPが減らなくなるバリアをはる。
-Appuyez sur le <WEIGHT>A Button</WEIGHT> pour lever une barrière qui empêche la perte de PV.
+Press the <WEIGHT>A Button</WEIGHT> to raise a barrier that prevents HP loss.
 $E=====2335=====
 //<WEIGHT>Ａボタン</WEIGHT>で前方に攻撃(こうげき)フィールドを展開(てんかい)する。
-Appuyez sur le <WEIGHT>A Button</WEIGHT> pour déployer un champ d'attaque devant vous.
+Press the <WEIGHT>A Button</WEIGHT> to extend a damaging field in front of you.
 $E=====2336=====
 //<WEIGHT>Ａボタン</WEIGHT>で透明(とうめい)になり、敵(てき)から姿(すがた)をかくす。
-Appuyez sur le <WEIGHT>A Button</WEIGHT> pour devenir transparent et vous cacher des ennemis.
+Press the <WEIGHT>A Button</WEIGHT> to turn transparent and hide from enemy sight.
 $E=====2337=====
 //<WEIGHT>Ａボタン</WEIGHT>で大型の誘導(ゆうどう)ミサイルを放つ。
-Appuyez sur le <WEIGHT>A Button</WEIGHT> pour tirer un grand missile guidé.
+Press the <WEIGHT>A Button</WEIGHT> to fire a large guided missile.
 $X=====2338=====
 {C1}{EF}{02}{x}{C2}{01}h{01}{C2}{E1}{02}l{C3}{01}J{01}{C3}{02}T{02}h{C4}{01}"{01}{C4}{D7}{02}`{C5}{01}v{02}{C5}{D3}{02}￣{C4}{02}{F0}{C6}{FF}{02}r{C3}{01}{A4}{01}{C0}{C0}{C0}{C0}{C0}{00}
 $E=====2339=====
@@ -8309,22 +8364,22 @@ $E=====2344=====
 SLEIPNIR
 $E=====2345=====
 //HP最大値が高く、初心者向けのボディ。
-Un corps pour débutants, avec un PV max élevé.
+A body for beginners, with high Max HP.
 $E=====2346=====
 //オールマイティな性能(せいのう)を持つボディ。
-Un corps avec des capacités de tous les côtés.
+A body with almighty ability.
 $E=====2347=====
 //加速力にすぐれたボディ。
-Un corps avec d'excellentes capacités d'accélération.
+A body with excellent accelerating power.
 $E=====2348=====
 //HP最大値は最も高いが、加速力・最高スピードは低いボディ。
-Un corps avec un PV max très élevé mais une accélération et une vitesse maximale basses.
+A body with very high Max HP but low acceleration and top speed.
 $E=====2349=====
 //最高スピードは最も高いが、HP最大値は最も低いボディ。
-Un corps avec une très haute vitesse maximale mais un PV max très bas.
+A body with very high top speed but very low Max HP.
 $E=====2350=====
 //加速力・最高スピードが高い反面、オプションスロットが少ないボディ。
-Un corps avec une haute accélération et une haute vitesse maximale, mais peu d'emplacements pour options.
+A body with high acceleration and top speed, but few option slots.
 $E=====2351=====
            ??????
 $E=====2352=====
@@ -8342,7 +8397,7 @@ $E=====2355=====
 $E=====2356=====
 //      ロストハイウェイ
         Lost Highway
-		$E=====2357=====
+$E=====2357=====
 //太陽街周回道
 SOLAR CITY LOOP
 $E=====2358=====
@@ -8386,8 +8441,8 @@ $E=====2371=====
 //外で遊ぶときは、強い日差しや
 //気温の変化に注意して遊びまし
 //ょう
-NE JOUEZ PAS SOUS UN SOLEIL
-TROP FORT PENDANT TROP LONGTEMPS.
+DO NOT PLAY UNDER STRONG
+SUNLIGHT FOR TOO LONG.
 $E=====2372=====
 <PROC=0>
 <END>
@@ -8395,9 +8450,9 @@ $E=====2373=====
 //バイクカラー
 //「<EXTEND=0>」
 //を手に入れた!!
-Couleur de Moto
+Bike Color
 "<EXTEND=0>"
-obtenue !
+obtained!
 $E=====2374=====
 <PROC=0>
 <END>
@@ -8405,9 +8460,9 @@ $E=====2375=====
 //バイクタイヤ
 //「<EXTEND=0>」
 //を手に入れた!!
-Pneu de Moto
+Bike Tire
 "<EXTEND=0>"
-obtenu !
+obtained!
 $E=====2376=====
 <PROC=0>
 <END>
@@ -8451,63 +8506,64 @@ $E=====2389=====
 ROCK BLUE
 $E=====2390=====
 //棺桶(かんおけ)の灰。無と不安の色。
-Cendre de cercueil. La couleur de l'anxiété et du néant.
+Coffin ash. The color of anxiety and nothingness.
 $E=====2391=====
 //太陽の黄。命と希望の色。
-Jaune solaire. La couleur de la vie et de l'espoir.
+Solar yellow. The color of life and hope.
 $E=====2392=====
 //月の白。慈愛(じあい)と狂気(きょうき)の色。
-Blanc lunaire. La couleur de l'affection et de la démence.
+Lunar white. The color of affection and lunacy.
 $E=====2393=====
 //炎の赤。情熱(じょうねつ)と攻撃(こうげき)の色。
-Rouge flamme. La couleur de la passion et de l'attaque.
+Flame red. The color of passion and offense.
 $E=====2394=====
 //氷の青。冷静と防御(ぼうぎょ)の色。
-Bleu glace. La couleur de la sérénité et de la défense.
+Ice blue. The color of serenity and defense.
 $E=====2395=====
 //雲の紫。神秘(しんぴ)と高貴(こうき)の色。
-Violet nuage. La couleur du mystère et de la noblesse.
+Cloud purple. The color of mystery and nobility.
 $E=====2396=====
 //大地の緑。調和と安らぎの色。
-Vert terre. La couleur de l'harmonie et de la tranquillité.
+Earth green. The color of harmony and tranquility.
 $E=====2397=====
 //暗黒の黒。死と恐怖(きょうふ)の色。
-Noir obscurité. La couleur de la mort et du désespoir.
+Darkness black. The color of death and despair.
 $E=====2398=====
 //太陽少年の赤。愛と勇気の色。
-Rouge garçon solaire. La couleur de l'amour et du courage.
+Solar Boy red. The color of love and courage. 
 $E=====2399=====
 //暗黒少年の黒。罪(つみ)と罰(ばつ)の色。
-Noir garçon obscur. La couleur du péché et de la rétribution.
+Dark Boy black. The color of sin and retribution.
 $E=====2400=====
 //未来少年の紫。破壊(はかい)と創造(そうぞう)の色。
-Violet garçon futur. La couleur de la création et de la destruction.
+Future Boy purple. The color of creation and destruction.
 $E=====2401=====
 //ロックマンの青。友情と知性(ちせい)の色。
-Bleu Rockman. La couleur de l'amitié et de l'intelligence.
+Rockman blue. The color of friendship and intelligence.
 $E=====2402=====
 //パーツをつけかえる。
-Sélectionner des pièces.
+Select parts.
 $E=====2403=====
 //オプションをつけかえる。
-Sélectionner des options.
+Select options.
 $E=====2404=====
 //バイクの色を変える。
-Changer la couleur de la moto.
+Change bike color.
 $E=====2405=====
 <EXTEND=0>
 $E=====2406=====
 ???
 $E=====2407=====
+---
 $E=====2408=====
 ???
 $E=====2409=====
 //ボディのつけかえによるスロッ
 //ト減少(げんしょう)分、オプシ
 //ョンが外されました
-Les options ont été retirées
-en raison de la réduction du nombre de
-slots sur le corps de remplacement.
+Options have been removed
+due to reduced number of
+slots on replacement body.
 $E=====2410=====
 // 太陽センサーとは
    THE SOLAR SENSOR
@@ -8551,142 +8607,149 @@ $E=====2421=====
 //カートリッジ上部にある太陽セ
 //ンサーは、太陽の光の強さを感
 //知する。
-Le capteur solaire du
-Game Pak mesure la
-puissance de la lumière du Soleil.
+The Game Pak's Solar
+Sensor measures the
+strength of sunlight.
 $E=====2422=====
 //蛍光灯(けいこうとう)や電球の
 //光では反応しないので、注意が
 //必要だ。
-Note :
-Le capteur ne fonctionne pas
-avec la lumière artificielle.
+Note:
+The sensor doesn't work
+with artificial light.
 $E=====2423=====
 //「シンボク」では、太陽センサ
 //ーが感知した太陽の光が、
-Dans "BOKTAI 3", les rayons
-captés par le capteur
-affectent le monde du jeu.
+IN "BOKTAI 3," the rays
+caught by the sensor
+affect the game world.
 $E=====2424=====
 //ゲームの世界にさまざまな影響
 //(えいきょう)をあたえる。
 //太陽の光が攻略のカギだ!!
-La lumière du Soleil détient la clé !
+Sunlight holds the key!
 $E=====2425=====
 //太陽センサーは精密機械だ。
-Le capteur est fragile.
+The sensor is fragile.
 $E=====2426=====
 //カートリッジを落としたり、汚
 //(よご)したりしないよう、大切
 //にあつかってほしい。
-Faites attention à ne pas le laisser
-tomber, le salir ou l'endommager.
+Be careful not to drop,
+dirty, or otherwise
+damage the Game Pak.
 $E=====2427=====
 //エナジーを回復するには太陽の
 //光が必要だが、一度に集めすぎ
 //るとオーバーヒートしてしまう
-Les armes sont alimentées
-par la lumière du Soleil, mais elles
-surchaufferont si elles sont surchargées.
+The weapons are powered
+by sunlight, but they will
+overheat if overcharged.
 $E=====2428=====
 //こまめな休憩(きゅうけい)を心
 //がけよう。
-Prenez des pauses régulières.
+Be sure to take frequent
+breaks.
 $E=====2429=====
 //カートリッジの向きや傾(かた
 //む)きによって、
-La position du Game
-Pak influence la quantité de
-lumière détectée par le capteur.
+The position of the Game
+Pak affects how much
+light the sensor detects.
 $E=====2430=====
 //太陽センサーが感知する太陽の
 //光の強さも変化する。
 //いろいろ試してみよう。
-N'hésitez pas à expérimenter !
+Be sure to experiment!
 $E=====2431=====
 //日の当たる場所なら太陽の光は
 //強いが、日陰(ひかげ)にも太陽
 //の力は届いている。
-La lumière du Soleil est forte
-dans les endroits ensoleillés, mais
-elle atteint aussi les zones ombragées.
+There's sunlight to be
+found in both shady and
+sunny places.
 $E=====2432=====
 //自分だけの「シンボクプレイス
 //」を見つけよう!!
-Cherchez votre propre domaine BOKTAI !
+Seek out your own BOKTAI
+domain!
 $E=====2433=====
 //夕方になると太陽の光は弱くな
 //る。
-Les rayons du Soleil faiblissent
-au crépuscule.
+The Sun's rays grow
+weaker towards evening.
 $E=====2434=====
 //明るいからといって油断は禁物
 //太陽ゲージをチェックしよう!!
-Même s'il fait encore
-jour, surveillez le
-Jauge Solaire !
+Even if it's still
+light, keep an eye on
+the Solar Gauge!
 $E=====2435=====
 //夜にはもちろん太陽の光がない
-Bien sûr, il n'y a pas de lumière la nuit.
+Ain't no light at night.
 $E=====2436=====
 //太陽の力に頼(たよ)ることはで
 //きないが、そんなときにこそ本
 //当の実力が試される!!
-Vous êtes livré à vous-même, alors
-faites de votre mieux pour tester
-votre force !
+You're on your own, so
+do your best and test
+your strength!
 $E=====2437=====
 //その日の天気によって、太陽の
 //光の強さは大きく変化する。
-La météo a un grand impact
-sur la puissance du Soleil.
+Weather has a big impact
+on the Sun's power.
 $E=====2438=====
 //晴れた日は「シンボク日和(び
 //より)」だ!!
-Les jours ensoleillés sont des
-jours BOKTAI !
+Sunny days are BOKTAI
+days!
 $E=====2439=====
 //くもりの日だからといって、太
 //陽の光がないわけではない。
-Mais il y a du Soleil
-même par temps nuageux !
+But there's Sun on
+cloudy days, too!
 $E=====2440=====
 //たとえ太陽が見えなくても、あ
 //きらめずにチャレンジだ!!
-Ne vous découragez pas, même si
-vous ne voyez pas le Soleil.
+Don't give up, even if
+you can't see the Sun.
 $E=====2441=====
 //天気を知るものはシンボクを制
 //す!!
-Que la nature soit votre guide !
+Let Mother Nature be
+your teacher!
 $E=====2442=====
 //天気予報をチェックして自分だ
 //けの「シンボクスケジュール」
 //を立ててみよう。
-Consultez les prévisions météorologiques et
-établissez votre propre emploi du temps BOKTAI !
+Check the forecast and
+make your own BOKTAI
+schedule!
 $E=====2443=====
 //炎天下でプレイすると、オーバ
 //ーヒートになりやすい。
-Il est très facile de
-surchauffer sous un Soleil chaud.
+It's very easy to
+overheat under a hot Sun.
 $E=====2444=====
 //木陰(こかげ)などの日陰(ひか
 //げ)を探そう。帽子(ぼうし)を
 //かぶるのも忘れずに!!
-Trouvez de l'ombre sous un arbre,
-et n'oubliez pas de porter un chapeau !
+Find shade under a tree,
+and always wear a hat!
 $E=====2445=====
 //太陽の光は大切な味方だが、と
 //きには光を遮断(しゃだん)する
 //と有利になることも?
-La lumière du Soleil est votre alliée.
-Cependant, parfois, bloquer la lumière peut être avantageux.
+Sunlight is your ally.
+At times, however,
+blocking light may help.
 $E=====2446=====
 //隠(かく)された謎(なぞ)を暴(
 //あば)け!!
-Allez de l'avant et déchiffrez
-les mystères cachés dans l'ombre !
+Go forth, and unravel
+the mysteries in the
+shadows!
 $X=====2447=====
 {01}{02}{03}{04}{0F}{05}{06}{07}{08}{0F}{09}
 {0B}{0F}{0E}{0C}{0D}{0F}{0E}{0E}
@@ -8707,7 +8770,7 @@ $E=====2452=====
 BIKE BATTLE
 $E=====2453=====
 //データ配信
-Transfert de données
+Data Transfer
 $E=====2454=====
 //クロスオーバーバトル2
 Crossover Battle 2
@@ -8715,43 +8778,43 @@ $E=====2455=====
 //ロードに失敗しました。
 //セーブデータが存在しないか、
 //壊れています。
-Chargement échoué.
-Données sauvegardées corrompues.
+Load failed.
+Save data corrupted.
 $E=====2456=====
 //通信ケーブルを使って友達とバイクバトルができます。
-Affrontez un ami en utilisant le câble de liaison.
+Battle a friend using the link cable.
 $E=====2457=====
 //通信ケーブルを使ってデータ配信サービスを受けることができます。
-Transférez des données en utilisant le câble de liaison.
+Transfer data using the link cable.
 $E=====2458=====
 //ワイヤレスアダプタを使ってロックマンエグゼ6と通信対戦ができます。
-Crossover Battle avec Rockman.EXE 6 en utilisant l'adaptateur sans fil.
+Crossover Battle with Rockman.EXE 6 using the wireless adapter.
 $E=====2459=====
 //データがありません。Ａボタン、またはＢボタンでもどります。
-Aucune donnée. Appuyez sur le bouton A ou B pour revenir.
+No data. Press the A or B Button to return.
 $E=====2460=====
 //       ゲームスタート
-        DÉMARRER LE JEU
+        GAME START
 $E=====2461=====
            ? ? ?
 $E=====2462=====
 //      バイクアクション
-        ACTION DE MOTO
+        BIKE ACTION
 $E=====2463=====
 //        バイクバトル
-        BATAILLE DE MOTO
+        BIKE BATTLE
 $C=====2464=====
 //最初のステージを体験プレイ!!
-Essayer le stage débutant !
+Try beginner stage!
 $C=====2465=====
 //バトルドライブと新・ジャンゴを体験プレイ!!
-Essayer Battle Drive avec le Nouveau Django !
+Try Battle Drive with New Django!
 $C=====2466=====
 //バイクのカスタマイズとアクションを体験プレイ!!
-Essayer la personnalisation et l'action de moto !
+Try Bike Custom and Bike Action!
 $C=====2467=====
 //バイクによる二人用通信対戦を体験プレイ!!
-Essayer la bataille en lien à deux joueurs !
+Try 2-Player Link Battle!
 $X=====2468=====
 {C9}{DF}{FD}{D5}{CB}{C9}{E9}{DF}{C6}{00}
 $E=====2469=====
@@ -8813,47 +8876,47 @@ $E=====2479=====
 Takako Kodama
 $E=====2480=====
 //<WEIGHT>スタッフ</WEIGHT>
-<WEIGHT>ÉQUIPE DE TRADUCTION</WEIGHT>
+<WEIGHT>TRANSLATION TEAM</WEIGHT>
 
-<WEIGHT>Traducteur principal</WEIGHT>
+<WEIGHT>Lead Translator</WEIGHT>
 Darth Nemesis
 $E=====2481=====
 //<WEIGHT>原案</WEIGHT>
-//Hideo Kojima
-<WEIGHT>Programmation</WEIGHT>
+//小島秀夫
+<WEIGHT>Programming</WEIGHT>
 SpikeMan    Darth Nemesis
 
-<WEIGHT>Localisation/Continuité</WEIGHT>
+<WEIGHT>Localization/Continuity</WEIGHT>
 LordHuffnPuff
 $E=====2482=====
 //<WEIGHT>脚本/キャラクターデザイン</WEIGHT>
-//Ikuya Nakamura
+//中村如哉
 <WEIGHT>STAFF</WEIGHT>
 
 <WEIGHT>Concept</WEIGHT>
 Hideo Kojima
 $E=====2483=====
 //<WEIGHT>キャラクター原案</WEIGHT>
-//Hijioka Makoto
-<WEIGHT>Scénario/Design des personnages</WEIGHT>
+//ひじおか誠
+<WEIGHT>Scenario/Character Design</WEIGHT>
 Ikuya Nakamura
 
-<WEIGHT>Concept des personnages</WEIGHT>
+<WEIGHT>Character Concept</WEIGHT>
 Hijioka Makoto
 $E=====2484=====
 //<WEIGHT>スクリプトユニット</WEIGHT>
-//Masatoshi Uehara    Ryosaku Ueno
-//Youta Tsutsumizaki  Hiroshi Furukawa
-<WEIGHT>Unité de script</WEIGHT>
+//上原倫利　　　　上野亮作
+//堤崎陽太　　　　古川浩史
+<WEIGHT>Script Unit</WEIGHT>
 Masatoshi Uehara
 Ryosaku Ueno
 Youta Tsutsumizaki
 Hiroshi Furukawa
 $C=====2485=====
 //
-//Masato Kobayashi     栃堀木
-//Horikoshi Masahiro   Masataka Yamada
-//Tokifune Otani
+//小林雅人　　　　栃堀木
+//堀越正弘　　　　山田昌孝
+//大谷時舟
 
 Masato Kobayashi     栃堀木
 Horikoshi Masahiro
@@ -8861,72 +8924,72 @@ Masataka Yamada
 Tokifune Otani
 $E=====2486=====
 //<WEIGHT>プログラムユニット</WEIGHT>
-//Yoshiteru Kobayashi　Shinya Ishikawa
-//Kenjirou Kano        Masafumi Okuta
-//Hiroki Fujiwara
-//Akira Toyoda
+//小林聖　　　　　石川真也
+//狩野賢一郎　　　豊田晶
+//藤原宏記
+//奥田雅史
 Akira Toyoda Shinya Ishikawa
 Kenjirou Kano Masafumi Okuta
 Hiroki Fujiwara
 Yoshiteru Kobayashi
 $E=====2487=====
 //<WEIGHT>デザインユニット</WEIGHT>
-//Hitomi Terada        Toru Kawakami
-//Yokoyama Kenji       Akira Kanke
-//Kenichi Higeta
-//Chihoko Uchiyama
-<WEIGHT>Unité de design</WEIGHT>
+//寺田ひとみ　　　横山賢治
+//川上徹　　　　　内山千穂子
+//菅家彰
+//樋下田健一
+<WEIGHT>Design Unit</WEIGHT>
 Hitomi Terada Toru Kawakami
 Yokoyama Kenji  Akira Kanke
 Kenichi Higeta
 Chihoko Uchiyama
 $E=====2488=====
 //<WEIGHT>サウンドユニット</WEIGHT>
-//Hiroe Noguchi        Akihiro Honda
-//Kobori Shuichi       Irone Toda
-//Masashi Watanabe
-<WEIGHT>Unité sonore</WEIGHT>
+//野口洋江　　　　小堀修一
+//戸田色音　　　　本田晃弘
+//渡辺雅史
+<WEIGHT>Sound Unit</WEIGHT>
 Hiroe Noguchi Akihiro Honda
 Kobori Shuichi   Irone Toda
 Masashi Watanabe
 $E=====2489=====
 //<WEIGHT>パブリシティデザイン</WEIGHT>
-//Hajime Yashiro
+//八代肇
 //<WEIGHT>パブリシティイラスト</WEIGHT>
-//Nobuyoshi Nishimura
-<WEIGHT>Illustration de publicité</WEIGHT>
+//西村誠芳
+<WEIGHT>Publicity Illustration</WEIGHT>
 Nobuyoshi Nishimura
 
-<WEIGHT>Design de publicité</WEIGHT>
+<WEIGHT>Publicity Design</WEIGHT>
 Hajime Yashiro
 $C=====2490=====
 //<WEIGHT>おてんこデザイン</WEIGHT>
-<WEIGHT>Design Otenko</WEIGHT>
-Fumiya Ito     Hayato Otsuka
-Mitsuteru Sato Souki Suzuki
-Yutaka Hamaya
+<WEIGHT>Otenko Design</WEIGHT>
+飯尾史哉　　　　大塚隼人
+佐藤光輝　　　　鈴木愁季
+濱屋裕
 $E=====2491=====
 //<WEIGHT>言語アドバイザー</WEIGHT>
-//Hitomi Terada
-//Scott Dolph
-<WEIGHT>Conseiller linguistique</WEIGHT>
+//寺田ひとみ
+//スコット・ドルフ
+<WEIGHT>Language Advisor</WEIGHT>
 Hitomi Terada
 Scott Dolph
 $E=====2492=====
 //<WEIGHT>制作サポート</WEIGHT>
-//Takeshi Eguchi
-//Takaaki Kitamura
-<WEIGHT>Support de production</WEIGHT>
+//江口剛司
+//北村隆明
+<WEIGHT>Production Support</WEIGHT>
 Takeshi Eguchi
 Takaaki Kitamura
 $C=====2493=====
 //<WEIGHT>プロモーション</WEIGHT>
 <WEIGHT>Promotion</WEIGHT>
-Jiro Kurano    Shigeru Chiba
-Emiko Yokoshima Yuko Tanaka
+倉野次郎　　　　千葉茂
+横島恵美子　　　田中裕子
 $E=====2494=====
 //<WEIGHT>制作協力</WEIGHT>
-<WEIGHT>Studios collaboratifs</WEIGHT>
+<WEIGHT>Collaborating Studios</WEIGHT>
 $E=====2495=====
 //
 //<WEIGHT>任天堂株式会社</WEIGHT>
@@ -8935,455 +8998,455 @@ $E=====2495=====
 $C=====2496=====
 //<WEIGHT>コロコロコミック編集部</WEIGHT>
 <WEIGHT>CoroCoro Comic</WEIGHT>
-  Yasuyuki Sakaue
-  Takao Murakami
-  Akira Ishizeki
+　佐上靖之
+　村上孝雄
+　石関暁
 
 $E=====2497=====
 //<WEIGHT>株式会社カプコン</WEIGHT>
 //
-//  Keiji Inafune
+//　稲船敬二
 <WEIGHT>Capcom Corporation</WEIGHT>
 
   Keiji Inafune
 $C=====2498=====
-  Takeshi Horinochi
-  Masahiro Yasuma
-  Masakazu Eguchi
-  Toshihide Anai
-  Kazutaka Sato
-  Mitsunori Sakano
+　堀之内健
+　安間正博
+　江口正和
+　穴井俊英
+　佐藤和隆
+　坂野光徳
 $C=====2499=====
-  Tsukasa Takenaka
-  Yukihiro Matsuda
-  Takefumi Tahara
-  Kohei Ozaki
-  Takahiro Oranaka
-$C=====2501=====
+　竹中司
+　松田幸悦
+　田原武文
+　尾崎浩平
+　緒良中隆浩
+$C=====2500=====
 //<WEIGHT>赤城乳業株式会社</WEIGHT>
 <WEIGHT>AKAGI NYUGYO Corporation</WEIGHT>
-  Fumihiko Honda
-  Fumio Hagiwara
+　本田文彦
+　萩原史雄
 $C=====2501=====
 //<WEIGHT>有限会社 G</WEIGHT>
 <WEIGHT>G Produce Company</WEIGHT>
-  Mika Kusuhara
-  Toshiyuki Takahashi
+　楠原美夏
+　高橋俊之
 $C=====2502=====
-Hiroaki Yoshiike  Hiromichi Matsui
-Masaya Kobayashi  Shuhei Tanaka
-Hiroyuki Tsuchida Yoshifumi Hosoya
+吉池博明　　　　松井博信
+小林政哉　　　　田中修平
+土田裕之　　　　細谷宜史
 $C=====2503=====
-Hiroshi Furuki   Tomoyuki Tanaka
-Tomomi Yamanaka  Tomoko Miyamoto
-Emiko Yamauchi
+古城宏　　　　　田中智之
+山中智美　　　　宮本知子
+山内恵美子
 $E=====2504=====
 //<WEIGHT>ディレクター</WEIGHT>
-//Ikuya Nakamura
-<WEIGHT>DIRECTEUR</WEIGHT>
+//中村如哉
+<WEIGHT>DIRECTOR</WEIGHT>
 Ikuya Nakamura
-<WEIGHT>PRODUCTEUR</WEIGHT>
+<WEIGHT>PRODUCER</WEIGHT>
 Kensuke Yoshitomi
 Hideo Kojima
 $E=====2505=====
 //<WEIGHT>プロデューサー</WEIGHT>
-//Kensuke Yoshitomi
-<WEIGHT>Remerciements spéciaux</WEIGHT>
+//吉冨賢介
+<WEIGHT>Special Thanks</WEIGHT>
 Blues
 $E=====2506=====
 //<WEIGHT>プロデューサー</WEIGHT>
-//Hideo Kojima
-<WEIGHT>Remerciements spéciaux</WEIGHT>
+//小島秀夫
+<WEIGHT>Special Thanks</WEIGHT>
 Porojoa        MAX
 samiamwork     Ryken
 $E=====2507=====
 //<WEIGHT>制作/著作</WEIGHT>
-//Konami Corporation
-<WEIGHT>STUDIO/AUTEUR</WEIGHT>
+//コナミ株式会社
+<WEIGHT>STUDIO/AUTHOR</WEIGHT>
 Konami Corporation
 $E=====2508=====
 <PROC=0>
 <END>
 $E=====2509=====
 //毒花粉をまき散らす。たおすことはできない。
-Émet du pollen toxique. Ne peut pas être détruit.
+Emits poisonous pollen. Cannot be destroyed.
 $E=====2510=====
 //混乱花粉(こんらんかふん)をまき散らす。たおすことはできない。
-Émet du pollen désorientant. Ne peut pas être détruit.
+Emits disorienting pollen. Cannot be destroyed.
 $E=====2511=====
 //はじけてタネをまき散らす。
-Disperse des graines explosives.
+Scatters explosive seeds.
 $E=====2512=====
 //前方にトゲを飛ばし続ける。たおすことはできない。
-Lance des épines en ligne droite. Ne peut pas être détruit.
+Shoots spines in a straight line. Cannot be destroyed.
 $E=====2513=====
 //クモの巣をはる。
-Tisse des toiles d'araignée.
+Spins spiderwebs.
 $E=====2514=====
 //毒液を吐く。
-Crache des jets de venin.
+Spits gobs of venom.
 $E=====2515=====
 //針(はり)でさす。
-Pique avec son dard.
+Jabs with its stinger.
 $E=====2516=====
 //毒針(どくばり)でさす。
-Pique avec son dard empoisonné.
+Jabs with its poisonous stinger.
 $E=====2517=====
 //針(はり)でさす。
-Pique avec son dard.
+Jabs with its stinger.
 $E=====2518=====
 //かみつく。
-Mord.
+Bites.
 $E=====2519=====
 //吸血(きゅうけつ)する。
-Saigne.
+Sucks blood.
 $E=====2520=====
 //急降下(きゅうこうか)で攻撃(こうげき)する。
-Attaque en piqué.
+Attacks by swooping in.
 $E=====2521=====
 //急降下(きゅうこうか)で攻撃(こうげき)する。
-Attaque en piqué.
+Attacks by swooping in.
 $E=====2522=====
 //体当たりで攻撃(こうげき)する。
-Attaque par charge.
+Attacks by pouncing.
 $E=====2523=====
 //かみつく。においでサーチする。
-Mord. Recherche par l'odeur.
+Bites. Searches by smell.
 $E=====2524=====
 //ファイヤーブレスを吐く。においでサーチする。
-Crache du souffle de feu. Recherche par l'odeur.
+Breathes fire breath. Searches by smell.
 $E=====2525=====
 //アイスブレスを吐く。においでサーチする。
-Crache du souffle de glace. Recherche par l'odeur.
+Breathes ice breath. Searches by smell.
 $E=====2526=====
 //血染(ちぞ)めのハウンド。
-Un Chien taché de sang.
+A blood-stained Hound.
 $E=====2527=====
 //つかみ攻撃(こうげき)をする。
-Attaque en saisissant.
+Attacks by grabbing.
 $E=====2528=====
 //つかみ攻撃(こうげき)の後、水中に引きずりこむ。
-Attaque en saisissant et en entraînant sous l'eau.
+Attacks by grabbing and dragging you underwater.
 $E=====2529=====
 //ホルルン液(えき)をはく。
-Crache du liquide Klorofolun.
+Spits liquid Klorofolun.
 $E=====2530=====
 //ホルルン液(えき)をはく。
-Crache du liquide Klorofolun.
+Spits liquid Klorofolun.
 $E=====2531=====
 //血染(ちぞ)めのグール。
-Un Goule taché de sang.
+A blood-stained Ghoul.
 $E=====2532=====
 //爆弾(ばくだん)をはく。視界(しかい)を持たず、物音に敏感(びんかん)。
-Crache des bombes. Sans vision, sensible aux sons.
+Spits bombs. Having no eyesight, it is sensitive to sounds.
 $E=====2533=====
 //爆弾(ばくだん)をはく。視界(しかい)を持たず、物音に敏感(びんかん)。
-Crache des bombes. Sans vision, sensible aux sons.
+Spits bombs. Having no eyesight, it is sensitive to sounds.
 $E=====2534=====
 //血染(ちぞ)めのマミー。
-Une Momie tachée de sang.
+A blood-stained Mummy.
 $E=====2535=====
 //わめき散らして仲間をよび、舌(した)をのばしてアイテムをぬすむ。
-Émet un cri pour appeler ses compagnons. Vole des objets avec sa langue.
+Emits a cry that summons its comrades. Steals items with its tongue.
 $E=====2536=====
 //血染(ちぞ)めのヴォーン。
-Un Vorn taché de sang.
+A blood-stained Vorn.
 $E=====2537=====
 //火の玉をはく。
-Crache des boules de feu.
+Spits fireballs.
 $E=====2538=====
 //斧(おの)をふり下ろし衝撃波(しょうげきは)を飛ばす。
-Crée une onde de choc en abattant sa hache.
+Creates a shockwave by swinging its axe.
 $E=====2539=====
 //冷気をまき散らす。
-Émet une onde de froid.
+Emits a freezing wave.
 $E=====2540=====
 //溶岩弾(ようがんだん)をまき散らす。
-Émet des tirs de lave.
+Emits lava shots.
 $E=====2541=====
 //毒霧(どくぎり)をまき散らす。
-Émet un brouillard toxique.
+Emits a poisonous mist.
 $E=====2542=====
 //飛び出る。
-Surgit sur vous.
+Jumps out at you.
 $E=====2543=====
 //強風をまき起こす。
-Soulève un vent puissant.
+Raises a strong wind.
 $E=====2544=====
 //砲弾(ほうだん)を連射(れんしゃ)する。
-Tire à répétition des obus.
+Rapid-fires shells.
 $E=====2545=====
 //電撃(でんげき)を飛ばす。
-Émet une décharge électrique.
+Emits an electric shock.
 $E=====2546=====
 //素手で攻撃(こうげき)する。属性攻撃(ぞくせいこうげき)でなければたおせない。
-Attaque à mains nues. Ne peut être vaincu qu'avec des attaques élémentaires.
+Attacks with its bare hands. Can only be killed with elemental attacks.
 $E=====2547=====
 //剣(つるぎ)を装備(そうび)したスケルトン。属性攻撃(ぞくせいこうげき)でなければたおせない。
-Un squelette armé d'une épée. Ne peut être vaincu qu'avec des attaques élémentaires.
+A skeleton wielding a sword. Can only be killed with elemental attacks.
 $E=====2548=====
 //弓矢を装備(そうび)したスケルトン。属性攻撃(ぞくせいこうげき)でなければたおせない。
-Un squelette armé d'un arc. Ne peut être vaincu qu'avec des attaques élémentaires.
+A skeleton wielding a bow. Can only be killed with elemental attacks.
 $E=====2549=====
 //破壊(はかい)の獣(けもの)に汚染(おせん)されたスケルトン。
-Un Squelette contaminé par la Bête de Destruction.
+A Skeleton contaminated by the Beast of Destruction.
 $E=====2550=====
 //破壊(はかい)の獣(けもの)に汚染(おせん)されたフェンサー。
-Un Escrimeur contaminé par la Bête de Destruction.
+A Fencer contaminated by the Beast of Destruction.
 $E=====2551=====
 //破壊(はかい)の獣(けもの)に汚染(おせん)されたアーチャー。
-Un Archer contaminé par la Bête de Destruction.
+An Archer contaminated by the Beast of Destruction.
 $E=====2552=====
 //血染(ちぞ)めのスケルトン。
-Un Squelette taché de sang.
+A blood-stained Skeleton.
 $E=====2553=====
 //身体を丸め、体当たりをする。
-Se roule en boule et vous percute.
+Curls up into a ball and slams into you.
 $E=====2554=====
 //身体を丸め、体当たりをする。
-Se roule en boule et vous percute.
+Curls up into a ball and slams into you.
 $E=====2555=====
 //血染(ちぞ)めのゴーレム。
-Un Golem taché de sang.
+A blood-stained Golem.
 $E=====2556=====
 //宝箱(たからばこ)のふりをしている。開けようとすると体当たりをする。
-Prend la forme d'un coffre au trésor. Fonce sur vous quand on l'ouvre.
+Takes the form of a treasure box. Pounces when opened.
 $E=====2557=====
 //自らで攻撃(こうげき)する。スレイブソードを召喚(しょうかん)する。
-Attaque de son propre chef. Invoque des épées esclaves.
+Attacks of its own accord. Summons slave swords.
 $E=====2558=====
 //吸血変異(アンデッド化)を極めたソード。
-Une Épée devenue non-morte.
+A Sword that has turned undead.
 $E=====2559=====
 //自らで攻撃(こうげき)する。影分身(かげぶんしん)を使う。
-Attaque de son propre chef. Utilise des clones d'ombre.
+Attacks of its own accord. Uses shadow clones.
 $E=====2560=====
 //吸血変異(アンデッド化)を極めたアックス。
-Une Hache devenue non-morte.
+An Axe that has turned undead.
 $E=====2561=====
 //青銅製(せいどうせい)のアーマー。
-Armure en bronze.
+Armor made of bronze.
 $E=====2562=====
 //鉄製(てつせい)のアーマー。
-Armure en fer.
+Armor made of iron.
 $E=====2563=====
 //フレイム属性(ぞくせい)のアーマー。
-Armure élément Feu.
+Flame-element armor.
 $E=====2564=====
 //吸血変異(アンデッド化)を極めたフレイムアーマー。
-Une Armure Feu devenue non-morte.
+A Flame Armor that has turned undead.
 $E=====2565=====
 //フロスト属性(ぞくせい)のアーマー。
-Armure élément Glace.
+Frost-element armor.
 $E=====2566=====
 //吸血変異(アンデッド化)を極めたフロストアーマー。
-Une Armure Glace devenue non-morte.
+A Frost Armor that has turned undead.
 $E=====2567=====
 //クラウド属性(ぞくせい)のアーマー。
-Armure élément Nuage.
+Cloud-element armor.
 $E=====2568=====
 //吸血変異(アンデッド化)を極めたクラウドアーマー。
-Une Armure Nuage devenue non-morte.
+A Cloud Armor that has turned undead.
 $E=====2569=====
 //アース属性(ぞくせい)のアーマー。
-Armure élément Terre.
+Earth-element armor.
 $E=====2570=====
 //吸血変異(アンデッド化)を極めたアースアーマー。
-Une Armure Terre devenue non-morte.
+An Earth Armor that has turned undead.
 $E=====2571=====
 //属性(ぞくせい)を変化させるアーマー。
-Une Armure qui change d'élément.
+An armor that changes its element.
 $E=====2572=====
 //吸血変異(アンデッド化)を極めたデュアルアーマー。
-Une Armure Double devenue non-morte.
+A Dual Armor that has turned undead.
 $E=====2573=====
 //謎(なぞ)多き最強の騎士(きし)。
-Le chevalier le plus fort, entouré de mystères.
+The highly mysterious strongest knight.
 $E=====2574=====
 //ニーズホッグの乗る巨大鉄竜(きょだいてつりゅう)。ビーム砲(ほう)、空中機雷砲(くうちゅうきらいほう)、ミサイル砲(ほう)を装備。体当たり、ポイズンブレス、殺人光線などでも攻撃(こうげき)する。
-Un immense dragon de fer monté par Nidhogg. Équipé de canons à faisceaux, de lanceurs de mines aériennes et de lanceurs de missiles. Ses attaques incluent le choc corporel, le souffle empoisonné et le rayon mortel.
+A huge iron dragon that Nidhoggr rides. Equipped with beam guns, floating mine launchers, and missile launchers. Its attacks include Body Slam, Poison Breath, and Murder Beam.
 $E=====2575=====
 //壁面(へきめん)からしみ出る破壊(はかい)の獣(けもの)の断片(だんぺん)。
-Fragments de la Bête de Destruction qui percent à travers le mur.
+Fragments of the Beast of Destruction that pierce through the wall.
 $E=====2576=====
 //地面(じめん)からしみ出る破壊(はかい)の獣(けもの)の断片(だんぺん)。
-Fragments de la Bête de Destruction qui percent à travers le sol.
+Fragments of the Beast of Destruction that pierce through the ground.
 $E=====2577=====
 //吸血(きゅうけつ)する。
-Saigne.
+Sucks blood.
 $E=====2578=====
 //引火させる。
-Vous met le feu.
+Sets you on fire.
 $E=====2579=====
 //氷結させる。
-Vous gèle.
+Freezes you.
 $E=====2580=====
 //体当たりで引火させる。
-Charge, vous mettant le feu.
+Pounces, setting you on fire.
 $E=====2581=====
 //体当たりで氷結させる。
-Charge, vous gelant.
+Pounces, freezing you.
 $E=====2582=====
 //体当たりでマヒさせる。
-Charge, vous paralysant.
+Pounces, paralyzing you.
 $E=====2583=====
 //体当たりで毒化させる。
-Charge, vous empoisonnant.
+Pounces, poisoning you.
 $E=====2584=====
 //エナジーをうばう。
-Draine l'énergie.
+Drains energy.
 $E=====2585=====
 //エナジーをうばうと共に混乱(こんらん)させる。
-Draine l'énergie et cause de la confusion.
+Drains energy and causes disorientation.
 $E=====2586=====
 //バットバレット、ブラッドランス、切りさき、吸血(きゅうけつ)、分裂(ぶんれつ)、ブラッドレインなどで攻撃(こうげき)する。
-Les attaques incluent Bat Bullet, Blood Lance, Pierce, Sucking, Fission, et Blood Rain.
+Attacks include Bat Barette, Blood Lance, Pierce, Bloodsucking, and Fission.
 $E=====2587=====
 //羽手裏剣(はねしゅりけん)、竜巻(たつまき)、突風(とっぷう)、爆撃(ばくげき)、モズ落としなどで攻撃(こうげき)する。
-Les attaques incluent Feather Darts, Tornado, Squall, Bomb Raid, et Shrike Drop.
+Attacks include Feather Darts, Tornado, Squall, Bomb Raid, and Shrike Drop.
 $E=====2588=====
 //暗黒ショット、暗黒ゴマ、アイスランス、ファイヤーボールなどで攻撃(こうげき)する。雪がくれを使う。
-Les attaques incluent Dark Shot, Dark Spin, Ice Lance, et Fire Ball. Se cache dans la neige.
+Attacks include Dark Shot, Dark Spin, Ice Lance, and Fire Ball. Hides in the snow.
 $E=====2589=====
 //トゲロボ、爆弾(ばくだん)、鉄球などで攻撃(こうげき)する。バリアーをはる。
-Les attaques incluent Spine Bot, Bomb, et Iron Ball. Crée une barrière.
+Attacks include Spine Bot, Bomb, and Iron Ball. Creates a barrier.
 $E=====2590=====
 //死人使い、人形使い、影使(かげつか)い、チャクラム、ダークウィップ、ダークホールなどで攻撃(こうげき)する。
-Les attaques incluent Necromancy, Puppeteer, Shadow Puppeteer, Chakram, Dark Whip, et Dark Hole.
+Attacks include Necromancy, Puppeteer, Shadow Puppeteer, Chakram, Dark Whip, and Dark Hole.
 $E=====2591=====
 //ホワイトアーム、ブラックアーム、かみ付き、怪光線(かいこうせん)、破壊光線(はかいこうせん)などで攻撃(こうげき)する。
-Les attaques incluent White Arm, Black Arm, Bite, Mystery Beam, et Destruction Beam.
+Attacks include White Arm, Black Arm, Bite, Mystery Beam, and Destruction Beam.
 $E=====2592=====
 //太陽銃「ガン・デル・ソル」の継承者(けいしょうしゃ)、「太陽少年」。最強のヴァンパイアハンターであった父「紅(くれない)のリンゴ」から、太陽の力をあやつる術(すべ)と「深紅(しんく)のマフラー」を受けついでいる。
-Le successeur du Gun Del Sol, le Garçon Solaire. A reçu le pouvoir solaire et l'Écharpe Cramoisie de son père, Red Ringo.
+The successor to the Gun Del Sol, the Solar Boy. Received his Solar power and the Crimson Scarf from his father, Red Ringo.
 $E=====2593=====
 //「棺桶(かんおけ)バイク」を駆(か)る太陽少年。「戦士のバンダナ」に装着(そうちゃく)したゴーグルでその目を守っている。
-Le Garçon Solaire chevauchant la Moto Cercueil. Protège ses yeux avec des lunettes équipées sur le Bandana du Guerrier.
+The Solar Boy riding the Coffin Bike. Protects his eyes with goggles equipped on the Warrior's Bandana.
 $E=====2594=====
 //太陽が育んだすべての生命種を守るため、地上に降臨(こうりん)した太陽の精霊(せいれい)。<NAME>をみちびき、その戦いをサポートする。かつては「紅(くれない)のリンゴ」とも戦いを共にした歴戦の勇士。
-Le Messager du Soleil, descendu sur terre pour protéger toutes les créatures du Soleil. Il guide <NAME> et le soutient dans ses combats. C'est un guerrier aguerri qui a autrefois combattu aux côtés de Red Ringo.
+The Messenger of the Sun, descended to earth to protect all the Sun's creatures. He guides <NAME> and supports him in battle. He is a brave warrior who once fought alongside Red Ringo.
 $E=====2595=====
 //いつわりの母、闇の女王(クイーン)に暗黒銃「ガン・デル・ヘル」の使い手、暗黒少年として育てられた<NAME>の兄。真実の母「マーニ」から、月の巫女(月下美人)の力と「月光のマフラー」を受け継いでいる。
-Le frère de <NAME>, élevé comme le Garçon des Ténèbres pour utiliser le Gun Del Hell par sa fausse mère, la Reine. Il a hérité du pouvoir de la Prêtresse de la Lune et de l'Écharpe de la Lune de sa véritable mère, Mani.
+<NAME>'s older brother, brought up as the Dark Boy to use the Gun Del Hell by his fake mother, the Queen. Inherited the Moon Beauty power and the Moonlight Scarf from his real mother, Mani.
 $E=====2596=====
 //破壊(はかい)の獣(けもの)であることを受け入れたサバタ。その心は、「ヴァナルガンド」があたえる狂気(きょうき)に支配(しはい)されている。
-Sabata après avoir accepté d'être la Bête de Destruction. Son esprit est contrôlé par la folie induite par Vanargand.
+Sabata after succumbing to the Beast of Destruction. He's being controlled via the madness induced by Vanargand.
 $E=====2597=====
 //ぬすみの言いわけに「伝説の戦士」の子孫だとかたったため、戦士をさがし出し、その死を未然にふせぐことを命じられた自称(じしょう)「トレジャーハンター」。母の形見である「鉄鍋(てつなべ)」と「青ポンチョ」を身にまとう。
-Un soi-disant Chasseur de Trésors qui prétend être le descendant du Guerrier Légendaire, il cherche le Guerrier pour prévenir sa mort. Il porte la Marmite en Fer et le Poncho Bleu en souvenir de sa mère.
+A self-styled Treasure Hunter who claims to be descended from the Legendary Warrior, he seeks out the Warrior to prevent his death. He wears the Iron Pot and Blue Poncho as a memento of his mother.
 $E=====2598=====
 //石化能力(せきかのうりょく)「死せる風」をあやつる「嘆(なげ)きの魔女」。人として生まれ、闇の一族(イモータル)としてその命を散らしたが、死してなお、サバタを見守り続ける幻影(げんえい)の少女。
-La Sorcière Pleureuse qui contrôle le Vent Mortel Pétroifiant. Née humaine, son âme a été dispersée quand elle est devenue Immortelle. Mais même après la mort, elle continue de veiller sur Sabata comme une jeune fille fantôme.
+The Crying Witch who controls the petrifying Deadly Wind. Born as a human, her soul was scattered when she became an Immortal. But even in death, she continues to watch over Sabata as a phantom girl.
 $E=====2599=====
 //道具屋の少女。太陽樹(たいようじゅ)を守る大地の巫女(みこ)であり、太陽の果実を育てることができる。<NAME>をしたう一途(いちず)な少女だが、徒手空拳(としゅくうけん)において彼女の右に出る者はいない。
-La fille du Magasin d'Objets. En tant que Prêtresse Terrestre qui protège l'Arbre Solaire, elle peut faire pousser les Fruits du Soleil. Elle adore complètement <NAME>, mais ses compétences en arts martiaux sont inégalées.
+The girl from the Item Shop. As the Earthly Maiden who protects the Solar Tree, she can grow Solar Fruit. She completely adores <NAME>, but her bare-fisted fighting skill is unmatched.
 $E=====2600=====
 //星読みの少女。今は亡(な)き伝説の魔女「ひまわり娘(むすめ)」の弟子であり、その絶大(ぜつだい)なる魔力を持って、サン・ミゲルを魔物(モンスター)から守っている。サバタやカーミラのことが気にかかるようだが・・・。
-La Liseuse d'Étoiles. Apprentie de la défunte Sorcière Légendaire, la Fille Tournesol, elle protège San Miguel avec sa puissante magie. Elle semble préoccupée par Sabata et Carmilla...
+The Star Reader. Apprentice to the legendary witch, the late Sunflower Girl, she protects San Miguel with that powerful magic. She seems troubled by Sabata and Carmilla...
 $E=====2601=====
 //鍛冶屋(ブラックスミス)の親父。かつては「ガンマスター」とも呼ばれた天才銃職人(ガンスミス)で、「紅(くれない)のリンゴ」に銃(じゅう)を教えた男だが、片目(かため)を失って以来、戦いをしりぞいている。スミレの本名とその父親を知る数少ない人物の1人。
-Un forgeron âgé. Connu autrefois comme le Gunsmith Légendaire, il a enseigné le tir à Red Ringo. Il s'est retiré du combat depuis qu'il a perdu un œil. L'un des rares à connaître le vrai nom de Violet et son père.
+An aged blacksmith. Once known as the Legendary Gunsmith, he taught Red Ringo how to shoot. He has withdrawn from fighting since losing an eye. One of the few people who know Violet's real name and father.
 $E=====2602=====
 //<NAME>の家で留守番(るすばん)をしてくれている少女。かつての伯爵(はくしゃく)の襲撃(しゅうげき)により母親を失い、スミスに引き取られた。本人にその自覚はないが、ショックにより以前の記憶(きおく)を失っている。
-Une fille qui garde la maison de <NAME> pendant son absence. A été recueillie par Smith après avoir perdu sa mère lors de l'attaque du Comte. Elle n'en est pas consciente, mais elle a perdu ses souvenirs d'avant l'incident à cause du choc.
+A girl who is house-sitting for <NAME> while he's away. Has been cared for by Smith since she lost her mother in the Count's raid. She's not self-conscious, but due to the shock she lost her memories prior to the incident.
 $E=====2603=====
 //黒い子猫(こねこ)。スミレの友達で冒険家(ぼうけんか)。その正体は、「太陽の4士族」が大地の戦士「ビーストマスター」が友とした魔物(モンスター)のわすれ形見。
-Un chaton noir. Ami et aventurier de Violet. En réalité, c'est le souvenir d'un monstre que le Maître des Bêtes, l'un des 4 Guerriers du Soleil, avait comme ami.
+A black kitten. Violet's adventuring friend. In reality, he is a memento of a monster that the Beast Master, one of the 4 Sun Warriors, befriended.
 $E=====2604=====
 //アクセサリー屋の青年。店主であった「アイテムマスター」の不在(ふざい)に勝手に店を開け、商売がえまでしてしまうお調子者。その実、義理(ぎり)がたい「アフロマスター」人情派(にんじょうは)。
-Le jeune homme du Magasin d'Accessoires. En l'absence du propriétaire, le Maître des Objets, il a ouvert le magasin sans permission et vend ses propres marchandises. C'est un farceur, mais en réalité, il est très loyal et humain, surnommé "Afro Master".
+The boy from the Accessory Shop. In the absence of the owner, Item Master, he not only opened the shop without permission, but is selling his own goods. He's a joker, but he's really a warmhearted man with a strong sense of obligation. He is called "Afro Master".
 $E=====2605=====
 //武器屋の青年。古来よりサン・ミゲルを守ってきた「太陽の4士族」最後の生き残り。風の戦士にして、あらゆる武器(ぶき)に精通(せいつう)した「ウエポンマスター」。未だキッドに、氷の戦士「アイテムマスター」の死を伝えられずにいる。
-Le jeune homme du Magasin d'Armes. Il est le Guerrier du Vent, le dernier survivant des 4 Guerriers du Soleil qui ont protégé San Miguel depuis des temps immémoriaux. En tant que Maître des Armes, il est expert dans tous les types d'armes. Il n'a toujours pas dit à Kid de la mort du Guerrier de Glace, le Maître des Objets.
+The young man from the Weapon Shop. He is the Wind Warrior, the last surviving member of the 4 Sun Warriors who have protected San Miguel since time immemorial. As the Weapon Master, he is an expert in every type of weapon. He still hasn't told Kid about the death of the Ice Warrior, Item Master.
 $E=====2606=====
 //図書館の司書。その正体は組織(ギルド)中央から派遣(はけん)された「ギルドマスター」。封印術(ふういんじゅつ)の他、護身術(ごしんじゅつ)にも長けており、リタの才能(さいのう)を開花させた張本人(ちょうほんにん)。
-La bibliothécaire. Elle est en réalité une Maître de Guilde envoyée par la Guilde centrale. En plus des techniques de scellement, elle excelle également en autodéfense, et elle est celle qui a fait éclore le talent de Lita.
+The librarian. She's actually a Guild Master sent from the central Guild. Besides sealing arts, she also excels at self defense, and she's to blame for Lita's budding skill.
 $E=====2607=====
 //愛する者を失い、そのショックに自分をも失ってしまった男。棺桶(かんおけ)に執着(しゅうちゃく)し、ついには究極の棺桶(かんおけ)「ベクターコフィン」と「棺桶(かんおけ)バイク」を作るにいたった。コーチとの関係は・・・?
-Un homme qui s'est perdu sous le choc de la perte de son être aimé. Obsédé par les cercueils, il a finalement créé le cercueil ultime "Vector Coffin" et "Coffin Bike". Quelle est sa relation avec le Coach...?
+A man who lost himself from the shock of losing his loved one. Attached to coffins, he has finally created the ultimate coffin "Vector Coffin" and "Coffin Bike". Just what is his connection to Coach...?
 $E=====2608=====
 //棺桶獣(かんおけじゅう)エレファンと共に、突如(とつじょ)としてあらわれた鬼(おに)コーチ。なぜか棺桶(かんおけ)バイクのすべてを知りつくしており、執拗(しつよう)に<NAME>をしごき上げる。棺桶屋(かんおけや)との関係は・・・?
-Un coach impitoyable qui est apparu soudainement avec le Monstre Cercueil, Elefan. Pour une raison quelconque, il connaît tout de la Moto Cercueil, et il entraîne intensément <NAME>. Quelle est sa relation avec le Marchand de Cercueils...?
+A merciless coach who suddenly appeared along with the Coffin Monster, Elefan. He somehow knows all there is to know about the Coffin Bike, and puts <NAME> through intense training. Just what is his connection to the Coffin Shopkeeper...?
 $E=====2609=====
 //時計塔(とけいとう)の管理人。人付き合いが苦手で、口は悪いが、おこっているわけではないようだ。
-Le gestionnaire de la tour de l'horloge. Il n'est pas très sociable et parle durement, mais il ne semble pas réellement en colère.
+The clocktower's manager. He's not very friendly and speaks harshly, but he doesn't actually seem to be angry.
 $E=====2610=====
 //サン・ミゲルに住む動物好きな青年。大きな身体に見合わず、気は小さい。
-Un jeune homme vivant à San Miguel qui aime les animaux. Malgré son grand corps, il est assez timide.
+A young man living in San Miguel who likes animals. Despite his large body, he is quite meek.
 $E=====2611=====
 //サン・ミゲルに住む散歩好きな老人。白くて長いヒゲが自慢(じまん)。
-Un vieil homme vivant à San Miguel qui aime se promener. Il est fier de sa longue barbe blanche.
+An old man living in San Miguel who likes going on walks. Proud of his long, white beard.
 $E=====2612=====
 //イモータル四人衆(よにんしゅう)の1人。好敵手(ライバル)との戦いを求めて復活(ふっかつ)した「ヴァンパイア・ロード」。闇の女王(クイーン)への忠誠心(ちゅうせいしん)からか、<NAME>をサバタの下へとみちびき、ラタトスクの野望を妨害(ぼうがい)した。
-L'un des Quatre Immortels. Le Seigneur Vampire ressuscité qui cherche à combattre son rival. Toujours fidèle à la Reine, il a guidé <NAME> sous l'influence de Sabata, contrant les plans de Ratatosk.
+One of the Four Immortals. The revived Vampire Lord who seeks to battle his rival. Ever loyal to the Queen, he guided <NAME> under Sabata's influence, hindering Ratatosk's schemes.
 $E=====2613=====
 //イモータル四人衆(よにんしゅう)の1人。とぼけた外見で相手を油断(ゆだん)させ、罠(わな)にはめようとする奇怪(きかい)な鳥。食えないモノ(機械)ばかりを作り出すニーズホッグとは犬猿(けんえん)の仲。
-L'un des Quatre Immortels. Un étrange oiseau qui trompe ses adversaires avec son apparence idiote. Il ne s'entend pas avec Nidhoggr, qui ne fait que construire des machines.
+One of the Four Immortals. A strange bird who catches his opponents unaware with his foolish appearance. Doesn't get along with Nidhoggr, who does nothing but build machines.
 $E=====2614=====
 //イモータル四人衆(よにんしゅう)の1人。鉄(くろがね)の軍団(ぐんだん)を作り出し、自らは巨大鉄竜(きょだいてつりゅう)に乗りこむマッドサイエンティスト。食い気優先(ゆうせん)のフレスベルグとは犬猿(けんえん)の仲。
-L'un des Quatre Immortels. Un savant fou qui a construit une armée de fer et qui pilote un immense dragon de fer. Il ne s'entend pas avec Hresvelgr, qui ne pense qu'à manger.
+One of the Four Immortals. A mad scientist who built an iron army and operates a giant iron dragon. Doesn't get along with Hresvelgr, who thinks of nothing but his appetite.
 $E=====2615=====
 //イモータル四人衆(よにんしゅう)の1人。破壊(はかい)の獣(けもの)の恐怖(きょうふ)による世界支配(せかいしはい)をもくろみ、サバタや他の闇の一族(イモータル)を利用する。物理的にも精神的(せいしんてき)にも、他者をあやつる能力(のうりょく)に長けている。
-L'un des Quatre Immortels. Il manipule Sabata et les autres Immortels dans un complot pour dominer le monde par la peur de la Bête de Destruction. Il excelle à contrôler autrui, tant physiquement que mentalement.
+One of the Four Immortals. He is manipulating Sabata and the other Immortals in a plot to rule the world through fear of the Beast of Destruction. He is skilled at controlling others both physically and mentally.
 $E=====2616=====
 //異世界からの来訪者(らいほうしゃ)。記憶(きおく)がないという自らの状況(じょうきょう)を楽しんでいる。単独潜入任務(たんどくせんにゅうにんむ)を得意とするが、女性にはだまされやすい・・・らしい。
-Un visiteur d'un autre monde. Un homme sans souvenirs, qui profite de sa situation sans se rendre compte. Fier de ses missions d'infiltration en solo, il est facilement trompé par les femmes... semble-t-il.
+A visitor from another world. A man with no memories, he is enjoying himself while unaware of his circumstances. Proud of his solo infiltration missions, he is easily deceived by women... apparently.
 $E=====2617=====
 //異世界からの来訪者(らいほうしゃ)。真面目な性格(せいかく)のネットナビ。闇(やみ)のネットナビ「シェードマン」を追って世紀末世界にあらわれた。共に戦った<NAME>とは、固い友情(ゆうじょう)で結ばれている。
-Un visiteur d'un autre monde. Un NetNavi avec une personnalité sérieuse. L'ombre NetNavi, Shademan, est ensuite apparu dans ce monde. Ayant combattu à ses côtés, <NAME> et lui ont développé un lien d'amitié fort.
+A visitor from another world. A NetNavi with a genuine personality. The Dark NetNavi, Shademan, later appeared in this world. Fighting him alongside <NAME>, the two boys developed a strong bond of friendship.
 $E=====2618=====
 //異世界からの来訪者(らいほうしゃ)。「ガリガリ君ソーダ」さえあれば、どんな魔物(モンスター)もヘッチャラ!!・・・らしい。ピンチになると「シャリシャリ君」に変身!!・・・するらしいが、そのすがたを見た者はいない。
-Un visiteur d'un autre monde. Tant qu'il a du GariGari Soda, aucun monstre ne l'effraie ! ... semble-t-il. Il se transforme en ShariShari-kun en cas de danger ! ... ou du moins, c'est ce qu'on dit, mais personne n'a jamais vu cette forme.
+A visitor from another world. As long as he has GariGari Soda, he'll stay cool! ...apparently. Transforms into ShariShari-kun when in danger! ...or so it seems, but that form has never been seen.
 $E=====2619=====
 ?????
 $E=====2620=====
 //太陽少年<NAME>(A)
-Garçon Solaire <NAME> (A)
+Solar Boy <NAME> (A)
 $E=====2621=====
 //太陽少年<NAME>(B)
-Garçon Solaire <NAME> (B)
+Solar Boy <NAME> (B)
 $E=====2622=====
 //太陽の使者おてんこさま
-Messager Solaire Otenko
+Solar Messenger Otenko
 $E=====2623=====
 //暗黒少年サバタ(A)
-Garçon des Ténèbres Sabata (A)
+Dark Boy Sabata (A)
 $E=====2624=====
 //暗黒少年サバタ(B)
-Garçon des Ténèbres Sabata (B)
+Dark Boy Sabata (B)
 $E=====2625=====
 //未来少年トリニティ
-Garçon du Futur Trinity
+Future Boy Trinity
 $E=====2626=====
 //嘆きの魔女カーミラ
-Sorcière Pleureuse Carmilla
+Crying Witch Carmilla
 $E=====2627=====
 //大地の巫女リタ
-Prêtresse Terrestre Lita
+Earthly Maiden Lita
 $E=====2628=====
 //ひまわり娘ザジ
-Fille Tournesol Zazie
+Sunflower Girl Zazie
 $E=====2629=====
 //鋼鉄のスミス
-Smith d'Acier
+Steel Smith
 $E=====2630=====
 //スミレ
 Violet
 $E=====2631=====
 //クロ
-Nero
+Kuro
 $E=====2632=====
 //キッド
 Kid
 $E=====2633=====
 //風の戦士シャイアン
-Guerrier du Vent Cheyenne
+Wind Warrior Cheyenne
 $E=====2634=====
 //レディ
 Lady
 $E=====2635=====
 //棺桶屋
-Marchand de Cercueils
+Coffin Shopkeeper
 $E=====2636=====
 //コーチ
 Coach
@@ -9398,16 +9461,16 @@ $E=====2639=====
 Luis
 $E=====2640=====
 //血の伯爵
-Comte du Sang qui Imprègne le Sol
+Count of Groundsoaking Blood
 $E=====2641=====
 //死の翼フレスベルグ
-Ailes de la Mort Hresvelgr
+Wings of Death Hresvelgr
 $E=====2642=====
 //機械王ニーズホッグ
-Roi des Machines Nidhoggr
+Machine King Nidhoggr
 $E=====2643=====
 //人形使いラタトスク
-Ratatosk le Marionnettiste
+Ratatosk the Puppeteer
 $E=====2644=====
 //???(ハテナ)
 ???
@@ -9523,151 +9586,152 @@ $E=====2698=====
  
 $E=====2699=====
 //残滅任務
-Mission d'Eradication
+Eradication Mission
 $E=====2700=====
 //探索任務
-Mission d'Exploration
+Search Mission
 $E=====2701=====
 //脱出任務
-Mission d'Évasion
+Escape Mission
 $E=====2702=====
 //残滅任務
-Mission d'Eradication
+Eradication Mission
 $E=====2703=====
 //探索任務
-Mission d'Exploration
+Search Mission
 $E=====2704=====
 //脱出任務
-Mission d'Évasion
+Escape Mission
 $E=====2705=====
 //残滅任務
-Mission d'Eradication
+Eradication Mission
 $E=====2706=====
 //探索任務
-Mission d'Exploration
+Search Mission
 $E=====2707=====
 //脱出任務
-Mission d'Évasion
+Escape Mission
 $E=====2708=====
 //残滅任務
-Mission d'Eradication
+Eradication Mission
 $E=====2709=====
 //探索任務
-Mission d'Exploration
+Search Mission
 $E=====2710=====
 //脱出任務
-Mission d'Évasion
+Escape Mission
 $E=====2711=====
 //残滅任務
-Mission d'Eradication
+Eradication Mission
 $E=====2712=====
 //探索任務
-Mission d'Exploration
+Search Mission
 $E=====2713=====
 //脱出任務
-Mission d'Évasion
+Escape Mission
 $E=====2714=====
 //ダンジョンを探索する
-Explorer le Donjon
+Explore the Dungeon
 $E=====2715=====
 ???
 $E=====2716=====
 //残滅任務(ざんめつにんむ)：敵(てき)モンスターをすべて倒(たお)せ!!
-Mission d'Eradication : Défais tous les monstres ennemis !
+Eradication Mission: Defeat all enemy monsters!
 $E=====2717=====
 //探索任務(たんさくにんむ)：3つの女神像(めがみぞう)を手に入れろ!!
-Mission d'Exploration : Récupère les 3 statues de déesses !
+Search Mission: Get the 3 Goddess Statues!
 $E=====2718=====
 //脱出任務(だっしゅつにんむ)：敵(てき)モンスターに見つからずに、ダンジョンから脱出(だっしゅつ)せよ!!
-Mission d'Évasion : Échappe-toi sans être vu !
+Escape Mission: Escape without being seen!
 $E=====2719=====
 //残滅任務(ざんめつにんむ)：敵(てき)モンスターをすべて倒(たお)せ!!
-Mission d'Eradication : Défais tous les monstres ennemis !
+Eradication Mission: Defeat all enemy monsters!
 $E=====2720=====
 //探索任務(たんさくにんむ)：3つの女神像(めがみぞう)を手に入れろ!!
-Mission d'Exploration : Récupère les 3 statues de déesses !
+Search Mission: Get the 3 Goddess Statues!
 $E=====2721=====
 //脱出任務(だっしゅつにんむ)：敵(てき)モンスターに見つからずに、ダンジョンから脱出(だっしゅつ)せよ!!
-Mission d'Évasion : Échappe-toi sans être vu !
+Escape Mission: Escape without being seen!
 $E=====2722=====
 //残滅任務(ざんめつにんむ)：敵(てき)モンスターをすべて倒(たお)せ!!
-Mission d'Eradication : Défais tous les monstres ennemis !
+Eradication Mission: Defeat all enemy monsters!
 $E=====2723=====
 //探索任務(たんさくにんむ)：3つの女神像(めがみぞう)を手に入れろ!!
-Mission d'Exploration : Récupère les 3 statues de déesses !
+Search Mission: Get the 3 Goddess Statues!
 $E=====2724=====
 //脱出任務(だっしゅつにんむ)：敵(てき)モンスターに見つからずに、ダンジョンから脱出(だっしゅつ)せよ!!
-Mission d'Évasion : Échappe-toi sans être vu !
+Escape Mission: Escape without being seen!
 $E=====2725=====
 //残滅任務(ざんめつにんむ)：敵(てき)モンスターをすべて倒(たお)せ!!
-Mission d'Eradication : Défais tous les monstres ennemis !
+Eradication Mission: Defeat all enemy monsters!
 $E=====2726=====
 //探索任務(たんさくにんむ)：3つの女神像(めがみぞう)を手に入れろ!!
-Mission d'Exploration : Récupère les 3 statues de déesses !
+Search Mission: Get the 3 Goddess Statues!
 $E=====2727=====
 //脱出任務(だっしゅつにんむ)：敵(てき)モンスターに見つからずに、ダンジョンから脱出(だっしゅつ)せよ!!
-Mission d'Évasion : Échappe-toi sans être vu !
+Escape Mission: Escape without being seen!
 $E=====2728=====
 //残滅任務(ざんめつにんむ)：敵(てき)モンスターをすべて倒(たお)せ!!
-Mission d'Eradication : Défais tous les monstres ennemis !
+Eradication Mission: Defeat all enemy monsters!
 $E=====2729=====
 //探索任務(たんさくにんむ)：3つの女神像(めがみぞう)を手に入れろ!!
-Mission d'Exploration : Récupère les 3 statues de déesses !
+Search Mission: Get the 3 Goddess Statues!
 $E=====2730=====
 //脱出任務(だっしゅつにんむ)：敵(てき)モンスターに見つからずに、ダンジョンから脱出(だっしゅつ)せよ!!
-Mission d'Évasion : Échappe-toi sans être vu !
+Escape Mission: Escape without being seen!
 $E=====2731=====
 //<LABEL=SHAIAN>長髪(ちょうはつ)の男</LABEL>
 //「良く来たな、<NAME>
-<LABEL=SHAIAN>Homme aux Cheveux Longs</LABEL>:
-"C'est bon de te revoir,
+<LABEL=SHAIAN>Long-Haired Man</LABEL>:
+"It's good to see you again,
 <NAME>.
 $E=====2732=====
 //噂(うわさ)は聞いている・・・
 //大変な目にあったようだな?
-On dit que tu as
-traversé des moments difficiles.
+Rumor has it that you went
+through some tough times.
 $E=====2733=====
 //ん?
 //まさか・・・
-Hein ?
-Est-ce que tu...
+Huh?
+Did you...
 $E=====2734=====
 //かつて剣(つるぎ)をも交えた、
 //このわたしをわすれてしまった
 //のか?
-as-tu oublié celui qui a
-croisé le fer avec toi autrefois ?
+did you forget about me, the
+man who once crossed swords
+with you?
 $E=====2735=====
 //それどころか、おまえにあたえ
 //たはずの風の祝福までもが、失
 //われているではないか!
-Tu as même perdu la bénédiction
-du vent que je t'avais donnée,
-n'est-ce pas !
+You even lost the wind's
+blessing I gave you,
+didn't you!
 $E=====2736=====
 //ううむ・・・
-Hum...
+Hmm...
 $E=====2737=====
 //きっかけさえあれば、思い出せ
 //るかも知れん
-Peut-être que tu as besoin de
-quelque chose pour te rappeler.
+Maybe you need something to
+help you remember.
 $E=====2738=====
 //今一度、おまえに祝福をあたえ
 //よう
-Je vais te redonner cette
-bénédiction.
+I'll give you the blessing
+again.
 $E=====2739=====
 //行くぞ?」
-Prêt ?"
+Ready?"
 $E=====2740=====
 <PROC=0>
 <END>
 $E=====2741=====
 //風の祝福を得た!
-Tu as reçu la bénédiction
-du vent !
+You received the wind's
+blessing!
 $E=====2742=====
 <PROC=0>
 <END>.
@@ -9675,95 +9739,97 @@ $E=====2743=====
 //スペシャルアクション
 //「ダッシュ」
 //を思い出した!!
-Action Spéciale
+Special Action
 "Dash"
-apprise !
+learned!
 $E=====2744=====
 //ダッシュは高速で移動(いどう)
 //するための太陽魔法だ
-Dash est une magie solaire qui
-permet de se déplacer rapidement.
+Dash is Solar Magic that
+lets you move quickly.
 $E=====2745=====
 //太陽ゲージがゼロでは使うこと
 //ができないが、
-Tu ne peux pas l'utiliser si le
-jauge solaire est à zéro,
+You can't use it if the
+Solar Gauge is at zero,
 $E=====2746=====
 //太陽ゲージの値が高いほど、よ
 //り速く移動することができる
-mais plus elle est haute, plus
-tu peux te déplacer vite.
+but the higher it goes, the
+faster you can move.
 $E=====2747=====
 //ただし、ダッシュ中は通常の2
 //倍ダメージを受けるので注意が
 //必要だ
-Mais fais attention, car en
-mode dash, tu subis le double
-des dégâts habituellement.
+But be careful, since you
+usually take twice as much
+damage when dashing.
 $E=====2748=====
 //ダッシュを行うにはクイックチ
 //ェンジで(<WEIGHT>SELECTボタン</WEIGHT>を押し
 //ながら<WEIGHT>Ｌボタン</WEIGHT>を押して)、
-Pour sélectionner Dash avec
-Quick Change, tiens <WEIGHT>SELECT</WEIGHT> et
-appuie sur le <WEIGHT>L Button</WEIGHT>.
+To select Dash using Quick
+Change, hold <WEIGHT>SELECT</WEIGHT> and
+press the <WEIGHT>L Button</WEIGHT>.
 $E=====2749=====
 //スペシャルアクションにダッシ
 //ュを選んだ状態(じょうたい)で
 //<WEIGHT>Ｌボタン</WEIGHT>を押(お)せばいい
-Quand Dash est sélectionné comme
-Action Spéciale, appuie sur le
-<WEIGHT>L Button</WEIGHT> pour l'utiliser.
+With Dash selected as your
+Special Action, press the
+<WEIGHT>L Button</WEIGHT> to use it.
 $E=====2750=====
 <PROC=0>
 <END>
 $E=====2751=====
 //<LABEL=SHAIAN>長髪(ちょうはつ)の男</LABEL>
 //「思い出したか、<NAME>?
-<LABEL=SHAIAN>Homme aux Cheveux Longs</LABEL>:
-"Te souviens-tu,
+<LABEL=SHAIAN>Long-Haired Man</LABEL>:
+"Have you remembered,
 <NAME>?
 $E=====2752=====
 //わたしは風の戦士、シャイアン
-Je suis le Guerrier du Vent,
+I'm the Wind Warrior,
 Cheyenne.
 $E=====2753=====
 //このサン・ミゲルを守る太陽の
 //4士族・・・
 //その最後の生きのこりだ
-Je suis le Gardien de San Miguel
-et le dernier survivant des
-quatre classes de Guerriers Solaire.
+I'm the Guard of San Miguel
+and last survivor of the
+four Sun Warrior classes.
 $E=====2754=====
 //そしてこの店は武器屋(ぶきや)
-Et ce magasin est une armurerie.
+This is the Weapon Shop.
 $E=====2755=====
 //今はまだ、品ぞろえも少ないが
 //・・・
-Pour l'instant, je n'ai pas
-beaucoup de stock...
+I don't have much in stock
+yet...
 $E=====2756=====
 //おまえが太陽鍛冶(たいようか
 //じ)で新しいソードを作り出せ
 //ば、
-mais si tu arrives à forger une
-nouvelle épée avec SOLARSMITH,
+but if you make a new sword
+with SOLARSMITH,
 $E=====2757=====
 //それを量産して、店頭にならべ
 //ることもできよう
-je pourrais la produire en masse
-et l'exposer en magasin.
+I'll be able to mass-
+produce it and put it on
+sale.
 $E=====2758=====
 //鍛冶(かじ)についてのくわしい
 //話は、スミスに聞いてくれ
-Pour plus d'informations sur la
-forge, parle à Smith.
+If you want to learn more
+about forging, talk to
+Smith.
 $E=====2759=====
 //何はともあれ・・・
 //またいそがしくなりそうだな」
-En tout cas... on dirait que les
-affaires vont bientôt reprendre,
-non ?"
+In any case... I've got a
+feeling that business will
+pick up again soon, right?"
 $E=====2760=====
 <PROC=0>
 <END>
@@ -9773,25 +9839,26 @@ $E=====2761=====
 //ついにやったようだな?
 <LABEL=SHAIAN>Cheyenne</LABEL>:
 "Yo, <NAME>!
-Alors tu l'as finalement fait, hein ?
+So you finally did it, huh?
 $E=====2762=====
 //あの闘技場(とうぎじょう)のプ
 //ラチナクラスをクリアするとは
-Tu as réussi le niveau Platine
-de l'Arène.
+You cleared Platinum class
+in the Arena.
 $E=====2763=====
 //さすがは太陽少年といったとこ
 //ろか・・・
-Félicitations, Garçon Solaire...
+You have my congratulations,
+Solar Boy...
 $E=====2764=====
 //いや、おまえにはそれ以上の何
 //かがある
-en fait, j'ai autre chose à te
-donner.
+actually, there's something
+else I can give you.
 $E=====2765=====
 //ともあれ、これを受け取ってく
 //れ!」
-En tout cas, prends-le !"
+In any case, take it!"
 $E=====2766=====
 <PROC=0>
 <END>
@@ -9799,9 +9866,9 @@ $E=====2767=====
 //称号
 //「グラディエーター」
 //を手に入れた!!<LOCK=176>
-Titre
-"Gladiateur"
-obtenu !<LOCK=176>
+Title
+"Gladiator"
+obtained!<LOCK=176>
 $E=====2768=====
 <PROC=0>
 <END>
@@ -9814,19 +9881,19 @@ $E=====2770=====
 //今のわたしには、シルバーの壁
 //(かべ)さえもこえることができ
 //ないが、
-Je ne peux même pas franchir le
-mur d'argent dans mon état actuel,
+I can't even pass the Silver
+wall in my current state,
 $E=====2771=====
 //いつかまた、おまえとも剣(つ
 //るぎ)を交えてみたいものだ
-mais j'aimerais tout de même
-croiser le fer avec toi à nouveau
-un de ces jours.
+but I'd still like to try
+crossing swords with you
+again some time.
 $E=====2772=====
 //これも、哀(かな)しき戦士の性
 //(さが)だな・・・」
-C'est la nature malheureuse du
-guerrier..."
+That's a warrior's
+unforunate nature..."
 $E=====2773=====
 <PROC=0>
 <END>
@@ -9835,30 +9902,30 @@ $E=====2774=====
 //「いいところに来たな、
 //<NAME>・・・
 <LABEL=SHAIAN>Cheyenne</LABEL>:
-"Tu arrives au bon moment,
+"You came at a good time,
 <NAME>...
 $E=====2775=====
 //おまえが太陽鍛冶(たいようか
 //じ)で作り出すソードで、
-On dirait que tu as fabriqué
-toutes les épées avec SOLARSMITH...
+Looks like you've made every
+sword through SOLARSMITH...
 $E=====2776=====
 //スミスとわたしに量産できるも
 //のは、すべて出そろったような
 //のでな・・・
-dont Smith et moi sommes capables
-de reproduire.
+that Smith and I are capable
+of reproducing.
 $E=====2777=====
 //2人で、いつもとはちがうモノ
 //を作ってみたんだ
-Nous avons décidé d'essayer de
-faire quelque chose de différent
-de d'habitude.
+We decided to try and make
+something different than we
+usually do.
 $E=====2778=====
 //おまえの冒険(ぼうけん)に役立
 //つといいのだが・・・」
-Il a dit que cela pourrait être
-utile pour ta quête..."
+He said it might be useful
+on your quest..."
 $E=====2779=====
 <PROC=0>
 <END>
@@ -9866,9 +9933,9 @@ $E=====2780=====
 //バイクフロント
 //「クラッシャー」
 //を手に入れた!!<LOCK=176>
-Avant de Moto
+Bike Front
 "Crusher"
-obtenu !<LOCK=176>
+obtained!<LOCK=176>
 $E=====2781=====
 <PROC=0>
 <END>
@@ -9877,35 +9944,36 @@ $E=====2782=====
 //「クラッシャーの武器(ぶき)で
 //あるドリルは、
 <LABEL=SHAIAN>Cheyenne</LABEL>:
-"Le choix d'arme pour le Crusher
-est le foret.
+"Crusher's weapon of choice
+is the drill.
 $E=====2783=====
 //他のバイクフロントのウエポン
 //のように、
-Contrairement aux armes des autres
-avant de moto,
+Unlike the weapons on other
+bike fronts,
 $E=====2784=====
 //はなれた場所から障害物(しょ
 //うがいぶつ)や敵(てき)モンス
 //ターを、
-quand des obstacles ou des monstres
-ennemis sont à distance,
+when obstacles or enemy
+monsters are at a distance,
 $E=====2785=====
 //攻撃(こうげき)することはでき
 //ない
-il ne pourra pas les attaquer.
+it won't be able to attack
+them.
 $E=====2786=====
 //だが、その破壊力(はかいりょ
 //く)だけは保証(ほしょう)する
 //ぞ
-Cependant, nous garantissons sa
-capacité destructrice.
+However, we guarantee its
+destructive ability.
 $E=====2787=====
 //何といっても・・・
-Après tout...
+After all...
 $E=====2788=====
 //ドリルが2本だからな!!」
-il a 2 forets !"
+it has 2 drills!"
 $E=====2789=====
 <PROC=0>
 <END>
@@ -9914,8 +9982,8 @@ $E=====2790=====
 //「何にするんだ?」
 // <ALTER>買い物</ALTER>　<ALTER>話</ALTER>
 <LABEL=SHAIAN>Cheyenne</LABEL>:
-"Qu'est-ce que tu veux ?"
- <ALTER>Acheter</ALTER>  <ALTER>Parler</ALTER>
+"What do you want?"
+ <ALTER>Buy</ALTER>  <ALTER>Talk</ALTER>
 $E=====2791=====
 <PROC=0>
 <END>
@@ -9927,15 +9995,15 @@ $E=====2792=====
 $E=====2793=====
 //ここであつかっているソードは
 //並のものばかりだ
-Les épées disponibles ici
-sont de qualité moyenne.
+The swords available here
+are only of average quality.
 $E=====2794=====
 //より強力なソードがほしかった
 //ら、スミスのところで太陽鍛冶
 //(たいようかじ)をするといい」
-Si tu veux une épée plus puissante,
-tu devrais utiliser SOLARSMITH chez
-Smith."
+If you want a stronger one,
+you should use SOLARSMITH at
+Smith's place."
 $E=====2795=====
 <PROC=0>
 <END>
@@ -9948,15 +10016,16 @@ $E=====2797=====
 //ソードの買い取り価格(かかく)
 //は、そのソードがどれだけ強化
 //されているかによって変わる
-Le prix d'achat d'une épée
-peut varier selon sa durabilité.
+The selling price of a sword
+can vary depending on its
+durability.
 $E=====2798=====
 //ランクの高いソードや、SP(特
 //殊効果)の付いたソードは、高
 //値で買い取るぞ」
-Les épées de rang supérieur ou
-avec des effets SP seront également
-achetées à un meilleur prix."
+Swords that have a high rank
+or SP effects will also
+fetch a higher price."
 $E=====2799=====
 <PROC=0>
 <END>
@@ -9965,43 +10034,44 @@ $E=====2800=====
 //「あの伯爵(はくしゃく)がふた
 //たびよみがえったか・・・
 <LABEL=SHAIAN>Cheyenne</LABEL>:
-"Le Comte a donc été
-ressuscité à nouveau...
+"So the Count has been
+resurrected again...
 $E=====2801=====
 //かつてこの太陽の街をおそった
 //伯爵(はくしゃく)と、
-Il a autrefois attaqué cette
-Cité du Soleil,
+He once attacked this City
+of the Sun,
 $E=====2802=====
 //その下僕(げぼく)たるアンデッ
 //ドたち
-avec ses serviteurs non-morts.
+along with his undead
+servants.
 $E=====2803=====
 //やつらの手によって街は壊滅(
 //かいめつ)し、
-La ville a été détruite par
-leurs mains.
+The city was destroyed by
+their hands.
 $E=====2804=====
 //スミスは片目を、わたしは3人
 //の兄弟を、
-Smith a perdu un œil, j'ai perdu
-mes trois frères,
+Smith lost an eye, I lost my
+dear brothers,
 $E=====2805=====
 //そしておまえは・・・
 //父を失い、母をうばわれた
-et toi...
-Tu as perdu ta mère, Mani.
+and you...
+You lost your mother, Mani.
 $E=====2806=====
 //これ以上、やつらの犠牲者(ぎ
 //せいしゃ)をふやしてはならな
 //い!
-Nous ne pouvons pas laisser
-prendre plus de victimes !
+We can't let them take any
+more victims!
 $E=====2807=====
 //たのんだぞ、
 //太陽少年<NAME>!!」
-Nous comptons sur toi,
-Garçon Solaire <NAME>!"
+We're counting on you,
+Solar Boy <NAME>!"
 $E=====2808=====
 <PROC=0>
 <END>
@@ -10010,41 +10080,41 @@ $E=====2809=====
 //「ソードでの攻撃(こうげき)に
 //は3つのスタイルがある
 <LABEL=SHAIAN>Cheyenne</LABEL>:
-"Les épées ont 3 sortes de
-styles d'attaque :
+"Swords have 3 kinds of
+attack styles:
 $E=====2810=====
 //突(つ)きは、すばやい攻撃(こ
 //うげき)が可能(かのう)なスタ
 //イル、
-L'estoc, qui permet d'attaquer
-rapidement,
+The thrust, which allows you
+to attack quickly,
 $E=====2811=====
 //横斬(よこぎ)りは、広範囲(こ
 //うはんい)への攻撃(こうげき)
 //が可能(かのう)なスタイル、
-Le taillade horizontale, qui
-a une grande portée d'attaque,
+The horizontal slash, which
+has a wide range of attack,
 $E=====2812=====
 //縦斬(たてぎ)りは、最も強力な
 //攻撃(こうげき)が可能(かのう)
 //なスタイルだ
-Et la taillade verticale,
-qui est la plus puissante des
-trois.
+And the vertical slash,
+which is the strongest of
+the three.
 $E=====2813=====
 //攻撃(こうげき)がどのスタイル
 //になるかは、ソードごとに決ま
 //っている
-Le style d'attaque que vous
-pouvez utiliser varie selon
-l'épée.
+Which attack style you can
+use varies depending on the
+sword.
 $E=====2814=====
 //まずはいろいろなソードを使っ
 //てみて、それどれの特徴(とく
 //ちょう)を良く理解するんだ」
-Essayez de forger différents
-types d'épées pour comprendre
-leurs capacités respectives."
+Try forging different types
+of swords to figure out
+their respective abilities."
 $E=====2815=====
 <PROC=0>
 <END>
@@ -10052,47 +10122,49 @@ $E=====2816=====
 //<LABEL=SHAIAN>シャイアン</LABEL>
 //「あの日・・・
 <LABEL=SHAIAN>Cheyenne</LABEL>:
-"Ce jour-là...
+"That day...
 $E=====2817=====
 //伯爵(はくしゃく)の襲撃(しゅ
 //うげき)から人々を守り、
-trois des quatre frères Guerriers
-du Soleil ont perdu la vie,
+three of the four Sun
+Warrior brothers lost their
+lives,
 $E=====2818=====
 //命を落としていった太陽の4士
 //族、3人の兄弟たち・・・
-protégeant les gens de l'attaque
-du Comte.
+protecting the people from
+the Count's raid.
 $E=====2819=====
 //炎の戦士、マジックマスター
-Le Guerrier de Flamme,
+The Flame Warrior,
 Magic Master.
 $E=====2820=====
 //氷の戦士、アイテムマスター
-Le Guerrier de Glace,
+The Ice Warrior,
 Item Master.
 $E=====2821=====
 //大地の戦士、ビーストマスター
-Le Guerrier de la Terre,
+The Earth Warrior,
 Beast Master.
 $E=====2822=====
 //かれらの仇(かたき)をうちたい
 //のは山々だが・・・
-Ils ont emmené beaucoup de leurs
-ennemis avec eux...
+They took a great deal of
+their enemies with them...
 $E=====2823=====
 //わたしには、かれらから受けつ
 //いだ使命がある
-Ils m'ont donné une mission.
+They gave me a mission.
 $E=====2824=====
 //この太陽の街を守るという
 //が・・・
-Protéger cette Cité du Soleil...
+To protect this City of the
+Sun...
 $E=====2825=====
 //<NAME>、
 //やつの始末はまかせたぞ!!」
-Je compte sur toi pour t'occuper
-du reste,
+I'm counting on you to take
+care of the rest,
 <NAME>!"
 $E=====2826=====
 <PROC=0>
@@ -10101,40 +10173,41 @@ $E=====2827=====
 //<LABEL=SHAIAN>シャイアン</LABEL>
 //「ソードには、
 <LABEL=SHAIAN>Cheyenne</LABEL>:
-"Parmi les épées,
+"Among swords,
 $E=====2828=====
 //特徴(とくちょう)の異(こと)な
 //る5つの種類(タイプ)がある
-il y a 5 types généraux :
+there are 5 general types:
 $E=====2829=====
 //突(つ)きを得意とする直剣、
-les épées droites, bonnes pour
-les estocs,
+straight swords, good for
+thrusts,
 $E=====2830=====
 //縦斬(たてぎ)りを得意とする大
 //剣、
-les grandes épées, bonnes pour
-les coups verticaux,
+greatswords, good for
+vertical cuts,
 $E=====2831=====
 //突(つ)きと横斬(よこぎ)りをあ
 //わせ持つ曲刀、
-les sabres courbes, bons pour
-les estocs et les coups horizontaux,
+curved swords, good for both
+thrusts and horizontal cuts,
 $E=====2832=====
 //縦斬(たてぎ)りと横斬(よこぎ)
 //りをあわせ持つ長剣、
-les épées longues, bonnes pour
-les coups verticaux et horizontaux,
+longswords, good for both
+vertical and horizontal
+cuts,
 $E=====2833=====
 //そして万能タイプの刀だ
-et les katanas polyvalents.
+and all-purpose katanas.
 $E=====2834=====
 //それぞれの特徴(とくちょう)を
 //よく理解して、自分の好みに合
 //ったソードを使うといい」
-Connais bien leurs forces
-respectives, et utilise le type
-qui te convient le mieux."
+Know their respective
+strengths well, and use the
+type that best fits you."
 $E=====2835=====
 <PROC=0>
 <END>
@@ -10143,24 +10216,24 @@ $E=====2836=====
 //「ついに伯爵(はくしゃく)をた
 //おしたようだな
 <LABEL=SHAIAN>Cheyenne</LABEL>:
-"Tu as donc finalement vaincu le
-Comte, hein ?
+"So you finally defeated the
+Count, huh?
 $E=====2837=====
 //だがやつはヴァンパイア・ロー
 //ド・・・
-Mais c'est le Seigneur Vampire...
+But he's the Vampire Lord...
 $E=====2838=====
 //いずれまた、その姿(すがた)を
 //現す日が来るのかもしれん
-le jour viendra peut-être où il
-réapparaîtra.
+the day may come when he
+shows his face again.
 $E=====2839=====
 //この世紀末世界に生きるわれわ
 //れに、心安らぐ日は来るのだろ
 //うか・・・」
-Le jour viendra-t-il où tous les
-êtres de ce monde pourront vivre
-en paix, je me le demande..."
+Will the day come when all
+the beings in this world can
+live in peace, I wonder..."
 $E=====2840=====
 <PROC=0>
 <END>
@@ -10169,44 +10242,43 @@ $E=====2841=====
 //「ソードでの攻撃(こうげき)に
 //は、
 <LABEL=SHAIAN>Cheyenne</LABEL>:
-"Quand on attaque avec une
-épée,
+"When attacking with a
+sword,
 $E=====2842=====
 //<WEIGHT>Ｂボタン</WEIGHT>を連打することで発動
 //する連続攻撃(れんぞくこうげ
 //き)がある
-appuie rapidement sur le <WEIGHT>Bouton B</WEIGHT>
-pour effectuer des attaques en
-combinaison.
+press the <WEIGHT>B Button</WEIGHT> rapidly
+to perform combo attacks.
 $E=====2843=====
 //連続攻撃(れんぞくこうげき)の
 //性能(ランク)、
-Le nombre d'attaques successives
-que vous pouvez effectuer avec une
-épée
+The number of successive
+attacks you can perform with
+a sword
 $E=====2844=====
 //すなわち攻撃(こうげき)の組み
 //合わせと回数は、ソードごとに
 //決まっているが、
-dépend du rang de l'épée.
+depends on the sword's rank.
 $E=====2845=====
 //太陽鍛冶(たいようかじ)で強化
 //することで、
-Si vous renforcez une épée
-en utilisant SOLARSMITH,
+If you strengthen a sword
+using SOLARSMITH,
 $E=====2846=====
 //その性能(ランク)を、2段階(だ
 //んかい)までアップさせること
 //ができる
-vous pouvez augmenter son rang
-jusqu'à 2 fois.
+you can increase its rank up
+up to 2 times.
 $E=====2847=====
 //性能(ランク)がアップしたソー
 //ドは、名前の後ろに{II}、{III}と数
 //字が付くぞ」
-Quand une épée gagne en rang,
-une marque {II} ou {III} sera
-ajoutée à son nom."
+When a sword gains a rank,
+a {II} or {III} mark will be
+appended to its name."
 $E=====2848=====
 <PROC=0>
 <END>
@@ -10215,51 +10287,51 @@ $E=====2849=====
 //「おてんこさまとのトランス(
 //合身)、ソル<NAME>か
 <LABEL=SHAIAN>Cheyenne</LABEL>:
-"Sol <NAME>, une Transe
-avec Maître Otenko, hein ?
+"Sol <NAME>, a Trance
+with Master Otenko, huh?
 $E=====2850=====
 //われら太陽の4士族の祖先(そせ
 //ん)たちが残した伝承(でんしょ
 //う)にも、
-Même dans les légendes transmises
-par les ancêtres des 4 familles
-de Guerriers du Soleil,
+Even in legends passed down
+by the ancestors of the 4
+Sun Warrior families,
 $E=====2851=====
 //そのような存在(そんざい)は記
 //録されていない
-un tel entité n'a jamais été
-mentionnée.
+such an entity was never
+mentioned.
 $E=====2852=====
 //たしかに、強大な力を持つ闇の
 //一族(イモータル)と戦い続ける
 //には、必要な力なのかも知れん
-Sûrement, ce pouvoir pourrait être
-nécessaire pour continuer à
-combattre les puissants Immortels.
+Certainly, that power may be
+necessary to keep fighting
+the mighty Immortals.
 $E=====2853=====
 //だがその力は・・・
 //本当に人間ごときが手にして良
 //いものなのか?
-Mais ce pouvoir...
-est-il vraiment bon que des humains
-le possèdent ?
+But such power...
+is it really a good thing
+for humans to possess?
 $E=====2854=====
 //いや、かつてはその身に受けた
 //ヴァンパイアの血でさえも克服
 //(こくふく)したおまえだ
-Non, tu as même surmonté le sang
-de Vampire qui coulait autrefois
-dans tes veines.
+No, you even conquered the
+Vampire blood that once
+flowed through your body.
 $E=====2855=====
 //力の使い方をまちがえることな
 //ど、ないだろう
-Tu sais certainement comment utiliser
-le pouvoir de manière responsable.
+You definitely know how to
+use power responsibly.
 $E=====2856=====
 //信じているぞ、
 //太陽少年<NAME>!!」
-Je crois en toi,
-Garçon Solaire <NAME>!"
+I believe in you,
+Solar Boy <NAME>!"
 $E=====2857=====
 <PROC=0>
 <END>
@@ -10267,41 +10339,44 @@ $E=====2858=====
 //<LABEL=SHAIAN>シャイアン</LABEL>
 //「ソードのSP(特殊効果)は、
 <LABEL=SHAIAN>Cheyenne</LABEL>:
-"As-tu entendu parler des effets SP ?
+"Have you heard about SP
+effects?
 $E=====2859=====
 //マヒ、ふき飛ばしなど、さまざ
 //まだが、
-Il y a une variété d'effets, comme
-le poison et le recul.
+There are a variety of
+effects, such as poison and
+knockback.
 $E=====2860=====
 //いずれも、太陽鍛冶(たいよう
 //かじ)で強化することで初めて
 //付け加えることができる
-Ils peuvent être obtenus à la fois
-en fusionnant deux objets et en
-renforçant l'un d'eux.
+They can be obtained both
+when fusing two items and
+when reinforcing one.
 $E=====2861=====
 //SP(特殊効果)が付いたソードに
 //は、名前の後ろにSPが付くぞ
-Les épées avec des effets SP auront
-SP ajouté à leur nom.
+Swords with SP effects will
+have SP appended to their
+names.
 $E=====2862=====
 //また、SP(特殊効果)を付けるこ
 //とができるかどうかは、おまえ
 //の運しだいだが、
-Encore une fois, quelle que soit la
-manière dont vous obtenez les effets
-SP, cela dépend du hasard,
+Again, however you obtain SP
+effects, whether you get one
+is up to chance,
 $E=====2863=====
 //潜在能力(せんざいのうりょく)
 //の高いアクセサリーを使えば、
-mais si vous utilisez des accessoires
-avec un potentiel élevé,
+but if you use accessories
+with high potential,
 $E=====2864=====
 //その確率(かくりつ)を引き上げ
 //ることが可能(かのう)だ」
-il est possible d'augmenter les
-chances."
+it's possible to increase
+the odds."
 $E=====2865=====
 <PROC=0>
 <END>
@@ -10310,50 +10385,53 @@ $E=====2866=====
 //「われら太陽の4士族に伝わる
 //伝承(でんしょう)によると、
 <LABEL=SHAIAN>Cheyenne</LABEL>:
-Selon les légendes transmises par
-nos ancêtres,
+According to legends passed
+down by our ancestors,
 $E=====2867=====
 //一言に闇の一族(イモータル)と
 //いっても、
-bien que nous parlions simplement
-de la famille sombre comme les
-Immortels,
+although we refer to the
+dark family simply as
+Immortals,
 $E=====2868=====
 //その中にはさまざまな勢力(せ
 //いりょく)があるようだ
-il y a en réalité diverses puissances
-parmi eux.
+there are actually various
+powers among them.
 $E=====2869=====
 //伯爵(はくしゃく)を始めとする
 //夜の一族(ヴァンパイア)
-Les Vampires, la famille de la nuit
-commencée par le Comte,
+Vampires, the family of the
+night started by the Count,
 $E=====2870=====
 //かつての闇の王(キング・オブ
 //・イモータル)や、
-le Clan de la Mort,
+the Death Clan,
 $E=====2871=====
 //その後をついだ闇の女王(クイ
 //ーン)が属(ぞく)した死の一族
-associé au Roi des Immortels et plus
-tard à la Reine,
+associated with the King of
+Immortals and later the
+Queen,
 $E=====2872=====
 //このサン・ミゲルにおいて、終
 //末の獣(けもの)と共に封印(ふ
 //ういん)されていた、
-le Clan de l'Ombre, Black Dainn et ses
-soeurs,
+the Shadow Clan, Black Dainn
+and those sisters,
 $E=====2873=====
 //黒きダーインとその妹たち、影
 //(かげ)の一族・・・
-scellé avec la Bête de l'Apocalypse ici
-à San Miguel...
+sealed along with the
+Doomsday Beast here in
+San Miguel...
 $E=====2874=====
 //やつらの中にも、同族(どうぞ
 //く)への友愛はあったのだろう
 //か?」
-Ceux de la même clan auraient dû être
-amicaux entre eux, non ?"
+Those in the same clan
+should've been friendly to
+each other, right?""
 $E=====2875=====
 <PROC=0>
 <END>
@@ -10361,22 +10439,22 @@ $E=====2876=====
 //<LABEL=SHAIAN>シャイアン</LABEL>
 //「ソードのSP(特殊効果)には、
 <LABEL=SHAIAN>Cheyenne</LABEL>:
-"Avec les effets SP des épées,
+"With sword SP effects,
 $E=====2877=====
 //太陽銃(ガン・デル・ソル)のレ
 //ンズのように、
-comme avec les lentilles du pistolet
-solaire,
+just like with solar gun
+lenses,
 $E=====2878=====
 //攻撃(こうげき)に属性(ぞくせ
 //い)を付加するものもあるが、
-il y en a qui ajoutent un élément à
-vos attaques.
+there are ones that add an
+element to your attacks.
 $E=====2879=====
 //他のSP(特殊効果)とちがいエナ
 //ジーを消費し、
-Contrairement aux autres effets SP,
-ils consomment de l'énergie,
+Unlike other SP effects,
+they consume energy,
 $E=====2880=====
 //エナジーがなければ、効果(こ
 //うか)を発動しない
@@ -10605,7 +10683,7 @@ $E=====2929=====
 $E=====2930=====
 //<LABEL=OTENKO>おてんこさま</LABEL>
 //「<NAME>ーーーッ!!」
-<LABEL=OTENKO>Maître Otenko</LABEL>:
+<LABEL=OTENKO>Master Otenko</LABEL>:
 "<NAME>!!!"
 $E=====2931=====
 <PROC=0>
@@ -10615,21 +10693,22 @@ $E=====2932=====
 //「申しわけありません。
 //つい・・・」
 <PROC=7><LABEL=RITA>Lita</LABEL>:
-"Je suis tellement désolée !
-Je..."
+"I'm so sorry!
+I..."
 $E=====2933=====
 <PROC=0>
 <END>
 $E=====2934=====
 //<LABEL=OTENKO>おてんこさま</LABEL>
 //(何も言うな・・・
-<LABEL=OTENKO>Maître Otenko</LABEL>:
-(Ne dis rien...
+<LABEL=OTENKO>Master Otenko</LABEL>:
+(Don't say anything...
 $E=====2935=====
 //だまってたえるのも・・・
 //男のやさしさだぞ!!)
-Supporter en silence...
-c'est ainsi qu'un homme montre sa gentillesse !)
+Grin and bear it...
+that's how a man shows his
+kindness!)
 $E=====2936=====
 <PROC=0>
 <END>
@@ -10637,32 +10716,31 @@ $E=====2937=====
 //<PROC=3><LABEL=RITA>リタ</LABEL>
 //「この道具屋では、
 <PROC=3><LABEL=RITA>Lita</LABEL>
-"Dans cette Boutique d'Objets,
+"In this Item Shop,
 $E=====2938=====
 //太陽の果実を始めとする回復(
 //かいふく)アイテムや、
-nous vendons des objets de
-récupération, en commençant
-par le fruit solaire.
+we sell recovery items,
+starting with solar fruit.
 $E=====2939=====
 //さまざまな効果(こうか)で冒険
 //(ぼうけん)のお手伝いをする、
-Nous traitons également des
-objets de support,
+We also deal in support
+items,
 $E=====2940=====
 //サポートアイテムを取りあつか
 //っています
-avec divers effets pour vous
-aider dans votre quête.
+with various effects to help
+you on your quest.
 $E=====2941=====
 //何はともあれ・・・
-En tout cas...
+In any case...
 $E=====2942=====
 //<PROC=4>まずはこちらのアイテムで、ラ
 //イフを回復(かいふく)してくだ
 //さい!!」
-<PROC=4>utilisez ces objets pour
-récupérer votre santé !"
+<PROC=4>please use these items to
+recover your health!"
 $E=====2943=====
 <PROC=0>
 <END>
@@ -10670,23 +10748,23 @@ $E=====2944=====
 //<LABEL=RITA>リタ</LABEL>
 //「<NAME>さま・・・
 <LABEL=RITA>Lita</LABEL>:
-"Maître <NAME>...
+"Master <NAME>...
 $E=====2945=====
 //レベルが99になるまできたえ上
 //げるなんて、
-Vous vous êtes entraîné jusqu'à
-atteindre le niveau 99...
+You kept training until you
+got to level 99...
 $E=====2946=====
 //すごいです!!
-impressionnant !
+amazing!
 $E=====2947=====
 //<PROC=4>もはや歴戦の勇士ですね!
-<PROC=4>Vous êtes un guerrier
-vétéran maintenant, hein ?
+<PROC=4>You're a veteran warrior
+now, huh?
 $E=====2948=====
 //<PROC=3>そんな<NAME>さまには、この称号(しょうごう)を差し上げます!!」
-<PROC=3>Dans ce cas, je vous accorde
-ce titre, <NAME> !"
+<PROC=3>In that case, I bestow this
+title upon you, <NAME>!"
 $E=====2949=====
 <PROC=0>
 <END>
@@ -10694,9 +10772,9 @@ $E=====2950=====
 //称号
 //「アデプト」
 //を手に入れた!!<LOCK=176>
-Titre
+Title
 "Adept"
-obtenu !<LOCK=176>
+obtained!<LOCK=176>
 $E=====2951=====
 <PROC=0>
 <END>
@@ -10705,25 +10783,24 @@ $E=====2952=====
 //「力を持つ者にとって大切なこ
 //とは、
 <LABEL=RITA>Lita</LABEL>:
-"La chose importante quand on
-a du pouvoir...
+"The important thing about
+having power...
 $E=====2953=====
 //<PROC=2>その力をいかに使うか、そして
 //いかに使わないか、ということ
 //です
-<PROC=2>c'est comment vous l'utilisez,
-et comment vous choisissez de
-ne pas l'utiliser.
+<PROC=2>is how you use it, and how
+you choose not to use it.
 $E=====2954=====
 //アデプトとは道を極めし者のこ
 //と・・・
-Un Adept est quelqu'un qui a
-atteint le bout de son chemin...
+An Adept has made it to the
+end of his path...
 $E=====2955=====
 //<PROC=3>くれぐれも、道をふみ外さない
 //でくださいね」
-<PROC=3>Ne vous écartez jamais de ce
-chemin, d'accord ?"
+<PROC=3>Never stray from that path,
+okay?"
 $E=====2956=====
 <PROC=0>
 <END>
@@ -10731,9 +10808,8 @@ $E=====2957=====
 //<LABEL=RITA>リタ</LABEL>
 //「お買い物ですか?」
 <LABEL=RITA>Lita</LABEL>:
-"Vous venez acheter quelque
-chose ?"
- <ALTER>Acheter</ALTER>  <ALTER>Parler</ALTER>
+"Come to buy something?"
+ <ALTER>Buy</ALTER>  <ALTER>Talk</ALTER>
 $E=====2958=====
 <PROC=0>
 <END>
@@ -10741,16 +10817,16 @@ $E=====2959=====
 //<LABEL=RITA>リタ</LABEL>
 //「ありがとうございました!!
 <LABEL=RITA>Lita</LABEL>:
-"Merci beaucoup !
+"Thank you very much!
 $E=====2960=====
 //アイテムが必要なときには、い
 //つでもいらしてくださいね
-Quand vous avez besoin d'objets,
-vous pouvez toujours passer, d'accord ?
+Whenever you need items, you
+can always stop by, okay?
 $E=====2961=====
 //<PROC=8>いつも心に太陽を!」
-<PROC=8>Gardez toujours le Soleil dans
-votre cœur !"
+<PROC=8>Keep the Sun always in your
+heart!"
 $E=====2962=====
 <PROC=0>
 <END>
@@ -10758,16 +10834,16 @@ $E=====2963=====
 //<LABEL=RITA>リタ</LABEL>
 //「ありがとうございました!!
 <LABEL=RITA>Lita</LABEL>:
-"Merci beaucoup !
+"Thank you very much!
 $E=====2964=====
 //十分に準備(じゅんび)を整えて
 //お出かけくださいね
-Prenez toujours le temps de
-préparer avant de partir.
+Always take the time to
+prepare before heading out.
 $E=====2965=====
 //<PROC=8>いつも心に太陽を!」
-<PROC=8>Gardez toujours le soleil dans
-votre cœur !"
+<PROC=8>Keep the sun always in your
+heart!"
 $E=====2966=====
 <PROC=0>
 <END>
@@ -10775,30 +10851,30 @@ $E=====2967=====
 //<LABEL=RITA>リタ</LABEL>
 //「<NAME>さま!!
 <LABEL=RITA>Lita</LABEL>:
-"Maître <NAME>!
+"Master <NAME>!
 $E=====2968=====
 //???(ハテナ)さんから買い付け
 //ることのできるアイテムが、す
 //べてそろいました!
-Nous proposons maintenant tous les
-articles que ??? vend.
+We now offer all the items
+that ??? sells.
 $E=====2969=====
 //品切れになることはありません
 //から、これからもどんどん利用
 //してくださいね
-Nous ne serons jamais en rupture de
-stock, alors n'hésitez pas à vous
-en servir à l'avenir.
+We won't go out of stock, so
+you can use them freely from
+now on.
 $E=====2970=====
 //それから、こちらは買い付けた
 //アイテムといっしょに送られて
 //きたものなのですが・・・
-Au fait, ceci est arrivé avec
-l'envoi...
+By the way, this showed up
+along with the shipment...
 $E=====2971=====
 //<NAME>さまが注文されたんですか?」
-Est-ce que vous l'avez commandé,
-Maître <NAME> ?"
+Were you the one who ordered
+it, Master <NAME>?"
 $E=====2972=====
 <PROC=0>
 <END>
@@ -10806,9 +10882,9 @@ $E=====2973=====
 //バイクフロント
 //「フェアリーテイル」
 //を手に入れた!!<LOCK=176>
-Avant de Moto
-"Conte de Fées"
-obtenu !<LOCK=176>
+Bike Front
+"Fairy Tale"
+obtained!<LOCK=176>
 $E=====2974=====
 <PROC=0>
 <END>
@@ -10817,12 +10893,12 @@ $E=====2975=====
 //「そんなものを買われるなんて
 //・・・
 <LABEL=RITA>Lita</LABEL>:
-"Acheter quelque chose comme
-ça...
+"Buying something like
+that...
 $E=====2976=====
 //<NAME>さまもやっぱり、男の子なんですね{note}」
-vous êtes vraiment un garçon,
-Maître <NAME>.{note}"
+you're such a boy,
+Master <NAME>.{note}"
 $E=====2977=====
 <PROC=0>
 <END>
@@ -10831,23 +10907,23 @@ $E=====2978=====
 //「たとえ闇の一族(イモータル)
 //にあやつられようとも、
 <LABEL=RITA>Lita</LABEL>:
-"Même s'il est contrôlé par les
-Immortels,
+"Even though he's being
+controlled by the Immortals,
 $E=====2979=====
 //サバタさまは<NAME>さまのお兄さま
-Maître Sabata est votre grand
-frère !
+Master Sabata is your elder
+brother!
 $E=====2980=====
 //<PROC=5><NAME>さまをうらぎられるなんてことは・・・
-<PROC=5>Le trahir...
+<PROC=5>For him to betray you...
 $E=====2981=====
 //<PROC=6>絶対(ぜったい)にありません!!
-<PROC=6>Impossible !
+<PROC=6>There's just no way!
 $E=====2982=====
 //<NAME>さまも・・・
 //そう信じておいででしょう?」
-Vous aussi, vous croyez en lui,
-Maître <NAME> ?"
+Don't you believe in him
+too, Master <NAME>?"
 $E=====2983=====
 <PROC=9>
 <PROC=0>
@@ -10856,38 +10932,38 @@ $E=====2984=====
 //<LABEL=RITA>リタ</LABEL>
 //「ごぞんじですか?
 <LABEL=RITA>Lita</LABEL>:
-"Savez-vous ?
+"Have you heard?
 $E=====2985=====
 //太陽の果実などの生ものは、太
 //陽の光を浴びすぎると、くさっ
 //しまいます
-Les produits frais comme le fruit
-solaire pourrissent quand ils sont
-exposés à la lumière du soleil.
+Perishable goods like Solar
+fruit will rot when exposed
+to sunlight.
 $E=====2986=====
 //賞味期限はアイテムによってこ
 //となりますが、
-La durée de conservation varie
-selon le type d'article,
+The shelf life varies
+depending on the item type,
 $E=====2987=====
 //アイテムの名前の前に付いてい
 //る丸いマーク、ダメージメータ
 //ーの欠け具合が、
-mais vous pouvez toujours vérifier
-le nombre de tranches sur son
-compteur de dommages.
+but you can always check the
+number of slices on its
+damage meter.
 $E=====2988=====
 //そのアイテムの傷(いた)み具合
 //を表しているんです
-Ce marqueur rond à côté du nom de
-l'article indique quand il est
-proche de la pourriture.
+This round mark next to the
+item's name tells when the
+item is close to rotting.
 $E=====2989=====
 //ダメージメーターの確認(かく
 //にん)をおこたらないでくださ
 //いね」
-N'oubliez pas de surveiller le
-compteur de dommages, d'accord ?"
+Don't forget to keep an eye
+on the damage meter, okay?"
 $E=====2990=====
 <PROC=0>
 <END>
@@ -10897,27 +10973,27 @@ $E=====2991=====
 //アイテムは足りていますか?
 <LABEL=RITA>Lita</LABEL>:
 "<NAME>,
-avez-vous assez d'articles ?
+do you have enough items?
 $E=====2992=====
 //アイテムが必要なときには、い
 //つでもいらしてくださいね
-Quand vous aurez besoin d'articles,
-vous pouvez toujours passer,
-d'accord ?
+Whenever you need items,
+you can always stop by,
+okay?
 $E=====2993=====
 //<PROC=7>もちろん、そうでないときにも
 //・・・
-<PROC=7>bien sûr, même si vous n'en
-avez pas besoin...
+<PROC=7>of course, even if you don't
+need any...
 $E=====2994=====
 //<PROC=3>い、いえ!
 //何でもありません!!
-<PROC=3>n-non !
-Ce n'est rien !
+<PROC=3>n-nothing!
+Never mind!
 $E=====2995=====
 //<PROC=8>いつも心に太陽を!」
-<PROC=8>Gardez toujours le Soleil dans
-votre cœur !"
+<PROC=8>Keep the Sun always in your
+heart!"
 $E=====2996=====
 <PROC=9>
 <PROC=0>
@@ -10926,18 +11002,19 @@ $E=====2997=====
 //<LABEL=RITA>リタ</LABEL>
 //「ごぞんじですか?
 <LABEL=RITA>Lita</LABEL>:
-"Savez-vous ?
+"Have you heard?
 $E=====2998=====
 //この店で売っているアイテムの
 //多くは、
-Il y a un aventurier, ???, qui
-voyage à travers plusieurs régions,
+There's an adventurer, ???,
+who travels around several
+areas,
 $E=====2999=====
 //冒険家(ぼうけんか)の???(ハテ
 //ナ)さんが、各地を回って買い
 //付けてくれているんです
-achetant beaucoup des produits que
-nous vendons ici.
+buying many of the goods we
+sell here.
 $E=====3000=====
 //もし、冒険(ぼうけん)の途中で
 //お会いになった???(ハテナ)さ
@@ -13584,7 +13661,7 @@ $E=====3511=====
 //<LABEL=LADY>ミステリアスな女性</LABEL>
 //「ありがとう、クロちゃん
 <LABEL=LADY>Mysterious Woman</LABEL>:
-"Thank you, Nero,
+"Thank you, Kuro,
 $E=====3512=====
 //でもあなたには、大切なお仕事
 //があるでしょ?
@@ -13601,7 +13678,7 @@ $E=====3514=====
 $E=====3515=====
 //<LABEL=KURO>クロ</LABEL>
 //「ミャ!」
-<LABEL=KURO>Nero</LABEL>:
+<LABEL=KURO>Kuro</LABEL>:
 "Meow!"
 $E=====3516=====
 <PROC=0>
@@ -16140,7 +16217,7 @@ adventuring?
 $E=====4007=====
 //それじゃあ、おるすばんはスミ
 //レとクロちゃんがするからね
-Then me an' Nero will keep
+Then me an' Kuro will keep
 taking care of your house.
 $E=====4008=====
 //そうこをつかいたいときは、い
@@ -16432,7 +16509,7 @@ $E=====4073=====
 //スミレもクロちゃんとがっしん
 //したーい!!」
 Lucky...
-I wanna combine with Nero!"
+I wanna combine with Kuro!"
 $E=====4074=====
 <PROC=0>
 <END>
@@ -16829,7 +16906,7 @@ $E=====4157=====
 $E=====4158=====
 //<LABEL=COFFIN>棺桶屋(かんおけや)</LABEL>
 //「出来たぞ!!」
-<LABEL=COFFIN>Coffin Shopkeeper</LABEL>:
+<LABEL=COFFIN>Coffin Shipkeeper</LABEL>:
 "It's ready!"
 $E=====4159=====
 <PROC=0>
@@ -17213,7 +17290,7 @@ $E=====4231=====
 //「クロちゃんったら、あいかわ
 //らずねてばっかりなの
 <LABEL=SUMIRE>Violet</LABEL>:
-"All Nero ever does is
+"All Kuro ever does is
 sleep,
 $E=====4232=====
 //おきたとおもったら、すぐにど
@@ -17231,7 +17308,7 @@ $E=====4234=====
 $E=====4235=====
 //<LABEL=KURO>クロ</LABEL>
 //「ミャア」
-<LABEL=KURO>Nero</LABEL>:
+<LABEL=KURO>Kuro</LABEL>:
 "Meow."
 $E=====4236=====
 //<LABEL=SUMIRE>スミレ</LABEL>
@@ -17250,7 +17327,7 @@ $E=====4239=====
 $E=====4240=====
 //<LABEL=KURO>クロ</LABEL>
 //「ミャア?
-<LABEL=KURO>Nero</LABEL>:
+<LABEL=KURO>Kuro</LABEL>:
 "Meow?
 $E=====4241=====
 //・・・
@@ -17277,7 +17354,7 @@ $E=====4246=====
 $E=====4247=====
 //<LABEL=KURO>クロ</LABEL>
 //「ミャア」
-<LABEL=KURO>Nero</LABEL>:
+<LABEL=KURO>Kuro</LABEL>:
 "Meow."
 $E=====4248=====
 <PROC=0>
@@ -17285,7 +17362,7 @@ $E=====4248=====
 $E=====4249=====
 //<LABEL=KURO>クロ</LABEL>
 //「ミャア?」
-<LABEL=KURO>Nero</LABEL>:
+<LABEL=KURO>Kuro</LABEL>:
 "Meow?"
 $E=====4250=====
 <PROC=0>
@@ -17293,7 +17370,7 @@ $E=====4250=====
 $E=====4251=====
 //<LABEL=KURO>クロ</LABEL>
 //「ミャア」
-<LABEL=KURO>Nero</LABEL>:
+<LABEL=KURO>Kuro</LABEL>:
 "Meow."
 $E=====4252=====
 <PROC=0>
@@ -17301,7 +17378,7 @@ $E=====4252=====
 $E=====4253=====
 //<LABEL=KURO>クロ</LABEL>
 //「ミャア?
-<LABEL=KURO>Nero</LABEL>:
+<LABEL=KURO>Kuro</LABEL>:
 "Meow?"
 $E=====4254=====
 <PROC=0>
@@ -17309,7 +17386,7 @@ $E=====4254=====
 $E=====4255=====
 //<LABEL=KURO>クロ</LABEL>
 //「ミャア」
-<LABEL=KURO>Nero</LABEL>:
+<LABEL=KURO>Kuro</LABEL>:
 "Meow."
 $E=====4256=====
 <PROC=0>
@@ -17317,7 +17394,7 @@ $E=====4256=====
 $E=====4257=====
 //<LABEL=KURO>クロ</LABEL>
 //「ミャア?」
-<LABEL=KURO>Nero</LABEL>:
+<LABEL=KURO>Kuro</LABEL>:
 "Meow?"
 $E=====4258=====
 <PROC=0>
@@ -17325,7 +17402,7 @@ $E=====4258=====
 $E=====4259=====
 //<LABEL=KURO>クロ</LABEL>
 //「ミャア」
-<LABEL=KURO>Nero</LABEL>:
+<LABEL=KURO>Kuro</LABEL>:
 "Meow."
 $E=====4260=====
 <PROC=0>
@@ -17333,7 +17410,7 @@ $E=====4260=====
 $E=====4261=====
 //<LABEL=KURO>クロ</LABEL>
 //「ミャア?」
-<LABEL=KURO>Nero</LABEL>:
+<LABEL=KURO>Kuro</LABEL>:
 "Meow?"
 $E=====4262=====
 <PROC=0>
@@ -17341,7 +17418,7 @@ $E=====4262=====
 $E=====4263=====
 //<LABEL=KURO>クロ</LABEL>
 //「ミャア」
-<LABEL=KURO>Nero</LABEL>:
+<LABEL=KURO>Kuro</LABEL>:
 "Meow."
 $E=====4264=====
 <PROC=0>
@@ -17349,7 +17426,7 @@ $E=====4264=====
 $E=====4265=====
 //<LABEL=KURO>クロ</LABEL>
 //「ミャア?」
-<LABEL=KURO>Nero</LABEL>:
+<LABEL=KURO>Kuro</LABEL>:
 "Meow?"
 $E=====4266=====
 <PROC=0>
@@ -17357,7 +17434,7 @@ $E=====4266=====
 $E=====4267=====
 //<LABEL=KURO>クロ</LABEL>
 //「ミャア」
-<LABEL=KURO>Nero</LABEL>:
+<LABEL=KURO>Kuro</LABEL>:
 "Meow."
 $E=====4268=====
 <PROC=0>
@@ -17365,7 +17442,7 @@ $E=====4268=====
 $E=====4269=====
 //<LABEL=KURO>クロ</LABEL>
 //「ミャア?」
-<LABEL=KURO>Nero</LABEL>:
+<LABEL=KURO>Kuro</LABEL>:
 "Meow?"
 $E=====4270=====
 <PROC=0>
@@ -17373,7 +17450,7 @@ $E=====4270=====
 $E=====4271=====
 //<LABEL=KURO>クロ</LABEL>
 //「ミャア・・・」
-<LABEL=KURO>Nero</LABEL>:
+<LABEL=KURO>Kuro</LABEL>:
 "Meow..."
 $E=====4272=====
 <PROC=0>
